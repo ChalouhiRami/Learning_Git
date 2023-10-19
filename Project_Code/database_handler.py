@@ -41,4 +41,32 @@ def create_connection(config_file):
 
 def close_connection(db_session):
     db_session.close()
+def execute_query(config_file, sql_query):
     
+    connection = create_connection(config_file)
+
+    if connection is not None:
+        try:
+             
+            cursor = connection.cursor()
+ 
+            cursor.execute(sql_query)
+
+            
+            result = cursor.fetchall()
+            return result
+
+        except Exception as error:
+             
+            prefix = lookups.ErrorHandling.DB_QUERY_ERROR.value
+            suffix = str(error)
+            error_handler.print_error(suffix, prefix)
+            log_error(f'An error occurred: {str(error)}')
+
+        finally:
+         
+            cursor.close()
+            connection.close()
+    else:
+         
+        print(" Errror , Cannot execute query.")
