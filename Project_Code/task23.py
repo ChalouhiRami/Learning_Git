@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import requests
 
+# use return_data_as_dataframe from the database handler
 def read_data(file_path, file_type):
     supported_file_types = ['csv', 'excel', 'json', 'api']
 
@@ -27,6 +28,10 @@ def read_data(file_path, file_type):
 
     return data
 
+
+# return insert_statement_from_dataframe
+
+# we should create a dynamic generator of the insert statement from the dataframes
 def storing_data(data, config_file):
     db_session = create_connection(config_file)
     cursor = db_session.cursor() 

@@ -1,9 +1,9 @@
 from enum import Enum
 
-Csv = 'CSV'
-Xlsx = 'xlsx'
 class FileType(Enum):
-    CSV = 'CSV'
+    CSV = 'csv'
+    EXCEL = 'excel'
+    SQL = 'postgreSQL'
     
 class ErrorHandling(Enum):
     DB_CONNECTION_ERROR = "Failed to connect to database (database_handler.py)"

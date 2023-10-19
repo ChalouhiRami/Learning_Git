@@ -3,7 +3,7 @@ import error_handler
 from database_handler import create_connection
 from logging_handler import log_error
 
-
+# fix this shit.
 def execute_query(config_file, sql_query):
     
     connection = create_connection(config_file)

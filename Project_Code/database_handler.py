@@ -37,3 +37,8 @@ def create_connection(config_file):
 
     finally:
         return db_session
+
+
+def close_connection(db_session):
+    db_session.close()
+    
