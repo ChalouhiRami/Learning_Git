@@ -1,0 +1,5 @@
+2023-10-12 09:08:34,855 - natural_disasters_analysis - DEBUG - Debug message: This is for detailed debugging.
+2023-10-12 09:08:34,857 - natural_disasters_analysis - INFO - Info message: This is for general information.
+2023-10-12 09:08:34,858 - natural_disasters_analysis - WARNING - Warning message: This is a warning about potential issues.
+2023-10-12 09:08:34,859 - natural_disasters_analysis - ERROR - Error message: An error occurred in the program.
+2023-10-12 09:08:34,860 - natural_disasters_analysis - CRITICAL - Critical message: This is a critical issue that requires immediate attention.
