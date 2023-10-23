@@ -1,0 +1,15 @@
+{
+    "db_host" : "localhost",
+    "db_name" : "Pluto",
+    "db_user" : "postgres",
+    "db_pass" : "f111111h",
+    "port_id" : "5433",
+
+
+    "access_to_water": "C:/USJ/OneDrive - University of Saint Joseph/courses/semestre 5/project_dataanalysis/data/data_to_work_on/acces_to_water_per_country_2000_2020.csv",
+    "temp_per_city": "C:/USJ/OneDrive - University of Saint Joseph/courses/semestre 5/project_dataanalysis/data/data_to_work_on/avg_temperature_per_city.csv",
+    "density_per_city": "C:/USJ/OneDrive - University of Saint Joseph/courses/semestre 5/project_dataanalysis/data/data_to_work_on/density_per_city.csv",
+    "gdp_per_country": "C:/USJ/OneDrive - University of Saint Joseph/courses/semestre 5/project_dataanalysis/data/data_to_work_on/gdp_per_country.csv",
+    "population_per_country": "C:/USJ/OneDrive - University of Saint Joseph/courses/semestre 5/project_dataanalysis/data/data_to_work_on/population_per_country.csv",
+    "api_key": "your_api_key_here"
+}

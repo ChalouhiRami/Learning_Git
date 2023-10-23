@@ -1,0 +1,23 @@
+-create staging table ---> etl watermark enabled
+yaane neftah postgreql ykoun fi stagin tables maa etl watermark
+
+-create connection types
+
+-return data as df
+it takes 3 parameters: 
+file.path
+file.type----csv-excel-json-api
+db-session
+return data as an object
+
+-pandas-transformation-->one file that has multiple functions that removes duplicates, remove nulls,....
+
+--------------------------------------------------------------------------
+remarks:
+
+all my csvs i name them:
+stage-source-filename
+
+example:
+
+stage-kaggle-covid
