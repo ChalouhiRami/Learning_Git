@@ -1,7 +1,0 @@
-create identify more data related to the companies:
-gdp of each country
-population per city in countries
-density of cities
-average temperature per country
-healthcare facilities per country/city
-averaage distance of urban life from forests per country
