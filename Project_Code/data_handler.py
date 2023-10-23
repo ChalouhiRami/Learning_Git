@@ -22,8 +22,7 @@ def read_data_as_dataframe(file_type, file_config, db_session = None):
 
 
 # you need to be able to create a new function
-# it would return the create statementf rom a dataframe
-
+# it would return the create statementf from a dataframe
 # create a function
 # it would return the insert statement from a dataframe.
 def return_create_statement_from_df(dataframe, schema_name, table_name):
@@ -43,3 +42,30 @@ def return_create_statement_from_df(dataframe, schema_name, table_name):
     create_table_statement += ',\n'.join(fields)
     create_table_statement += ");"
     return create_table_statement
+
+def return_insert_statement_from_df (dataframe, schema_name, table_name):
+    columns = ', '.join(dataframe.columns)
+    insert_statements = []
+
+    for index, row in dataframe.iterrows():
+        values_list = []
+        for val in row.values:
+            val_type = str(type(val))
+            if val_type == lookups.HandledType.TIMESTAMP.value:
+                values_list.append(str(val))
+            elif val_type == lookups.HandledType.STRING.value:
+                values_list.append(f"'{val}'")
+            elif val_type == lookups.HandledType.LIST.value:
+                val_item = ';'.join(val)
+                values_list.append(f"'{val_item}'")
+            else:
+                values_list.append(str(val))
+
+        values = ', '.join(values_list)
+        insert_statement = f"INSERT INTO {schema_name.value}.{table_name} ({columns}) VALUES ({values});"
+        insert_statements.append(insert_statement)
+
+    return insert_statements
+ 
+ 
+   
