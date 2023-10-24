@@ -1,8 +1,7 @@
 import psycopg2
 import lookups
-import error_handler
 import filehandler
-from logging_handler import log_error
+from error_handler import log_error, print_error_console
 
 
 def create_connection(config_file):
@@ -32,7 +31,7 @@ def create_connection(config_file):
     except Exception as error:
         prefix = lookups.ErrorHandling.DB_CONNECTION_ERROR.value
         suffix = str(error)
-        error_handler.print_error(suffix, prefix)
+        print_error_console(suffix, prefix)
         log_error(f'An error occurred: {str(error)}')
 
     finally:
@@ -41,32 +40,19 @@ def create_connection(config_file):
 
 def close_connection(db_session):
     db_session.close()
-def execute_query(config_file, sql_query):
-    
-    connection = create_connection(config_file)
 
-    if connection is not None:
+
+def execute_query(db_session, sql_query):
+    if db_session is not None:
+        cursor = db_session.cursor()
         try:
-             
-            cursor = connection.cursor()
- 
             cursor.execute(sql_query)
-
-            
-            result = cursor.fetchall()
-            return result
-
+            # Handle the result if needed
         except Exception as error:
-             
-            prefix = lookups.ErrorHandling.DB_QUERY_ERROR.value
+            prefix = lookups.ErrorHandling.DB_CONNECTION_ERROR.value
             suffix = str(error)
-            error_handler.print_error(suffix, prefix)
+            print_error_console(suffix, prefix)
             log_error(f'An error occurred: {str(error)}')
-
-        finally:
          
-            cursor.close()
-            connection.close()
     else:
-         
-        print(" Errror , Cannot execute query.")
+        print("Error, cannot execute query.")

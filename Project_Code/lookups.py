@@ -10,3 +10,8 @@ class ErrorHandling(Enum):
 
 class FilterFields(Enum):
     RENTAL_RATE = 'rental_rate'
+
+class HandledType(Enum):
+    TIMESTAMP = "timestamp"
+    STRING = "string"
+    LIST = "list"
