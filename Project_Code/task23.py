@@ -2,11 +2,10 @@ from database_handler import create_connection
 import json
 import pandas as pd
 import requests
+from error_handler import log_error, print_error_console
 import lookups
-import error_handler
-from logging_handler import log_error
 
-# use return_data_as_dataframe from the database handler
+
 def read_data_as_dataframe(file_type, file_config, db_session = None):
     try:
         if file_type == lookups.FileType.CSV:
@@ -18,10 +17,9 @@ def read_data_as_dataframe(file_type, file_config, db_session = None):
     except Exception as error:
         prefix = lookups.ErrorHandling.Data_handler_error.value
         suffix = str(error)
-        error_handler.print_error(suffix,prefix)
+        print_error_console(suffix,prefix)
         log_error(f'An error occurred: {str(error)}')
         return None
-
 
 # return insert_statement_from_dataframe
 def insert_statements(Df, table_name, schema_name ):
@@ -43,8 +41,6 @@ def insert_statements(Df, table_name, schema_name ):
         values = ', '.join(values_list)
         insert_statement = f"INSERT INTO {schema_name}.{table_name} ({columns}) VALUES ({values});"
         print(insert_statement)
-
-   
 
 
 
