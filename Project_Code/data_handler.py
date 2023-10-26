@@ -24,7 +24,7 @@ def read_data_as_dataframe(file_type, file_config, db_session = None):
 # it would return the create statementf from a dataframe
 # create a function
 # it would return the insert statement from a dataframe.
-def return_create_and_ex_statement_from_df(dataframe, schema_name, table_name, db_session): # i added db_session
+def return_create_statement_from_df(dataframe, schema_name, table_name): # i added db_session
     type_mapping = {
         'int64':'INT',
         'float64':'FLOAT',
