@@ -1,16 +1,24 @@
 import database_handler
 import data_handler
 import lookups
+import os 
+import glob 
 
 def execute_prehook_statements(db_session):
-    # read SQL files inside the folder
-    sql_files = []
-    for sql_file in sql_files:
-        if sql_file.split('_')[1] == 'prehook':
-            query = None
-            # read content of the file
-            database_handler.execute_query(db_session, query)
+    sql_files = glob.glob("**/*.sql")
 
+    for sql_file in sql_files:
+         
+        file_name = sql_file.split("\\")[-1]
+         
+        if "_prehook" in file_name:
+            query = None
+            print(file_name)   
+            
+            with open(sql_file, "r") as f:
+                query = f.read()
+            database_handler.execute_query(db_session, query)
+            db_session.commit()
 
 def generate_list_of_csv_sources():
     csv_list = []

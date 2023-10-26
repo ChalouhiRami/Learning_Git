@@ -6790,3 +6790,7 @@ LINE 1: ..._Population_Percentage) VALUES (172, ESH, Western Sahara, El...
 
 2023-10-24 12:20:08,584 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
 
+2023-10-26 15:57:47,648 - ERROR - An error occurred: syntax error at or near "PRIMARY"
+LINE 3:     ID PRIMARY SERIAL NOT NULL,
+               ^
+
