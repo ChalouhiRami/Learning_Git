@@ -7,13 +7,13 @@ from database_handler import execute_query
 def read_data_as_dataframe(file_type, file_config, db_session = None):
     try:
         if file_type == lookups.FileType.CSV:
-            return pd.read_csv(file_config)
+            return pd.read_csv(file_config,low_memory=False)
         elif file_type == lookups.FileType.EXCEL:
             return pd.read_excel(file_config)
         elif file_type == lookups.FileType.SQL:
             return pd.read_sql(file_config, db_session)
     except Exception as error:
-        prefix = lookups.ErrorHandling.Data_handler_error.value
+        prefix = lookups.ErrorHandling.DB_CONNECTION_ERROR.value
         suffix = str(error)
         print_error_console(suffix,prefix)
         log_error(f'An error occurred: {str(error)}')
