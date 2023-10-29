@@ -6794,3 +6794,128 @@ LINE 1: ..._Population_Percentage) VALUES (172, ESH, Western Sahara, El...
 LINE 3:     ID PRIMARY SERIAL NOT NULL,
                ^
 
+2023-10-28 22:17:56,536 - ERROR - An error occurred: syntax error at or near "%"
+LINE 6: %_pop_without_water FLOAT);
+        ^
+
+2023-10-28 22:18:00,781 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:18:01,210 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:18:01,259 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 3: Country Name TEXT,
+                     ^
+
+2023-10-28 22:18:01,278 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 4: Disaster Subgroup TEXT,
+                          ^
+
+2023-10-28 22:18:01,287 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:19:51,687 - ERROR - An error occurred: column "id" specified more than once
+
+2023-10-28 22:19:51,727 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 3: Country Name TEXT,
+                     ^
+
+2023-10-28 22:19:51,742 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 4: Disaster Subgroup TEXT,
+                          ^
+
+2023-10-28 22:19:51,751 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:28:03,383 - ERROR - An error occurred: column "id" specified more than once
+
+2023-10-28 22:28:03,417 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 3: Country Name TEXT,
+                     ^
+
+2023-10-28 22:28:03,432 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 4: Disaster Subgroup TEXT,
+                          ^
+
+2023-10-28 22:28:03,444 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:31:50,027 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 3: Country Name TEXT,
+                     ^
+
+2023-10-28 22:31:50,043 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 4: Disaster Subgroup TEXT,
+                          ^
+
+2023-10-28 22:31:50,051 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:36:01,445 - ERROR - An error occurred: syntax error at or near "TEXT"
+LINE 4: Disaster Subgroup TEXT,
+                          ^
+
+2023-10-28 22:36:01,453 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:37:33,562 - ERROR - An error occurred: syntax error at or near ":"
+LINE 9: Unnamed: 6 FLOAT,
+               ^
+
+2023-10-28 22:37:33,571 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:39:55,919 - ERROR - An error occurred: syntax error at or near ":"
+LINE 9: Unnamed: 6 FLOAT,
+               ^
+
+2023-10-28 22:39:55,929 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:42:01,060 - ERROR - An error occurred: syntax error at or near ":"
+LINE 9: Unnamed: 6 FLOAT,
+               ^
+
+2023-10-28 22:42:01,067 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:45:02,640 - ERROR - An error occurred: syntax error at or near ":"
+LINE 9: Unnamed: 6 FLOAT,
+               ^
+
+2023-10-28 22:45:02,648 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:46:33,364 - ERROR - An error occurred: syntax error at or near "undernourishment"
+LINE 10: Prevalence of undernourishment (percentage of population) FL...
+                       ^
+
+2023-10-28 22:46:33,374 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:48:14,301 - ERROR - An error occurred: syntax error at or near "undernourishment_percentage"
+LINE 10: Prevalence of undernourishment_percentage of population FLOA...
+                       ^
+
+2023-10-28 22:48:14,309 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:49:09,666 - ERROR - An error occurred: syntax error at or near ":"
+LINE 11: Unnamed: 8 FLOAT,
+                ^
+
+2023-10-28 22:49:09,675 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:58:07,028 - ERROR - An error occurred: syntax error at or near ":"
+LINE 11: Unnamed: 8 FLOAT,
+                ^
+
+2023-10-28 22:58:07,040 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 22:58:34,054 - ERROR - An error occurred: syntax error at or near ":"
+LINE 11: Unnamed: 8 FLOAT,
+                ^
+
+2023-10-28 22:58:34,062 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 23:01:52,558 - ERROR - An error occurred: syntax error at or near ":"
+LINE 10: Unnamed: 7 FLOAT,
+                ^
+
+2023-10-28 23:01:52,566 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 23:11:36,929 - ERROR - An error occurred: syntax error at or near ":"
+LINE 10: Unnamed: 7 FLOAT,
+                ^
+
+2023-10-28 23:11:36,937 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
+
+2023-10-28 23:31:08,329 - ERROR - An error occurred: 'utf-8' codec can't decode byte 0xfc in position 1663: invalid start byte

@@ -1,0 +1,3155 @@
+﻿Year,Disaster_Subgroup,Disaster_Type,Disaster_Subtype,country,Code,Prevalence_of_undernourishment_percentage_of_population
+2001,Famine,Famine,Famine,Afghanistan,AFG,47.79999924
+2002,Famine,Famine,Famine,Afghanistan,AFG,45.59999847
+2003,Famine,Famine,Famine,Afghanistan,AFG,40.59999847
+2004,Famine,Famine,Famine,Afghanistan,AFG,38
+2005,Famine,Famine,Famine,Afghanistan,AFG,36.09999847
+2006,Famine,Famine,Famine,Afghanistan,AFG,33.29999924
+2007,Famine,Famine,Famine,Afghanistan,AFG,29.79999924
+2008,Famine,Famine,Famine,Afghanistan,AFG,26.5
+2009,Famine,Famine,Famine,Afghanistan,AFG,24.39999962
+2010,Famine,Famine,Famine,Afghanistan,AFG,23.70000076
+2011,Famine,Famine,Famine,Afghanistan,AFG,24.70000076
+2012,Famine,Famine,Famine,Afghanistan,AFG,28.20000076
+2013,Famine,Famine,Famine,Afghanistan,AFG,26.29999924
+2014,Famine,Famine,Famine,Afghanistan,AFG,24.20000076
+2015,Famine,Famine,Famine,Afghanistan,AFG,21.5
+2016,Famine,Famine,Famine,Afghanistan,AFG,22.20000076
+2017,Famine,Famine,Famine,Afghanistan,AFG,23
+2018,Famine,Famine,Famine,Afghanistan,AFG,23.39999962
+2019,Famine,Famine,Famine,Afghanistan,AFG,25.60000038
+2001,Famine,Famine,Famine,Albania,ALB,4.900000095
+2002,Famine,Famine,Famine,Albania,ALB,6.099999905
+2003,Famine,Famine,Famine,Albania,ALB,7.5
+2004,Famine,Famine,Famine,Albania,ALB,8.600000381
+2005,Famine,Famine,Famine,Albania,ALB,8.899999619
+2006,Famine,Famine,Famine,Albania,ALB,8.800000191
+2007,Famine,Famine,Famine,Albania,ALB,8.300000191
+2008,Famine,Famine,Famine,Albania,ALB,7.300000191
+2009,Famine,Famine,Famine,Albania,ALB,5.900000095
+2010,Famine,Famine,Famine,Albania,ALB,4.900000095
+2011,Famine,Famine,Famine,Albania,ALB,4.099999905
+2012,Famine,Famine,Famine,Albania,ALB,3.5
+2013,Famine,Famine,Famine,Albania,ALB,3.900000095
+2014,Famine,Famine,Famine,Albania,ALB,4.400000095
+2015,Famine,Famine,Famine,Albania,ALB,4.699999809
+2016,Famine,Famine,Famine,Albania,ALB,4.300000191
+2017,Famine,Famine,Famine,Albania,ALB,4.099999905
+2018,Famine,Famine,Famine,Albania,ALB,4
+2019,Famine,Famine,Famine,Albania,ALB,3.900000095
+2001,Famine,Famine,Famine,Algeria,DZA,8
+2002,Famine,Famine,Famine,Algeria,DZA,7.300000191
+2003,Famine,Famine,Famine,Algeria,DZA,7
+2004,Famine,Famine,Famine,Algeria,DZA,7
+2005,Famine,Famine,Famine,Algeria,DZA,6.699999809
+2006,Famine,Famine,Famine,Algeria,DZA,6.400000095
+2007,Famine,Famine,Famine,Algeria,DZA,5.900000095
+2008,Famine,Famine,Famine,Algeria,DZA,5.599999905
+2009,Famine,Famine,Famine,Algeria,DZA,5.300000191
+2010,Famine,Famine,Famine,Algeria,DZA,4.599999905
+2011,Famine,Famine,Famine,Algeria,DZA,4
+2012,Famine,Famine,Famine,Algeria,DZA,3.299999952
+2013,Famine,Famine,Famine,Algeria,DZA,3.099999905
+2014,Famine,Famine,Famine,Algeria,DZA,2.900000095
+2015,Famine,Famine,Famine,Algeria,DZA,2.799999952
+2016,Famine,Famine,Famine,Algeria,DZA,2.799999952
+2017,Famine,Famine,Famine,Algeria,DZA,2.700000048
+2018,Famine,Famine,Famine,Algeria,DZA,2.5
+2019,Famine,Famine,Famine,Algeria,DZA,2.5
+2001,Famine,Famine,Famine,Angola,AGO,67.5
+2002,Famine,Famine,Famine,Angola,AGO,63.20000076
+2003,Famine,Famine,Famine,Angola,AGO,58.70000076
+2004,Famine,Famine,Famine,Angola,AGO,55.09999847
+2005,Famine,Famine,Famine,Angola,AGO,52.20000076
+2006,Famine,Famine,Famine,Angola,AGO,49.29999924
+2007,Famine,Famine,Famine,Angola,AGO,46.09999847
+2008,Famine,Famine,Famine,Angola,AGO,42.90000153
+2009,Famine,Famine,Famine,Angola,AGO,33.20000076
+2010,Famine,Famine,Famine,Angola,AGO,24.39999962
+2011,Famine,Famine,Famine,Angola,AGO,17.20000076
+2012,Famine,Famine,Famine,Angola,AGO,16.29999924
+2013,Famine,Famine,Famine,Angola,AGO,15
+2014,Famine,Famine,Famine,Angola,AGO,14.19999981
+2015,Famine,Famine,Famine,Angola,AGO,14.5
+2016,Famine,Famine,Famine,Angola,AGO,15.39999962
+2017,Famine,Famine,Famine,Angola,AGO,15.39999962
+2018,Famine,Famine,Famine,Angola,AGO,15.5
+2019,Famine,Famine,Famine,Angola,AGO,17.29999924
+2001,Famine,Famine,Famine,Argentina,ARG,3
+2002,Famine,Famine,Famine,Argentina,ARG,3.799999952
+2003,Famine,Famine,Famine,Argentina,ARG,4.5
+2004,Famine,Famine,Famine,Argentina,ARG,4
+2005,Famine,Famine,Famine,Argentina,ARG,3.700000048
+2006,Famine,Famine,Famine,Argentina,ARG,3.400000095
+2007,Famine,Famine,Famine,Argentina,ARG,3.299999952
+2008,Famine,Famine,Famine,Argentina,ARG,3.299999952
+2009,Famine,Famine,Famine,Argentina,ARG,3.299999952
+2010,Famine,Famine,Famine,Argentina,ARG,3.400000095
+2011,Famine,Famine,Famine,Argentina,ARG,3.299999952
+2012,Famine,Famine,Famine,Argentina,ARG,3.099999905
+2013,Famine,Famine,Famine,Argentina,ARG,2.799999952
+2014,Famine,Famine,Famine,Argentina,ARG,2.5
+2015,Famine,Famine,Famine,Argentina,ARG,2.5
+2016,Famine,Famine,Famine,Argentina,ARG,2.599999905
+2017,Famine,Famine,Famine,Argentina,ARG,3.099999905
+2018,Famine,Famine,Famine,Argentina,ARG,3.5
+2019,Famine,Famine,Famine,Argentina,ARG,3.900000095
+2001,Famine,Famine,Famine,Armenia,ARM,26.10000038
+2002,Famine,Famine,Famine,Armenia,ARM,24.5
+2003,Famine,Famine,Famine,Armenia,ARM,21.10000038
+2004,Famine,Famine,Famine,Armenia,ARM,16
+2005,Famine,Famine,Famine,Armenia,ARM,12.30000019
+2006,Famine,Famine,Famine,Armenia,ARM,9.300000191
+2007,Famine,Famine,Famine,Armenia,ARM,6.900000095
+2008,Famine,Famine,Famine,Armenia,ARM,5.599999905
+2009,Famine,Famine,Famine,Armenia,ARM,4.599999905
+2010,Famine,Famine,Famine,Armenia,ARM,4.300000191
+2011,Famine,Famine,Famine,Armenia,ARM,4
+2012,Famine,Famine,Famine,Armenia,ARM,3.599999905
+2013,Famine,Famine,Famine,Armenia,ARM,3.299999952
+2014,Famine,Famine,Famine,Armenia,ARM,2.900000095
+2015,Famine,Famine,Famine,Armenia,ARM,2.799999952
+2016,Famine,Famine,Famine,Armenia,ARM,2.799999952
+2017,Famine,Famine,Famine,Armenia,ARM,3.099999905
+2018,Famine,Famine,Famine,Armenia,ARM,3.200000048
+2019,Famine,Famine,Famine,Armenia,ARM,3.400000095
+2001,Famine,Famine,Famine,Australia,AUS,2.5
+2002,Famine,Famine,Famine,Australia,AUS,2.5
+2003,Famine,Famine,Famine,Australia,AUS,2.5
+2004,Famine,Famine,Famine,Australia,AUS,2.5
+2005,Famine,Famine,Famine,Australia,AUS,2.5
+2006,Famine,Famine,Famine,Australia,AUS,2.5
+2007,Famine,Famine,Famine,Australia,AUS,2.5
+2008,Famine,Famine,Famine,Australia,AUS,2.5
+2009,Famine,Famine,Famine,Australia,AUS,2.5
+2010,Famine,Famine,Famine,Australia,AUS,2.5
+2011,Famine,Famine,Famine,Australia,AUS,2.5
+2012,Famine,Famine,Famine,Australia,AUS,2.5
+2013,Famine,Famine,Famine,Australia,AUS,2.5
+2014,Famine,Famine,Famine,Australia,AUS,2.5
+2015,Famine,Famine,Famine,Australia,AUS,2.5
+2016,Famine,Famine,Famine,Australia,AUS,2.5
+2017,Famine,Famine,Famine,Australia,AUS,2.5
+2018,Famine,Famine,Famine,Australia,AUS,2.5
+2019,Famine,Famine,Famine,Australia,AUS,2.5
+2001,Famine,Famine,Famine,Austria,AUT,2.5
+2002,Famine,Famine,Famine,Austria,AUT,2.5
+2003,Famine,Famine,Famine,Austria,AUT,2.5
+2004,Famine,Famine,Famine,Austria,AUT,2.5
+2005,Famine,Famine,Famine,Austria,AUT,2.5
+2006,Famine,Famine,Famine,Austria,AUT,2.5
+2007,Famine,Famine,Famine,Austria,AUT,2.5
+2008,Famine,Famine,Famine,Austria,AUT,2.5
+2009,Famine,Famine,Famine,Austria,AUT,2.5
+2010,Famine,Famine,Famine,Austria,AUT,2.5
+2011,Famine,Famine,Famine,Austria,AUT,2.5
+2012,Famine,Famine,Famine,Austria,AUT,2.5
+2013,Famine,Famine,Famine,Austria,AUT,2.5
+2014,Famine,Famine,Famine,Austria,AUT,2.5
+2015,Famine,Famine,Famine,Austria,AUT,2.5
+2016,Famine,Famine,Famine,Austria,AUT,2.5
+2017,Famine,Famine,Famine,Austria,AUT,2.5
+2018,Famine,Famine,Famine,Austria,AUT,2.5
+2019,Famine,Famine,Famine,Austria,AUT,2.5
+2001,Famine,Famine,Famine,Azerbaijan,AZE,17
+2002,Famine,Famine,Famine,Azerbaijan,AZE,13.39999962
+2003,Famine,Famine,Famine,Azerbaijan,AZE,10.39999962
+2004,Famine,Famine,Famine,Azerbaijan,AZE,7.400000095
+2005,Famine,Famine,Famine,Azerbaijan,AZE,4.800000191
+2006,Famine,Famine,Famine,Azerbaijan,AZE,2.799999952
+2007,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2008,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2009,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2010,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2011,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2012,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2013,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2014,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2015,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2016,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2017,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2018,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2019,Famine,Famine,Famine,Azerbaijan,AZE,2.5
+2001,Famine,Famine,Famine,Bangladesh,BGD,15.89999962
+2002,Famine,Famine,Famine,Bangladesh,BGD,15.10000038
+2003,Famine,Famine,Famine,Bangladesh,BGD,14.89999962
+2004,Famine,Famine,Famine,Bangladesh,BGD,14.39999962
+2005,Famine,Famine,Famine,Bangladesh,BGD,14.19999981
+2006,Famine,Famine,Famine,Bangladesh,BGD,13.80000019
+2007,Famine,Famine,Famine,Bangladesh,BGD,13.89999962
+2008,Famine,Famine,Famine,Bangladesh,BGD,13.60000038
+2009,Famine,Famine,Famine,Bangladesh,BGD,14.69999981
+2010,Famine,Famine,Famine,Bangladesh,BGD,15.19999981
+2011,Famine,Famine,Famine,Bangladesh,BGD,15.69999981
+2012,Famine,Famine,Famine,Bangladesh,BGD,15.5
+2013,Famine,Famine,Famine,Bangladesh,BGD,15.10000038
+2014,Famine,Famine,Famine,Bangladesh,BGD,14.19999981
+2015,Famine,Famine,Famine,Bangladesh,BGD,14
+2016,Famine,Famine,Famine,Bangladesh,BGD,13.30000019
+2017,Famine,Famine,Famine,Bangladesh,BGD,12.5
+2018,Famine,Famine,Famine,Bangladesh,BGD,10.80000019
+2019,Famine,Famine,Famine,Bangladesh,BGD,9.699999809
+2001,Famine,Famine,Famine,Barbados,BRB,6.400000095
+2002,Famine,Famine,Famine,Barbados,BRB,6.199999809
+2003,Famine,Famine,Famine,Barbados,BRB,6.699999809
+2004,Famine,Famine,Famine,Barbados,BRB,6.199999809
+2005,Famine,Famine,Famine,Barbados,BRB,6.099999905
+2006,Famine,Famine,Famine,Barbados,BRB,5.300000191
+2007,Famine,Famine,Famine,Barbados,BRB,5.300000191
+2008,Famine,Famine,Famine,Barbados,BRB,4.900000095
+2009,Famine,Famine,Famine,Barbados,BRB,4.800000191
+2010,Famine,Famine,Famine,Barbados,BRB,4.800000191
+2011,Famine,Famine,Famine,Barbados,BRB,4.699999809
+2012,Famine,Famine,Famine,Barbados,BRB,4.5
+2013,Famine,Famine,Famine,Barbados,BRB,4.400000095
+2014,Famine,Famine,Famine,Barbados,BRB,4.199999809
+2015,Famine,Famine,Famine,Barbados,BRB,4.300000191
+2016,Famine,Famine,Famine,Barbados,BRB,4.300000191
+2017,Famine,Famine,Famine,Barbados,BRB,4.300000191
+2018,Famine,Famine,Famine,Barbados,BRB,4.199999809
+2019,Famine,Famine,Famine,Barbados,BRB,4.099999905
+2001,Famine,Famine,Famine,Belarus,BLR,2.5
+2002,Famine,Famine,Famine,Belarus,BLR,2.700000048
+2003,Famine,Famine,Famine,Belarus,BLR,3.299999952
+2004,Famine,Famine,Famine,Belarus,BLR,3.299999952
+2005,Famine,Famine,Famine,Belarus,BLR,2.5
+2006,Famine,Famine,Famine,Belarus,BLR,2.5
+2007,Famine,Famine,Famine,Belarus,BLR,2.5
+2008,Famine,Famine,Famine,Belarus,BLR,2.5
+2009,Famine,Famine,Famine,Belarus,BLR,2.5
+2010,Famine,Famine,Famine,Belarus,BLR,2.5
+2011,Famine,Famine,Famine,Belarus,BLR,2.5
+2012,Famine,Famine,Famine,Belarus,BLR,2.5
+2013,Famine,Famine,Famine,Belarus,BLR,2.5
+2014,Famine,Famine,Famine,Belarus,BLR,2.5
+2015,Famine,Famine,Famine,Belarus,BLR,2.5
+2016,Famine,Famine,Famine,Belarus,BLR,2.5
+2017,Famine,Famine,Famine,Belarus,BLR,2.5
+2018,Famine,Famine,Famine,Belarus,BLR,2.5
+2019,Famine,Famine,Famine,Belarus,BLR,2.5
+2001,Famine,Famine,Famine,Belgium,BEL,2.5
+2002,Famine,Famine,Famine,Belgium,BEL,2.5
+2003,Famine,Famine,Famine,Belgium,BEL,2.5
+2004,Famine,Famine,Famine,Belgium,BEL,2.5
+2005,Famine,Famine,Famine,Belgium,BEL,2.5
+2006,Famine,Famine,Famine,Belgium,BEL,2.5
+2007,Famine,Famine,Famine,Belgium,BEL,2.5
+2008,Famine,Famine,Famine,Belgium,BEL,2.5
+2009,Famine,Famine,Famine,Belgium,BEL,2.5
+2010,Famine,Famine,Famine,Belgium,BEL,2.5
+2011,Famine,Famine,Famine,Belgium,BEL,2.5
+2012,Famine,Famine,Famine,Belgium,BEL,2.5
+2013,Famine,Famine,Famine,Belgium,BEL,2.5
+2014,Famine,Famine,Famine,Belgium,BEL,2.5
+2015,Famine,Famine,Famine,Belgium,BEL,2.5
+2016,Famine,Famine,Famine,Belgium,BEL,2.5
+2017,Famine,Famine,Famine,Belgium,BEL,2.5
+2018,Famine,Famine,Famine,Belgium,BEL,2.5
+2019,Famine,Famine,Famine,Belgium,BEL,2.5
+2001,Famine,Famine,Famine,Belize,BLZ,5.800000191
+2002,Famine,Famine,Famine,Belize,BLZ,5.400000095
+2003,Famine,Famine,Famine,Belize,BLZ,5.5
+2004,Famine,Famine,Famine,Belize,BLZ,5.5
+2005,Famine,Famine,Famine,Belize,BLZ,5.699999809
+2006,Famine,Famine,Famine,Belize,BLZ,5.800000191
+2007,Famine,Famine,Famine,Belize,BLZ,6.599999905
+2008,Famine,Famine,Famine,Belize,BLZ,7.099999905
+2009,Famine,Famine,Famine,Belize,BLZ,6.900000095
+2010,Famine,Famine,Famine,Belize,BLZ,6.800000191
+2011,Famine,Famine,Famine,Belize,BLZ,7.099999905
+2012,Famine,Famine,Famine,Belize,BLZ,7.800000191
+2013,Famine,Famine,Famine,Belize,BLZ,8.100000381
+2014,Famine,Famine,Famine,Belize,BLZ,7.800000191
+2015,Famine,Famine,Famine,Belize,BLZ,7.699999809
+2016,Famine,Famine,Famine,Belize,BLZ,7.199999809
+2017,Famine,Famine,Famine,Belize,BLZ,6.699999809
+2018,Famine,Famine,Famine,Belize,BLZ,6.199999809
+2019,Famine,Famine,Famine,Belize,BLZ,5.900000095
+2001,Famine,Famine,Famine,Benin,BEN,17.20000076
+2002,Famine,Famine,Famine,Benin,BEN,15.5
+2003,Famine,Famine,Famine,Benin,BEN,13.69999981
+2004,Famine,Famine,Famine,Benin,BEN,13.19999981
+2005,Famine,Famine,Famine,Benin,BEN,12
+2006,Famine,Famine,Famine,Benin,BEN,11
+2007,Famine,Famine,Famine,Benin,BEN,10.10000038
+2008,Famine,Famine,Famine,Benin,BEN,9
+2009,Famine,Famine,Famine,Benin,BEN,9.100000381
+2010,Famine,Famine,Famine,Benin,BEN,8.5
+2011,Famine,Famine,Famine,Benin,BEN,8.300000191
+2012,Famine,Famine,Famine,Benin,BEN,7.900000095
+2013,Famine,Famine,Famine,Benin,BEN,7.599999905
+2014,Famine,Famine,Famine,Benin,BEN,7.5
+2015,Famine,Famine,Famine,Benin,BEN,7.300000191
+2016,Famine,Famine,Famine,Benin,BEN,7.300000191
+2017,Famine,Famine,Famine,Benin,BEN,7.199999809
+2018,Famine,Famine,Famine,Benin,BEN,7.300000191
+2019,Famine,Famine,Famine,Benin,BEN,7.599999905
+2001,Famine,Famine,Famine,Bolivia,BOL,27.89999962
+2002,Famine,Famine,Famine,Bolivia,BOL,26.89999962
+2003,Famine,Famine,Famine,Bolivia,BOL,27.70000076
+2004,Famine,Famine,Famine,Bolivia,BOL,27.70000076
+2005,Famine,Famine,Famine,Bolivia,BOL,26.79999924
+2006,Famine,Famine,Famine,Bolivia,BOL,24.60000038
+2007,Famine,Famine,Famine,Bolivia,BOL,23.89999962
+2008,Famine,Famine,Famine,Bolivia,BOL,24.70000076
+2009,Famine,Famine,Famine,Bolivia,BOL,22.89999962
+2010,Famine,Famine,Famine,Bolivia,BOL,20.29999924
+2011,Famine,Famine,Famine,Bolivia,BOL,17.20000076
+2012,Famine,Famine,Famine,Bolivia,BOL,16.5
+2013,Famine,Famine,Famine,Bolivia,BOL,16.39999962
+2014,Famine,Famine,Famine,Bolivia,BOL,15.5
+2015,Famine,Famine,Famine,Bolivia,BOL,14.30000019
+2016,Famine,Famine,Famine,Bolivia,BOL,13.10000038
+2017,Famine,Famine,Famine,Bolivia,BOL,12.5
+2018,Famine,Famine,Famine,Bolivia,BOL,12.60000038
+2019,Famine,Famine,Famine,Bolivia,BOL,12.60000038
+2001,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,3.200000048
+2002,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,3
+2003,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.599999905
+2004,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2005,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2006,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2007,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2008,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2009,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2010,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2011,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2012,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2013,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2014,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2015,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2016,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2017,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2018,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2019,Famine,Famine,Famine,Bosnia and Herzegovina,BIH,2.5
+2001,Famine,Famine,Famine,Botswana,BWA,23.70000076
+2002,Famine,Famine,Famine,Botswana,BWA,24.10000038
+2003,Famine,Famine,Famine,Botswana,BWA,24.5
+2004,Famine,Famine,Famine,Botswana,BWA,24.20000076
+2005,Famine,Famine,Famine,Botswana,BWA,25.20000076
+2006,Famine,Famine,Famine,Botswana,BWA,27.5
+2007,Famine,Famine,Famine,Botswana,BWA,29.79999924
+2008,Famine,Famine,Famine,Botswana,BWA,30.89999962
+2009,Famine,Famine,Famine,Botswana,BWA,31.60000038
+2010,Famine,Famine,Famine,Botswana,BWA,31.5
+2011,Famine,Famine,Famine,Botswana,BWA,30.20000076
+2012,Famine,Famine,Famine,Botswana,BWA,29.70000076
+2013,Famine,Famine,Famine,Botswana,BWA,28
+2014,Famine,Famine,Famine,Botswana,BWA,27.29999924
+2015,Famine,Famine,Famine,Botswana,BWA,26.39999962
+2016,Famine,Famine,Famine,Botswana,BWA,27.70000076
+2017,Famine,Famine,Famine,Botswana,BWA,28.89999962
+2018,Famine,Famine,Famine,Botswana,BWA,29.5
+2019,Famine,Famine,Famine,Botswana,BWA,29.29999924
+2001,Famine,Famine,Famine,Brazil,BRA,10.69999981
+2002,Famine,Famine,Famine,Brazil,BRA,9.300000191
+2003,Famine,Famine,Famine,Brazil,BRA,7.900000095
+2004,Famine,Famine,Famine,Brazil,BRA,6.800000191
+2005,Famine,Famine,Famine,Brazil,BRA,6.5
+2006,Famine,Famine,Famine,Brazil,BRA,6.199999809
+2007,Famine,Famine,Famine,Brazil,BRA,5.599999905
+2008,Famine,Famine,Famine,Brazil,BRA,5.099999905
+2009,Famine,Famine,Famine,Brazil,BRA,4.400000095
+2010,Famine,Famine,Famine,Brazil,BRA,3.900000095
+2011,Famine,Famine,Famine,Brazil,BRA,3.400000095
+2012,Famine,Famine,Famine,Brazil,BRA,3.099999905
+2013,Famine,Famine,Famine,Brazil,BRA,2.799999952
+2014,Famine,Famine,Famine,Brazil,BRA,2.599999905
+2015,Famine,Famine,Famine,Brazil,BRA,2.5
+2016,Famine,Famine,Famine,Brazil,BRA,2.5
+2017,Famine,Famine,Famine,Brazil,BRA,2.5
+2018,Famine,Famine,Famine,Brazil,BRA,2.5
+2019,Famine,Famine,Famine,Brazil,BRA,2.5
+2001,Famine,Famine,Famine,Brunei,BRN,2.599999905
+2002,Famine,Famine,Famine,Brunei,BRN,2.5
+2003,Famine,Famine,Famine,Brunei,BRN,2.5
+2004,Famine,Famine,Famine,Brunei,BRN,2.5
+2005,Famine,Famine,Famine,Brunei,BRN,2.5
+2006,Famine,Famine,Famine,Brunei,BRN,2.5
+2007,Famine,Famine,Famine,Brunei,BRN,2.5
+2008,Famine,Famine,Famine,Brunei,BRN,2.5
+2009,Famine,Famine,Famine,Brunei,BRN,2.5
+2010,Famine,Famine,Famine,Brunei,BRN,2.5
+2011,Famine,Famine,Famine,Brunei,BRN,2.5
+2012,Famine,Famine,Famine,Brunei,BRN,2.5
+2013,Famine,Famine,Famine,Brunei,BRN,2.5
+2014,Famine,Famine,Famine,Brunei,BRN,2.5
+2015,Famine,Famine,Famine,Brunei,BRN,2.5
+2016,Famine,Famine,Famine,Brunei,BRN,2.5
+2017,Famine,Famine,Famine,Brunei,BRN,2.5
+2018,Famine,Famine,Famine,Brunei,BRN,2.5
+2019,Famine,Famine,Famine,Brunei,BRN,2.5
+2001,Famine,Famine,Famine,Bulgaria,BGR,4
+2002,Famine,Famine,Famine,Bulgaria,BGR,4.199999809
+2003,Famine,Famine,Famine,Bulgaria,BGR,4.5
+2004,Famine,Famine,Famine,Bulgaria,BGR,4.900000095
+2005,Famine,Famine,Famine,Bulgaria,BGR,4.900000095
+2006,Famine,Famine,Famine,Bulgaria,BGR,5.099999905
+2007,Famine,Famine,Famine,Bulgaria,BGR,4.599999905
+2008,Famine,Famine,Famine,Bulgaria,BGR,4.5
+2009,Famine,Famine,Famine,Bulgaria,BGR,4.300000191
+2010,Famine,Famine,Famine,Bulgaria,BGR,4.300000191
+2011,Famine,Famine,Famine,Bulgaria,BGR,4.300000191
+2012,Famine,Famine,Famine,Bulgaria,BGR,4
+2013,Famine,Famine,Famine,Bulgaria,BGR,3.400000095
+2014,Famine,Famine,Famine,Bulgaria,BGR,3.400000095
+2015,Famine,Famine,Famine,Bulgaria,BGR,3.400000095
+2016,Famine,Famine,Famine,Bulgaria,BGR,3.599999905
+2017,Famine,Famine,Famine,Bulgaria,BGR,3.099999905
+2018,Famine,Famine,Famine,Bulgaria,BGR,2.799999952
+2019,Famine,Famine,Famine,Bulgaria,BGR,3
+2001,Famine,Famine,Famine,Burkina Faso,BFA,22.60000038
+2002,Famine,Famine,Famine,Burkina Faso,BFA,20.5
+2003,Famine,Famine,Famine,Burkina Faso,BFA,18.60000038
+2004,Famine,Famine,Famine,Burkina Faso,BFA,18.10000038
+2005,Famine,Famine,Famine,Burkina Faso,BFA,17.5
+2006,Famine,Famine,Famine,Burkina Faso,BFA,17.10000038
+2007,Famine,Famine,Famine,Burkina Faso,BFA,16
+2008,Famine,Famine,Famine,Burkina Faso,BFA,15.39999962
+2009,Famine,Famine,Famine,Burkina Faso,BFA,14.30000019
+2010,Famine,Famine,Famine,Burkina Faso,BFA,13.69999981
+2011,Famine,Famine,Famine,Burkina Faso,BFA,13.10000038
+2012,Famine,Famine,Famine,Burkina Faso,BFA,12.69999981
+2013,Famine,Famine,Famine,Burkina Faso,BFA,12.19999981
+2014,Famine,Famine,Famine,Burkina Faso,BFA,12
+2015,Famine,Famine,Famine,Burkina Faso,BFA,12
+2016,Famine,Famine,Famine,Burkina Faso,BFA,12.30000019
+2017,Famine,Famine,Famine,Burkina Faso,BFA,12.39999962
+2018,Famine,Famine,Famine,Burkina Faso,BFA,12.69999981
+2019,Famine,Famine,Famine,Burkina Faso,BFA,14.39999962
+2001,Famine,Famine,Famine,Cambodia,KHM,23.60000038
+2002,Famine,Famine,Famine,Cambodia,KHM,21.20000076
+2003,Famine,Famine,Famine,Cambodia,KHM,19.39999962
+2004,Famine,Famine,Famine,Cambodia,KHM,18.5
+2005,Famine,Famine,Famine,Cambodia,KHM,17
+2006,Famine,Famine,Famine,Cambodia,KHM,15.60000038
+2007,Famine,Famine,Famine,Cambodia,KHM,14.80000019
+2008,Famine,Famine,Famine,Cambodia,KHM,14.5
+2009,Famine,Famine,Famine,Cambodia,KHM,13.89999962
+2010,Famine,Famine,Famine,Cambodia,KHM,13.30000019
+2011,Famine,Famine,Famine,Cambodia,KHM,12.69999981
+2012,Famine,Famine,Famine,Cambodia,KHM,12
+2013,Famine,Famine,Famine,Cambodia,KHM,10.80000019
+2014,Famine,Famine,Famine,Cambodia,KHM,9.600000381
+2015,Famine,Famine,Famine,Cambodia,KHM,8.899999619
+2016,Famine,Famine,Famine,Cambodia,KHM,8.5
+2017,Famine,Famine,Famine,Cambodia,KHM,7.699999809
+2018,Famine,Famine,Famine,Cambodia,KHM,6.800000191
+2019,Famine,Famine,Famine,Cambodia,KHM,6.199999809
+2001,Famine,Famine,Famine,Cameroon,CMR,22.89999962
+2002,Famine,Famine,Famine,Cameroon,CMR,20.70000076
+2003,Famine,Famine,Famine,Cameroon,CMR,19.29999924
+2004,Famine,Famine,Famine,Cameroon,CMR,17.60000038
+2005,Famine,Famine,Famine,Cameroon,CMR,15.89999962
+2006,Famine,Famine,Famine,Cameroon,CMR,14.10000038
+2007,Famine,Famine,Famine,Cameroon,CMR,12.60000038
+2008,Famine,Famine,Famine,Cameroon,CMR,11.19999981
+2009,Famine,Famine,Famine,Cameroon,CMR,9.100000381
+2010,Famine,Famine,Famine,Cameroon,CMR,7.599999905
+2011,Famine,Famine,Famine,Cameroon,CMR,6.199999809
+2012,Famine,Famine,Famine,Cameroon,CMR,5.800000191
+2013,Famine,Famine,Famine,Cameroon,CMR,5.599999905
+2014,Famine,Famine,Famine,Cameroon,CMR,5.5
+2015,Famine,Famine,Famine,Cameroon,CMR,5.400000095
+2016,Famine,Famine,Famine,Cameroon,CMR,5.5
+2017,Famine,Famine,Famine,Cameroon,CMR,5.599999905
+2018,Famine,Famine,Famine,Cameroon,CMR,5.599999905
+2019,Famine,Famine,Famine,Cameroon,CMR,5.300000191
+2001,Famine,Famine,Famine,Canada,CAN,2.5
+2002,Famine,Famine,Famine,Canada,CAN,2.5
+2003,Famine,Famine,Famine,Canada,CAN,2.5
+2004,Famine,Famine,Famine,Canada,CAN,2.5
+2005,Famine,Famine,Famine,Canada,CAN,2.5
+2006,Famine,Famine,Famine,Canada,CAN,2.5
+2007,Famine,Famine,Famine,Canada,CAN,2.5
+2008,Famine,Famine,Famine,Canada,CAN,2.5
+2009,Famine,Famine,Famine,Canada,CAN,2.5
+2010,Famine,Famine,Famine,Canada,CAN,2.5
+2011,Famine,Famine,Famine,Canada,CAN,2.5
+2012,Famine,Famine,Famine,Canada,CAN,2.5
+2013,Famine,Famine,Famine,Canada,CAN,2.5
+2014,Famine,Famine,Famine,Canada,CAN,2.5
+2015,Famine,Famine,Famine,Canada,CAN,2.5
+2016,Famine,Famine,Famine,Canada,CAN,2.5
+2017,Famine,Famine,Famine,Canada,CAN,2.5
+2018,Famine,Famine,Famine,Canada,CAN,2.5
+2019,Famine,Famine,Famine,Canada,CAN,2.5
+2001,Famine,Famine,Famine,Cape Verde,CPV,14.5
+2002,Famine,Famine,Famine,Cape Verde,CPV,14.39999962
+2003,Famine,Famine,Famine,Cape Verde,CPV,13.10000038
+2004,Famine,Famine,Famine,Cape Verde,CPV,11.30000019
+2005,Famine,Famine,Famine,Cape Verde,CPV,11
+2006,Famine,Famine,Famine,Cape Verde,CPV,11.39999962
+2007,Famine,Famine,Famine,Cape Verde,CPV,12.30000019
+2008,Famine,Famine,Famine,Cape Verde,CPV,13.10000038
+2009,Famine,Famine,Famine,Cape Verde,CPV,15
+2010,Famine,Famine,Famine,Cape Verde,CPV,15.80000019
+2011,Famine,Famine,Famine,Cape Verde,CPV,16.29999924
+2012,Famine,Famine,Famine,Cape Verde,CPV,16
+2013,Famine,Famine,Famine,Cape Verde,CPV,16
+2014,Famine,Famine,Famine,Cape Verde,CPV,16.39999962
+2015,Famine,Famine,Famine,Cape Verde,CPV,16.79999924
+2016,Famine,Famine,Famine,Cape Verde,CPV,17
+2017,Famine,Famine,Famine,Cape Verde,CPV,16.70000076
+2018,Famine,Famine,Famine,Cape Verde,CPV,16.20000076
+2019,Famine,Famine,Famine,Cape Verde,CPV,15.39999962
+2001,Famine,Famine,Famine,Central African Republic,CAF,39.20000076
+2002,Famine,Famine,Famine,Central African Republic,CAF,40.09999847
+2003,Famine,Famine,Famine,Central African Republic,CAF,40.59999847
+2004,Famine,Famine,Famine,Central African Republic,CAF,40.5
+2005,Famine,Famine,Famine,Central African Republic,CAF,39.59999847
+2006,Famine,Famine,Famine,Central African Republic,CAF,37.70000076
+2007,Famine,Famine,Famine,Central African Republic,CAF,35.70000076
+2008,Famine,Famine,Famine,Central African Republic,CAF,33.29999924
+2009,Famine,Famine,Famine,Central African Republic,CAF,31
+2010,Famine,Famine,Famine,Central African Republic,CAF,29.10000038
+2011,Famine,Famine,Famine,Central African Republic,CAF,28.10000038
+2012,Famine,Famine,Famine,Central African Republic,CAF,32.79999924
+2013,Famine,Famine,Famine,Central African Republic,CAF,40.29999924
+2014,Famine,Famine,Famine,Central African Republic,CAF,48.29999924
+2015,Famine,Famine,Famine,Central African Republic,CAF,49.90000153
+2016,Famine,Famine,Famine,Central African Republic,CAF,48.59999847
+2017,Famine,Famine,Famine,Central African Republic,CAF,46.09999847
+2018,Famine,Famine,Famine,Central African Republic,CAF,46.70000076
+2019,Famine,Famine,Famine,Central African Republic,CAF,48.20000076
+2001,Famine,Famine,Famine,Chad,TCD,38.79999924
+2002,Famine,Famine,Famine,Chad,TCD,37.59999847
+2003,Famine,Famine,Famine,Chad,TCD,38
+2004,Famine,Famine,Famine,Chad,TCD,37.09999847
+2005,Famine,Famine,Famine,Chad,TCD,37.79999924
+2006,Famine,Famine,Famine,Chad,TCD,38.40000153
+2007,Famine,Famine,Famine,Chad,TCD,39.20000076
+2008,Famine,Famine,Famine,Chad,TCD,40.09999847
+2009,Famine,Famine,Famine,Chad,TCD,38.40000153
+2010,Famine,Famine,Famine,Chad,TCD,36.29999924
+2011,Famine,Famine,Famine,Chad,TCD,33.59999847
+2012,Famine,Famine,Famine,Chad,TCD,33.59999847
+2013,Famine,Famine,Famine,Chad,TCD,31.29999924
+2014,Famine,Famine,Famine,Chad,TCD,29.89999962
+2015,Famine,Famine,Famine,Chad,TCD,28
+2016,Famine,Famine,Famine,Chad,TCD,28.5
+2017,Famine,Famine,Famine,Chad,TCD,29.10000038
+2018,Famine,Famine,Famine,Chad,TCD,30.39999962
+2019,Famine,Famine,Famine,Chad,TCD,31.70000076
+2001,Famine,Famine,Famine,Chile,CHL,3.400000095
+2002,Famine,Famine,Famine,Chile,CHL,3.200000048
+2003,Famine,Famine,Famine,Chile,CHL,3.200000048
+2004,Famine,Famine,Famine,Chile,CHL,3.200000048
+2005,Famine,Famine,Famine,Chile,CHL,3.099999905
+2006,Famine,Famine,Famine,Chile,CHL,3.099999905
+2007,Famine,Famine,Famine,Chile,CHL,3.099999905
+2008,Famine,Famine,Famine,Chile,CHL,3.400000095
+2009,Famine,Famine,Famine,Chile,CHL,3.599999905
+2010,Famine,Famine,Famine,Chile,CHL,3.599999905
+2011,Famine,Famine,Famine,Chile,CHL,3.400000095
+2012,Famine,Famine,Famine,Chile,CHL,3.200000048
+2013,Famine,Famine,Famine,Chile,CHL,3.099999905
+2014,Famine,Famine,Famine,Chile,CHL,3.099999905
+2015,Famine,Famine,Famine,Chile,CHL,3
+2016,Famine,Famine,Famine,Chile,CHL,3.099999905
+2017,Famine,Famine,Famine,Chile,CHL,3
+2018,Famine,Famine,Famine,Chile,CHL,3
+2019,Famine,Famine,Famine,Chile,CHL,3.400000095
+2001,Famine,Famine,Famine,China,CHN,10.10000038
+2002,Famine,Famine,Famine,China,CHN,9.5
+2003,Famine,Famine,Famine,China,CHN,8.800000191
+2004,Famine,Famine,Famine,China,CHN,8
+2005,Famine,Famine,Famine,China,CHN,7.099999905
+2006,Famine,Famine,Famine,China,CHN,6.099999905
+2007,Famine,Famine,Famine,China,CHN,5
+2008,Famine,Famine,Famine,China,CHN,4
+2009,Famine,Famine,Famine,China,CHN,2.799999952
+2010,Famine,Famine,Famine,China,CHN,2.5
+2011,Famine,Famine,Famine,China,CHN,2.5
+2012,Famine,Famine,Famine,China,CHN,2.5
+2013,Famine,Famine,Famine,China,CHN,2.5
+2014,Famine,Famine,Famine,China,CHN,2.5
+2015,Famine,Famine,Famine,China,CHN,2.5
+2016,Famine,Famine,Famine,China,CHN,2.5
+2017,Famine,Famine,Famine,China,CHN,2.5
+2018,Famine,Famine,Famine,China,CHN,2.5
+2019,Famine,Famine,Famine,China,CHN,2.5
+2001,Famine,Famine,Famine,Colombia,COL,8.699999809
+2002,Famine,Famine,Famine,Colombia,COL,9.100000381
+2003,Famine,Famine,Famine,Colombia,COL,9.800000191
+2004,Famine,Famine,Famine,Colombia,COL,10.60000038
+2005,Famine,Famine,Famine,Colombia,COL,11.19999981
+2006,Famine,Famine,Famine,Colombia,COL,11.39999962
+2007,Famine,Famine,Famine,Colombia,COL,11
+2008,Famine,Famine,Famine,Colombia,COL,11.30000019
+2009,Famine,Famine,Famine,Colombia,COL,12.19999981
+2010,Famine,Famine,Famine,Colombia,COL,13.10000038
+2011,Famine,Famine,Famine,Colombia,COL,12.10000038
+2012,Famine,Famine,Famine,Colombia,COL,10.10000038
+2013,Famine,Famine,Famine,Colombia,COL,8.100000381
+2014,Famine,Famine,Famine,Colombia,COL,7.099999905
+2015,Famine,Famine,Famine,Colombia,COL,6.5
+2016,Famine,Famine,Famine,Colombia,COL,6.800000191
+2017,Famine,Famine,Famine,Colombia,COL,7.099999905
+2018,Famine,Famine,Famine,Colombia,COL,7.900000095
+2019,Famine,Famine,Famine,Colombia,COL,8.800000191
+2001,Famine,Famine,Famine,Congo,COG,27
+2002,Famine,Famine,Famine,Congo,COG,26.39999962
+2003,Famine,Famine,Famine,Congo,COG,26.39999962
+2004,Famine,Famine,Famine,Congo,COG,31.70000076
+2005,Famine,Famine,Famine,Congo,COG,34
+2006,Famine,Famine,Famine,Congo,COG,36.59999847
+2007,Famine,Famine,Famine,Congo,COG,35.40000153
+2008,Famine,Famine,Famine,Congo,COG,35.5
+2009,Famine,Famine,Famine,Congo,COG,35.5
+2010,Famine,Famine,Famine,Congo,COG,36.5
+2011,Famine,Famine,Famine,Congo,COG,36
+2012,Famine,Famine,Famine,Congo,COG,33
+2013,Famine,Famine,Famine,Congo,COG,30.89999962
+2014,Famine,Famine,Famine,Congo,COG,31.10000038
+2015,Famine,Famine,Famine,Congo,COG,34.09999847
+2016,Famine,Famine,Famine,Congo,COG,34.59999847
+2017,Famine,Famine,Famine,Congo,COG,36
+2018,Famine,Famine,Famine,Congo,COG,36.79999924
+2019,Famine,Famine,Famine,Congo,COG,37.70000076
+2001,Famine,Famine,Famine,Costa Rica,CRI,4.699999809
+2002,Famine,Famine,Famine,Costa Rica,CRI,5
+2003,Famine,Famine,Famine,Costa Rica,CRI,5.199999809
+2004,Famine,Famine,Famine,Costa Rica,CRI,5
+2005,Famine,Famine,Famine,Costa Rica,CRI,4.400000095
+2006,Famine,Famine,Famine,Costa Rica,CRI,3.900000095
+2007,Famine,Famine,Famine,Costa Rica,CRI,3.799999952
+2008,Famine,Famine,Famine,Costa Rica,CRI,3.900000095
+2009,Famine,Famine,Famine,Costa Rica,CRI,4
+2010,Famine,Famine,Famine,Costa Rica,CRI,3.799999952
+2011,Famine,Famine,Famine,Costa Rica,CRI,3.799999952
+2012,Famine,Famine,Famine,Costa Rica,CRI,3.799999952
+2013,Famine,Famine,Famine,Costa Rica,CRI,4.099999905
+2014,Famine,Famine,Famine,Costa Rica,CRI,4.300000191
+2015,Famine,Famine,Famine,Costa Rica,CRI,4.099999905
+2016,Famine,Famine,Famine,Costa Rica,CRI,3.599999905
+2017,Famine,Famine,Famine,Costa Rica,CRI,3.099999905
+2018,Famine,Famine,Famine,Costa Rica,CRI,3
+2019,Famine,Famine,Famine,Costa Rica,CRI,3.099999905
+2001,Famine,Famine,Famine,Cote d'Ivoire,CIV,20.39999962
+2002,Famine,Famine,Famine,Cote d'Ivoire,CIV,21.29999924
+2003,Famine,Famine,Famine,Cote d'Ivoire,CIV,21.20000076
+2004,Famine,Famine,Famine,Cote d'Ivoire,CIV,20.60000038
+2005,Famine,Famine,Famine,Cote d'Ivoire,CIV,20.20000076
+2006,Famine,Famine,Famine,Cote d'Ivoire,CIV,20.20000076
+2007,Famine,Famine,Famine,Cote d'Ivoire,CIV,21.10000038
+2008,Famine,Famine,Famine,Cote d'Ivoire,CIV,22.10000038
+2009,Famine,Famine,Famine,Cote d'Ivoire,CIV,22.29999924
+2010,Famine,Famine,Famine,Cote d'Ivoire,CIV,22.29999924
+2011,Famine,Famine,Famine,Cote d'Ivoire,CIV,21.70000076
+2012,Famine,Famine,Famine,Cote d'Ivoire,CIV,21.89999962
+2013,Famine,Famine,Famine,Cote d'Ivoire,CIV,20.39999962
+2014,Famine,Famine,Famine,Cote d'Ivoire,CIV,18.60000038
+2015,Famine,Famine,Famine,Cote d'Ivoire,CIV,16.5
+2016,Famine,Famine,Famine,Cote d'Ivoire,CIV,15.5
+2017,Famine,Famine,Famine,Cote d'Ivoire,CIV,15
+2018,Famine,Famine,Famine,Cote d'Ivoire,CIV,14.89999962
+2019,Famine,Famine,Famine,Cote d'Ivoire,CIV,14.89999962
+2001,Famine,Famine,Famine,Croatia,HRV,6.800000191
+2002,Famine,Famine,Famine,Croatia,HRV,4.599999905
+2003,Famine,Famine,Famine,Croatia,HRV,3.700000048
+2004,Famine,Famine,Famine,Croatia,HRV,3.099999905
+2005,Famine,Famine,Famine,Croatia,HRV,2.5
+2006,Famine,Famine,Famine,Croatia,HRV,2.5
+2007,Famine,Famine,Famine,Croatia,HRV,2.5
+2008,Famine,Famine,Famine,Croatia,HRV,2.5
+2009,Famine,Famine,Famine,Croatia,HRV,2.5
+2010,Famine,Famine,Famine,Croatia,HRV,2.5
+2011,Famine,Famine,Famine,Croatia,HRV,2.5
+2012,Famine,Famine,Famine,Croatia,HRV,2.5
+2013,Famine,Famine,Famine,Croatia,HRV,2.5
+2014,Famine,Famine,Famine,Croatia,HRV,2.5
+2015,Famine,Famine,Famine,Croatia,HRV,2.5
+2016,Famine,Famine,Famine,Croatia,HRV,2.5
+2017,Famine,Famine,Famine,Croatia,HRV,2.5
+2018,Famine,Famine,Famine,Croatia,HRV,2.5
+2019,Famine,Famine,Famine,Croatia,HRV,2.5
+2001,Famine,Famine,Famine,Cuba,CUB,2.5
+2002,Famine,Famine,Famine,Cuba,CUB,2.5
+2003,Famine,Famine,Famine,Cuba,CUB,2.5
+2004,Famine,Famine,Famine,Cuba,CUB,2.5
+2005,Famine,Famine,Famine,Cuba,CUB,2.5
+2006,Famine,Famine,Famine,Cuba,CUB,2.5
+2007,Famine,Famine,Famine,Cuba,CUB,2.5
+2008,Famine,Famine,Famine,Cuba,CUB,2.5
+2009,Famine,Famine,Famine,Cuba,CUB,2.5
+2010,Famine,Famine,Famine,Cuba,CUB,2.5
+2011,Famine,Famine,Famine,Cuba,CUB,2.5
+2012,Famine,Famine,Famine,Cuba,CUB,2.5
+2013,Famine,Famine,Famine,Cuba,CUB,2.5
+2014,Famine,Famine,Famine,Cuba,CUB,2.5
+2015,Famine,Famine,Famine,Cuba,CUB,2.5
+2016,Famine,Famine,Famine,Cuba,CUB,2.5
+2017,Famine,Famine,Famine,Cuba,CUB,2.5
+2018,Famine,Famine,Famine,Cuba,CUB,2.5
+2019,Famine,Famine,Famine,Cuba,CUB,2.5
+2001,Famine,Famine,Famine,Cyprus,CYP,5.099999905
+2002,Famine,Famine,Famine,Cyprus,CYP,5.699999809
+2003,Famine,Famine,Famine,Cyprus,CYP,6.099999905
+2004,Famine,Famine,Famine,Cyprus,CYP,6.900000095
+2005,Famine,Famine,Famine,Cyprus,CYP,7.599999905
+2006,Famine,Famine,Famine,Cyprus,CYP,7.5
+2007,Famine,Famine,Famine,Cyprus,CYP,6.900000095
+2008,Famine,Famine,Famine,Cyprus,CYP,6.400000095
+2009,Famine,Famine,Famine,Cyprus,CYP,6.300000191
+2010,Famine,Famine,Famine,Cyprus,CYP,6.199999809
+2011,Famine,Famine,Famine,Cyprus,CYP,6.099999905
+2012,Famine,Famine,Famine,Cyprus,CYP,6.199999809
+2013,Famine,Famine,Famine,Cyprus,CYP,4.699999809
+2014,Famine,Famine,Famine,Cyprus,CYP,2.799999952
+2015,Famine,Famine,Famine,Cyprus,CYP,2.5
+2016,Famine,Famine,Famine,Cyprus,CYP,2.5
+2017,Famine,Famine,Famine,Cyprus,CYP,2.5
+2018,Famine,Famine,Famine,Cyprus,CYP,2.5
+2019,Famine,Famine,Famine,Cyprus,CYP,2.5
+2001,Famine,Famine,Famine,Czechia,CZE,2.5
+2002,Famine,Famine,Famine,Czechia,CZE,2.5
+2003,Famine,Famine,Famine,Czechia,CZE,2.5
+2004,Famine,Famine,Famine,Czechia,CZE,2.5
+2005,Famine,Famine,Famine,Czechia,CZE,2.5
+2006,Famine,Famine,Famine,Czechia,CZE,2.5
+2007,Famine,Famine,Famine,Czechia,CZE,2.5
+2008,Famine,Famine,Famine,Czechia,CZE,2.5
+2009,Famine,Famine,Famine,Czechia,CZE,2.5
+2010,Famine,Famine,Famine,Czechia,CZE,2.5
+2011,Famine,Famine,Famine,Czechia,CZE,2.5
+2012,Famine,Famine,Famine,Czechia,CZE,2.5
+2013,Famine,Famine,Famine,Czechia,CZE,2.5
+2014,Famine,Famine,Famine,Czechia,CZE,2.5
+2015,Famine,Famine,Famine,Czechia,CZE,2.5
+2016,Famine,Famine,Famine,Czechia,CZE,2.5
+2017,Famine,Famine,Famine,Czechia,CZE,2.5
+2018,Famine,Famine,Famine,Czechia,CZE,2.5
+2019,Famine,Famine,Famine,Czechia,CZE,2.5
+2001,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.20000076
+2002,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.20000076
+2003,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.20000076
+2004,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.29999924
+2005,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.40000153
+2006,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.5
+2007,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.59999847
+2008,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.70000076
+2009,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.70000076
+2010,Famine,Famine,Famine,Democratic Republic of Congo,COD,38.79999924
+2011,Famine,Famine,Famine,Democratic Republic of Congo,COD,40
+2012,Famine,Famine,Famine,Democratic Republic of Congo,COD,41.5
+2013,Famine,Famine,Famine,Democratic Republic of Congo,COD,41.5
+2014,Famine,Famine,Famine,Democratic Republic of Congo,COD,40.70000076
+2015,Famine,Famine,Famine,Democratic Republic of Congo,COD,40.09999847
+2016,Famine,Famine,Famine,Democratic Republic of Congo,COD,39.90000153
+2017,Famine,Famine,Famine,Democratic Republic of Congo,COD,40.20000076
+2018,Famine,Famine,Famine,Democratic Republic of Congo,COD,40.40000153
+2019,Famine,Famine,Famine,Democratic Republic of Congo,COD,41.70000076
+2001,Famine,Famine,Famine,Denmark,DNK,2.5
+2002,Famine,Famine,Famine,Denmark,DNK,2.5
+2003,Famine,Famine,Famine,Denmark,DNK,2.5
+2004,Famine,Famine,Famine,Denmark,DNK,2.5
+2005,Famine,Famine,Famine,Denmark,DNK,2.5
+2006,Famine,Famine,Famine,Denmark,DNK,2.5
+2007,Famine,Famine,Famine,Denmark,DNK,2.5
+2008,Famine,Famine,Famine,Denmark,DNK,2.5
+2009,Famine,Famine,Famine,Denmark,DNK,2.5
+2010,Famine,Famine,Famine,Denmark,DNK,2.5
+2011,Famine,Famine,Famine,Denmark,DNK,2.5
+2012,Famine,Famine,Famine,Denmark,DNK,2.5
+2013,Famine,Famine,Famine,Denmark,DNK,2.5
+2014,Famine,Famine,Famine,Denmark,DNK,2.5
+2015,Famine,Famine,Famine,Denmark,DNK,2.5
+2016,Famine,Famine,Famine,Denmark,DNK,2.5
+2017,Famine,Famine,Famine,Denmark,DNK,2.5
+2018,Famine,Famine,Famine,Denmark,DNK,2.5
+2019,Famine,Famine,Famine,Denmark,DNK,2.5
+2001,Famine,Famine,Famine,Djibouti,DJI,42
+2002,Famine,Famine,Famine,Djibouti,DJI,40.79999924
+2003,Famine,Famine,Famine,Djibouti,DJI,38.20000076
+2004,Famine,Famine,Famine,Djibouti,DJI,34.70000076
+2005,Famine,Famine,Famine,Djibouti,DJI,31.29999924
+2006,Famine,Famine,Famine,Djibouti,DJI,27.29999924
+2007,Famine,Famine,Famine,Djibouti,DJI,25.10000038
+2008,Famine,Famine,Famine,Djibouti,DJI,23.39999962
+2009,Famine,Famine,Famine,Djibouti,DJI,23.20000076
+2010,Famine,Famine,Famine,Djibouti,DJI,22.89999962
+2011,Famine,Famine,Famine,Djibouti,DJI,22.20000076
+2012,Famine,Famine,Famine,Djibouti,DJI,20.79999924
+2013,Famine,Famine,Famine,Djibouti,DJI,19.70000076
+2014,Famine,Famine,Famine,Djibouti,DJI,18.10000038
+2015,Famine,Famine,Famine,Djibouti,DJI,17.5
+2016,Famine,Famine,Famine,Djibouti,DJI,16.70000076
+2017,Famine,Famine,Famine,Djibouti,DJI,16.39999962
+2018,Famine,Famine,Famine,Djibouti,DJI,16
+2019,Famine,Famine,Famine,Djibouti,DJI,16.20000076
+2001,Famine,Famine,Famine,Dominica,DMA,3.700000048
+2002,Famine,Famine,Famine,Dominica,DMA,4.099999905
+2003,Famine,Famine,Famine,Dominica,DMA,4.699999809
+2004,Famine,Famine,Famine,Dominica,DMA,5
+2005,Famine,Famine,Famine,Dominica,DMA,5.400000095
+2006,Famine,Famine,Famine,Dominica,DMA,5
+2007,Famine,Famine,Famine,Dominica,DMA,4.599999905
+2008,Famine,Famine,Famine,Dominica,DMA,4.099999905
+2009,Famine,Famine,Famine,Dominica,DMA,4.400000095
+2010,Famine,Famine,Famine,Dominica,DMA,4.699999809
+2011,Famine,Famine,Famine,Dominica,DMA,4.900000095
+2012,Famine,Famine,Famine,Dominica,DMA,5.099999905
+2013,Famine,Famine,Famine,Dominica,DMA,5.199999809
+2014,Famine,Famine,Famine,Dominica,DMA,5.099999905
+2015,Famine,Famine,Famine,Dominica,DMA,5.099999905
+2016,Famine,Famine,Famine,Dominica,DMA,5
+2017,Famine,Famine,Famine,Dominica,DMA,5.300000191
+2018,Famine,Famine,Famine,Dominica,DMA,5.5
+2019,Famine,Famine,Famine,Dominica,DMA,5.599999905
+2001,Famine,Famine,Famine,Dominican Republic,DOM,20.39999962
+2002,Famine,Famine,Famine,Dominican Republic,DOM,22.60000038
+2003,Famine,Famine,Famine,Dominican Republic,DOM,23.60000038
+2004,Famine,Famine,Famine,Dominican Republic,DOM,23
+2005,Famine,Famine,Famine,Dominican Republic,DOM,19.20000076
+2006,Famine,Famine,Famine,Dominican Republic,DOM,16.39999962
+2007,Famine,Famine,Famine,Dominican Republic,DOM,16.20000076
+2008,Famine,Famine,Famine,Dominican Republic,DOM,16
+2009,Famine,Famine,Famine,Dominican Republic,DOM,14.60000038
+2010,Famine,Famine,Famine,Dominican Republic,DOM,12.30000019
+2011,Famine,Famine,Famine,Dominican Republic,DOM,10.30000019
+2012,Famine,Famine,Famine,Dominican Republic,DOM,9.699999809
+2013,Famine,Famine,Famine,Dominican Republic,DOM,8.899999619
+2014,Famine,Famine,Famine,Dominican Republic,DOM,8.300000191
+2015,Famine,Famine,Famine,Dominican Republic,DOM,7.400000095
+2016,Famine,Famine,Famine,Dominican Republic,DOM,6.800000191
+2017,Famine,Famine,Famine,Dominican Republic,DOM,6.400000095
+2018,Famine,Famine,Famine,Dominican Republic,DOM,6.699999809
+2019,Famine,Famine,Famine,Dominican Republic,DOM,8.300000191
+2001,Famine,Famine,Famine,Ecuador,ECU,21
+2002,Famine,Famine,Famine,Ecuador,ECU,22.70000076
+2003,Famine,Famine,Famine,Ecuador,ECU,22.70000076
+2004,Famine,Famine,Famine,Ecuador,ECU,22.70000076
+2005,Famine,Famine,Famine,Ecuador,ECU,22.39999962
+2006,Famine,Famine,Famine,Ecuador,ECU,22.79999924
+2007,Famine,Famine,Famine,Ecuador,ECU,22.10000038
+2008,Famine,Famine,Famine,Ecuador,ECU,21.29999924
+2009,Famine,Famine,Famine,Ecuador,ECU,16
+2010,Famine,Famine,Famine,Ecuador,ECU,12.30000019
+2011,Famine,Famine,Famine,Ecuador,ECU,8.5
+2012,Famine,Famine,Famine,Ecuador,ECU,9.100000381
+2013,Famine,Famine,Famine,Ecuador,ECU,9
+2014,Famine,Famine,Famine,Ecuador,ECU,8.899999619
+2015,Famine,Famine,Famine,Ecuador,ECU,9
+2016,Famine,Famine,Famine,Ecuador,ECU,9.699999809
+2017,Famine,Famine,Famine,Ecuador,ECU,10.69999981
+2018,Famine,Famine,Famine,Ecuador,ECU,11.19999981
+2019,Famine,Famine,Famine,Ecuador,ECU,12.39999962
+2001,Famine,Famine,Famine,Egypt,EGY,5.199999809
+2002,Famine,Famine,Famine,Egypt,EGY,5.400000095
+2003,Famine,Famine,Famine,Egypt,EGY,6
+2004,Famine,Famine,Famine,Egypt,EGY,6.400000095
+2005,Famine,Famine,Famine,Egypt,EGY,6.400000095
+2006,Famine,Famine,Famine,Egypt,EGY,6
+2007,Famine,Famine,Famine,Egypt,EGY,5.699999809
+2008,Famine,Famine,Famine,Egypt,EGY,5.599999905
+2009,Famine,Famine,Famine,Egypt,EGY,5.5
+2010,Famine,Famine,Famine,Egypt,EGY,5.400000095
+2011,Famine,Famine,Famine,Egypt,EGY,5.099999905
+2012,Famine,Famine,Famine,Egypt,EGY,5.199999809
+2013,Famine,Famine,Famine,Egypt,EGY,4.900000095
+2014,Famine,Famine,Famine,Egypt,EGY,4.599999905
+2015,Famine,Famine,Famine,Egypt,EGY,4.400000095
+2016,Famine,Famine,Famine,Egypt,EGY,4.599999905
+2017,Famine,Famine,Famine,Egypt,EGY,4.900000095
+2018,Famine,Famine,Famine,Egypt,EGY,5.099999905
+2019,Famine,Famine,Famine,Egypt,EGY,5.400000095
+2001,Famine,Famine,Famine,El Salvador,SLV,7.199999809
+2002,Famine,Famine,Famine,El Salvador,SLV,7.099999905
+2003,Famine,Famine,Famine,El Salvador,SLV,7.900000095
+2004,Famine,Famine,Famine,El Salvador,SLV,8.699999809
+2005,Famine,Famine,Famine,El Salvador,SLV,9.100000381
+2006,Famine,Famine,Famine,El Salvador,SLV,9.399999619
+2007,Famine,Famine,Famine,El Salvador,SLV,9.699999809
+2008,Famine,Famine,Famine,El Salvador,SLV,9.899999619
+2009,Famine,Famine,Famine,El Salvador,SLV,10.5
+2010,Famine,Famine,Famine,El Salvador,SLV,10.89999962
+2011,Famine,Famine,Famine,El Salvador,SLV,11.10000038
+2012,Famine,Famine,Famine,El Salvador,SLV,10.5
+2013,Famine,Famine,Famine,El Salvador,SLV,10.5
+2014,Famine,Famine,Famine,El Salvador,SLV,10.60000038
+2015,Famine,Famine,Famine,El Salvador,SLV,10.60000038
+2016,Famine,Famine,Famine,El Salvador,SLV,9.899999619
+2017,Famine,Famine,Famine,El Salvador,SLV,9.100000381
+2018,Famine,Famine,Famine,El Salvador,SLV,8.600000381
+2019,Famine,Famine,Famine,El Salvador,SLV,8.5
+2001,Famine,Famine,Famine,Estonia,EST,3.599999905
+2002,Famine,Famine,Famine,Estonia,EST,3.5
+2003,Famine,Famine,Famine,Estonia,EST,3.299999952
+2004,Famine,Famine,Famine,Estonia,EST,2.900000095
+2005,Famine,Famine,Famine,Estonia,EST,2.5
+2006,Famine,Famine,Famine,Estonia,EST,2.5
+2007,Famine,Famine,Famine,Estonia,EST,2.5
+2008,Famine,Famine,Famine,Estonia,EST,2.5
+2009,Famine,Famine,Famine,Estonia,EST,2.5
+2010,Famine,Famine,Famine,Estonia,EST,2.5
+2011,Famine,Famine,Famine,Estonia,EST,2.5
+2012,Famine,Famine,Famine,Estonia,EST,2.5
+2013,Famine,Famine,Famine,Estonia,EST,2.5
+2014,Famine,Famine,Famine,Estonia,EST,2.5
+2015,Famine,Famine,Famine,Estonia,EST,2.5
+2016,Famine,Famine,Famine,Estonia,EST,2.5
+2017,Famine,Famine,Famine,Estonia,EST,2.5
+2018,Famine,Famine,Famine,Estonia,EST,2.5
+2019,Famine,Famine,Famine,Estonia,EST,2.5
+2001,Famine,Famine,Famine,Eswatini,SWZ,10.5
+2002,Famine,Famine,Famine,Eswatini,SWZ,9.699999809
+2003,Famine,Famine,Famine,Eswatini,SWZ,8.300000191
+2004,Famine,Famine,Famine,Eswatini,SWZ,8.399999619
+2005,Famine,Famine,Famine,Eswatini,SWZ,9.199999809
+2006,Famine,Famine,Famine,Eswatini,SWZ,10.19999981
+2007,Famine,Famine,Famine,Eswatini,SWZ,10.69999981
+2008,Famine,Famine,Famine,Eswatini,SWZ,10.89999962
+2009,Famine,Famine,Famine,Eswatini,SWZ,15.19999981
+2010,Famine,Famine,Famine,Eswatini,SWZ,18.5
+2011,Famine,Famine,Famine,Eswatini,SWZ,20.70000076
+2012,Famine,Famine,Famine,Eswatini,SWZ,18
+2013,Famine,Famine,Famine,Eswatini,SWZ,14.89999962
+2014,Famine,Famine,Famine,Eswatini,SWZ,13.39999962
+2015,Famine,Famine,Famine,Eswatini,SWZ,12.80000019
+2016,Famine,Famine,Famine,Eswatini,SWZ,13
+2017,Famine,Famine,Famine,Eswatini,SWZ,12.39999962
+2018,Famine,Famine,Famine,Eswatini,SWZ,11.89999962
+2019,Famine,Famine,Famine,Eswatini,SWZ,11.60000038
+2001,Famine,Famine,Famine,Ethiopia,ETH,47
+2002,Famine,Famine,Famine,Ethiopia,ETH,44.20000076
+2003,Famine,Famine,Famine,Ethiopia,ETH,42.59999847
+2004,Famine,Famine,Famine,Ethiopia,ETH,39
+2005,Famine,Famine,Famine,Ethiopia,ETH,37.09999847
+2006,Famine,Famine,Famine,Ethiopia,ETH,35.59999847
+2007,Famine,Famine,Famine,Ethiopia,ETH,35
+2008,Famine,Famine,Famine,Ethiopia,ETH,33.5
+2009,Famine,Famine,Famine,Ethiopia,ETH,29.70000076
+2010,Famine,Famine,Famine,Ethiopia,ETH,27.60000038
+2011,Famine,Famine,Famine,Ethiopia,ETH,26
+2012,Famine,Famine,Famine,Ethiopia,ETH,25.29999924
+2013,Famine,Famine,Famine,Ethiopia,ETH,21.79999924
+2014,Famine,Famine,Famine,Ethiopia,ETH,17.79999924
+2015,Famine,Famine,Famine,Ethiopia,ETH,14.80000019
+2016,Famine,Famine,Famine,Ethiopia,ETH,13.80000019
+2017,Famine,Famine,Famine,Ethiopia,ETH,14
+2018,Famine,Famine,Famine,Ethiopia,ETH,14.39999962
+2019,Famine,Famine,Famine,Ethiopia,ETH,16.20000076
+2001,Famine,Famine,Famine,Fiji,FJI,4
+2002,Famine,Famine,Famine,Fiji,FJI,3.799999952
+2003,Famine,Famine,Famine,Fiji,FJI,3.900000095
+2004,Famine,Famine,Famine,Fiji,FJI,3.799999952
+2005,Famine,Famine,Famine,Fiji,FJI,3.700000048
+2006,Famine,Famine,Famine,Fiji,FJI,3.700000048
+2007,Famine,Famine,Famine,Fiji,FJI,3.700000048
+2008,Famine,Famine,Famine,Fiji,FJI,3.900000095
+2009,Famine,Famine,Famine,Fiji,FJI,3.900000095
+2010,Famine,Famine,Famine,Fiji,FJI,4
+2011,Famine,Famine,Famine,Fiji,FJI,3.799999952
+2012,Famine,Famine,Famine,Fiji,FJI,3.400000095
+2013,Famine,Famine,Famine,Fiji,FJI,4.400000095
+2014,Famine,Famine,Famine,Fiji,FJI,5.199999809
+2015,Famine,Famine,Famine,Fiji,FJI,6.400000095
+2016,Famine,Famine,Famine,Fiji,FJI,6.300000191
+2017,Famine,Famine,Famine,Fiji,FJI,6.300000191
+2018,Famine,Famine,Famine,Fiji,FJI,5.800000191
+2019,Famine,Famine,Famine,Fiji,FJI,5.599999905
+2001,Famine,Famine,Famine,Finland,FIN,2.5
+2002,Famine,Famine,Famine,Finland,FIN,2.5
+2003,Famine,Famine,Famine,Finland,FIN,2.5
+2004,Famine,Famine,Famine,Finland,FIN,2.5
+2005,Famine,Famine,Famine,Finland,FIN,2.5
+2006,Famine,Famine,Famine,Finland,FIN,2.5
+2007,Famine,Famine,Famine,Finland,FIN,2.5
+2008,Famine,Famine,Famine,Finland,FIN,2.5
+2009,Famine,Famine,Famine,Finland,FIN,2.5
+2010,Famine,Famine,Famine,Finland,FIN,2.5
+2011,Famine,Famine,Famine,Finland,FIN,2.5
+2012,Famine,Famine,Famine,Finland,FIN,2.5
+2013,Famine,Famine,Famine,Finland,FIN,2.5
+2014,Famine,Famine,Famine,Finland,FIN,2.5
+2015,Famine,Famine,Famine,Finland,FIN,2.5
+2016,Famine,Famine,Famine,Finland,FIN,2.5
+2017,Famine,Famine,Famine,Finland,FIN,2.5
+2018,Famine,Famine,Famine,Finland,FIN,2.5
+2019,Famine,Famine,Famine,Finland,FIN,2.5
+2001,Famine,Famine,Famine,France,FRA,2.5
+2002,Famine,Famine,Famine,France,FRA,2.5
+2003,Famine,Famine,Famine,France,FRA,2.5
+2004,Famine,Famine,Famine,France,FRA,2.5
+2005,Famine,Famine,Famine,France,FRA,2.5
+2006,Famine,Famine,Famine,France,FRA,2.5
+2007,Famine,Famine,Famine,France,FRA,2.5
+2008,Famine,Famine,Famine,France,FRA,2.5
+2009,Famine,Famine,Famine,France,FRA,2.5
+2010,Famine,Famine,Famine,France,FRA,2.5
+2011,Famine,Famine,Famine,France,FRA,2.5
+2012,Famine,Famine,Famine,France,FRA,2.5
+2013,Famine,Famine,Famine,France,FRA,2.5
+2014,Famine,Famine,Famine,France,FRA,2.5
+2015,Famine,Famine,Famine,France,FRA,2.5
+2016,Famine,Famine,Famine,France,FRA,2.5
+2017,Famine,Famine,Famine,France,FRA,2.5
+2018,Famine,Famine,Famine,France,FRA,2.5
+2019,Famine,Famine,Famine,France,FRA,2.5
+2001,Famine,Famine,Famine,French Polynesia,PYF,4.199999809
+2002,Famine,Famine,Famine,French Polynesia,PYF,4.099999905
+2003,Famine,Famine,Famine,French Polynesia,PYF,3.900000095
+2004,Famine,Famine,Famine,French Polynesia,PYF,3.900000095
+2005,Famine,Famine,Famine,French Polynesia,PYF,3.799999952
+2006,Famine,Famine,Famine,French Polynesia,PYF,3.799999952
+2007,Famine,Famine,Famine,French Polynesia,PYF,3.799999952
+2008,Famine,Famine,Famine,French Polynesia,PYF,3.700000048
+2009,Famine,Famine,Famine,French Polynesia,PYF,3.599999905
+2010,Famine,Famine,Famine,French Polynesia,PYF,3.5
+2011,Famine,Famine,Famine,French Polynesia,PYF,3.200000048
+2012,Famine,Famine,Famine,French Polynesia,PYF,3.099999905
+2013,Famine,Famine,Famine,French Polynesia,PYF,3.200000048
+2014,Famine,Famine,Famine,French Polynesia,PYF,3.299999952
+2015,Famine,Famine,Famine,French Polynesia,PYF,3.599999905
+2016,Famine,Famine,Famine,French Polynesia,PYF,3.799999952
+2017,Famine,Famine,Famine,French Polynesia,PYF,4
+2018,Famine,Famine,Famine,French Polynesia,PYF,3.900000095
+2019,Famine,Famine,Famine,French Polynesia,PYF,3.799999952
+2001,Famine,Famine,Famine,Gabon,GAB,10.69999981
+2002,Famine,Famine,Famine,Gabon,GAB,12.10000038
+2003,Famine,Famine,Famine,Gabon,GAB,13.30000019
+2004,Famine,Famine,Famine,Gabon,GAB,13.89999962
+2005,Famine,Famine,Famine,Gabon,GAB,14.30000019
+2006,Famine,Famine,Famine,Gabon,GAB,14.80000019
+2007,Famine,Famine,Famine,Gabon,GAB,15.89999962
+2008,Famine,Famine,Famine,Gabon,GAB,16.79999924
+2009,Famine,Famine,Famine,Gabon,GAB,17.39999962
+2010,Famine,Famine,Famine,Gabon,GAB,17.20000076
+2011,Famine,Famine,Famine,Gabon,GAB,17.20000076
+2012,Famine,Famine,Famine,Gabon,GAB,17.29999924
+2013,Famine,Famine,Famine,Gabon,GAB,16.10000038
+2014,Famine,Famine,Famine,Gabon,GAB,14.69999981
+2015,Famine,Famine,Famine,Gabon,GAB,13.89999962
+2016,Famine,Famine,Famine,Gabon,GAB,15
+2017,Famine,Famine,Famine,Gabon,GAB,16
+2018,Famine,Famine,Famine,Gabon,GAB,16.20000076
+2019,Famine,Famine,Famine,Gabon,GAB,15.69999981
+2001,Famine,Famine,Famine,Gambia,GMB,17.79999924
+2002,Famine,Famine,Famine,Gambia,GMB,19.60000038
+2003,Famine,Famine,Famine,Gambia,GMB,20.5
+2004,Famine,Famine,Famine,Gambia,GMB,20.70000076
+2005,Famine,Famine,Famine,Gambia,GMB,21.70000076
+2006,Famine,Famine,Famine,Gambia,GMB,20.70000076
+2007,Famine,Famine,Famine,Gambia,GMB,18.70000076
+2008,Famine,Famine,Famine,Gambia,GMB,15.80000019
+2009,Famine,Famine,Famine,Gambia,GMB,14.19999981
+2010,Famine,Famine,Famine,Gambia,GMB,13.10000038
+2011,Famine,Famine,Famine,Gambia,GMB,12.69999981
+2012,Famine,Famine,Famine,Gambia,GMB,13
+2013,Famine,Famine,Famine,Gambia,GMB,12.39999962
+2014,Famine,Famine,Famine,Gambia,GMB,11.89999962
+2015,Famine,Famine,Famine,Gambia,GMB,11.30000019
+2016,Famine,Famine,Famine,Gambia,GMB,11.69999981
+2017,Famine,Famine,Famine,Gambia,GMB,11.89999962
+2018,Famine,Famine,Famine,Gambia,GMB,12.39999962
+2019,Famine,Famine,Famine,Gambia,GMB,13.60000038
+2001,Famine,Famine,Famine,Georgia,GEO,7.699999809
+2002,Famine,Famine,Famine,Georgia,GEO,5.900000095
+2003,Famine,Famine,Famine,Georgia,GEO,4.800000191
+2004,Famine,Famine,Famine,Georgia,GEO,4.099999905
+2005,Famine,Famine,Famine,Georgia,GEO,4.099999905
+2006,Famine,Famine,Famine,Georgia,GEO,4
+2007,Famine,Famine,Famine,Georgia,GEO,4
+2008,Famine,Famine,Famine,Georgia,GEO,3.599999905
+2009,Famine,Famine,Famine,Georgia,GEO,3.700000048
+2010,Famine,Famine,Famine,Georgia,GEO,4.199999809
+2011,Famine,Famine,Famine,Georgia,GEO,4.599999905
+2012,Famine,Famine,Famine,Georgia,GEO,4.300000191
+2013,Famine,Famine,Famine,Georgia,GEO,5.400000095
+2014,Famine,Famine,Famine,Georgia,GEO,6.599999905
+2015,Famine,Famine,Famine,Georgia,GEO,8.100000381
+2016,Famine,Famine,Famine,Georgia,GEO,8.300000191
+2017,Famine,Famine,Famine,Georgia,GEO,8.300000191
+2018,Famine,Famine,Famine,Georgia,GEO,8.100000381
+2019,Famine,Famine,Famine,Georgia,GEO,8.699999809
+2001,Famine,Famine,Famine,Germany,DEU,2.5
+2002,Famine,Famine,Famine,Germany,DEU,2.5
+2003,Famine,Famine,Famine,Germany,DEU,2.5
+2004,Famine,Famine,Famine,Germany,DEU,2.5
+2005,Famine,Famine,Famine,Germany,DEU,2.5
+2006,Famine,Famine,Famine,Germany,DEU,2.5
+2007,Famine,Famine,Famine,Germany,DEU,2.5
+2008,Famine,Famine,Famine,Germany,DEU,2.5
+2009,Famine,Famine,Famine,Germany,DEU,2.5
+2010,Famine,Famine,Famine,Germany,DEU,2.5
+2011,Famine,Famine,Famine,Germany,DEU,2.5
+2012,Famine,Famine,Famine,Germany,DEU,2.5
+2013,Famine,Famine,Famine,Germany,DEU,2.5
+2014,Famine,Famine,Famine,Germany,DEU,2.5
+2015,Famine,Famine,Famine,Germany,DEU,2.5
+2016,Famine,Famine,Famine,Germany,DEU,2.5
+2017,Famine,Famine,Famine,Germany,DEU,2.5
+2018,Famine,Famine,Famine,Germany,DEU,2.5
+2019,Famine,Famine,Famine,Germany,DEU,2.5
+2001,Famine,Famine,Famine,Ghana,GHA,14.89999962
+2002,Famine,Famine,Famine,Ghana,GHA,13.5
+2003,Famine,Famine,Famine,Ghana,GHA,12.60000038
+2004,Famine,Famine,Famine,Ghana,GHA,12.19999981
+2005,Famine,Famine,Famine,Ghana,GHA,11.19999981
+2006,Famine,Famine,Famine,Ghana,GHA,10.60000038
+2007,Famine,Famine,Famine,Ghana,GHA,9.399999619
+2008,Famine,Famine,Famine,Ghana,GHA,8.199999809
+2009,Famine,Famine,Famine,Ghana,GHA,6.699999809
+2010,Famine,Famine,Famine,Ghana,GHA,6.599999905
+2011,Famine,Famine,Famine,Ghana,GHA,6.699999809
+2012,Famine,Famine,Famine,Ghana,GHA,7.199999809
+2013,Famine,Famine,Famine,Ghana,GHA,7.099999905
+2014,Famine,Famine,Famine,Ghana,GHA,7.400000095
+2015,Famine,Famine,Famine,Ghana,GHA,7.699999809
+2016,Famine,Famine,Famine,Ghana,GHA,7.599999905
+2017,Famine,Famine,Famine,Ghana,GHA,7.099999905
+2018,Famine,Famine,Famine,Ghana,GHA,6.400000095
+2019,Famine,Famine,Famine,Ghana,GHA,6.099999905
+2001,Famine,Famine,Famine,Greece,GRC,2.5
+2002,Famine,Famine,Famine,Greece,GRC,2.5
+2003,Famine,Famine,Famine,Greece,GRC,2.5
+2004,Famine,Famine,Famine,Greece,GRC,2.5
+2005,Famine,Famine,Famine,Greece,GRC,2.5
+2006,Famine,Famine,Famine,Greece,GRC,2.5
+2007,Famine,Famine,Famine,Greece,GRC,2.5
+2008,Famine,Famine,Famine,Greece,GRC,2.5
+2009,Famine,Famine,Famine,Greece,GRC,2.5
+2010,Famine,Famine,Famine,Greece,GRC,2.5
+2011,Famine,Famine,Famine,Greece,GRC,2.5
+2012,Famine,Famine,Famine,Greece,GRC,2.5
+2013,Famine,Famine,Famine,Greece,GRC,2.5
+2014,Famine,Famine,Famine,Greece,GRC,2.5
+2015,Famine,Famine,Famine,Greece,GRC,2.5
+2016,Famine,Famine,Famine,Greece,GRC,2.5
+2017,Famine,Famine,Famine,Greece,GRC,2.5
+2018,Famine,Famine,Famine,Greece,GRC,2.5
+2019,Famine,Famine,Famine,Greece,GRC,2.5
+2001,Famine,Famine,Famine,Guatemala,GTM,22.20000076
+2002,Famine,Famine,Famine,Guatemala,GTM,19.89999962
+2003,Famine,Famine,Famine,Guatemala,GTM,18.89999962
+2004,Famine,Famine,Famine,Guatemala,GTM,19.10000038
+2005,Famine,Famine,Famine,Guatemala,GTM,18.89999962
+2006,Famine,Famine,Famine,Guatemala,GTM,17.79999924
+2007,Famine,Famine,Famine,Guatemala,GTM,18.20000076
+2008,Famine,Famine,Famine,Guatemala,GTM,17.89999962
+2009,Famine,Famine,Famine,Guatemala,GTM,17.70000076
+2010,Famine,Famine,Famine,Guatemala,GTM,16.5
+2011,Famine,Famine,Famine,Guatemala,GTM,16.5
+2012,Famine,Famine,Famine,Guatemala,GTM,17
+2013,Famine,Famine,Famine,Guatemala,GTM,17.60000038
+2014,Famine,Famine,Famine,Guatemala,GTM,17.70000076
+2015,Famine,Famine,Famine,Guatemala,GTM,17.29999924
+2016,Famine,Famine,Famine,Guatemala,GTM,16.39999962
+2017,Famine,Famine,Famine,Guatemala,GTM,16.29999924
+2018,Famine,Famine,Famine,Guatemala,GTM,16
+2019,Famine,Famine,Famine,Guatemala,GTM,16.79999924
+2001,Famine,Famine,Famine,Guyana,GUY,6.5
+2002,Famine,Famine,Famine,Guyana,GUY,6.5
+2003,Famine,Famine,Famine,Guyana,GUY,6.800000191
+2004,Famine,Famine,Famine,Guyana,GUY,6.900000095
+2005,Famine,Famine,Famine,Guyana,GUY,7.099999905
+2006,Famine,Famine,Famine,Guyana,GUY,7.099999905
+2007,Famine,Famine,Famine,Guyana,GUY,7.5
+2008,Famine,Famine,Famine,Guyana,GUY,7.599999905
+2009,Famine,Famine,Famine,Guyana,GUY,7.699999809
+2010,Famine,Famine,Famine,Guyana,GUY,7.300000191
+2011,Famine,Famine,Famine,Guyana,GUY,6.599999905
+2012,Famine,Famine,Famine,Guyana,GUY,5.900000095
+2013,Famine,Famine,Famine,Guyana,GUY,5.900000095
+2014,Famine,Famine,Famine,Guyana,GUY,6.099999905
+2015,Famine,Famine,Famine,Guyana,GUY,6.699999809
+2016,Famine,Famine,Famine,Guyana,GUY,6.300000191
+2017,Famine,Famine,Famine,Guyana,GUY,6
+2018,Famine,Famine,Famine,Guyana,GUY,5.5
+2019,Famine,Famine,Famine,Guyana,GUY,5.199999809
+2001,Famine,Famine,Famine,Haiti,HTI,53.20000076
+2002,Famine,Famine,Famine,Haiti,HTI,54.70000076
+2003,Famine,Famine,Famine,Haiti,HTI,55.09999847
+2004,Famine,Famine,Famine,Haiti,HTI,55.70000076
+2005,Famine,Famine,Famine,Haiti,HTI,55
+2006,Famine,Famine,Famine,Haiti,HTI,54.20000076
+2007,Famine,Famine,Famine,Haiti,HTI,52.70000076
+2008,Famine,Famine,Famine,Haiti,HTI,51.40000153
+2009,Famine,Famine,Famine,Haiti,HTI,48.90000153
+2010,Famine,Famine,Famine,Haiti,HTI,47.5
+2011,Famine,Famine,Famine,Haiti,HTI,46.79999924
+2012,Famine,Famine,Famine,Haiti,HTI,47.70000076
+2013,Famine,Famine,Famine,Haiti,HTI,47.09999847
+2014,Famine,Famine,Famine,Haiti,HTI,46.40000153
+2015,Famine,Famine,Famine,Haiti,HTI,46.09999847
+2016,Famine,Famine,Famine,Haiti,HTI,46.70000076
+2017,Famine,Famine,Famine,Haiti,HTI,48
+2018,Famine,Famine,Famine,Haiti,HTI,47.90000153
+2019,Famine,Famine,Famine,Haiti,HTI,46.79999924
+2001,Famine,Famine,Famine,Honduras,HND,21.89999962
+2002,Famine,Famine,Famine,Honduras,HND,21.20000076
+2003,Famine,Famine,Famine,Honduras,HND,21.70000076
+2004,Famine,Famine,Famine,Honduras,HND,22.20000076
+2005,Famine,Famine,Famine,Honduras,HND,22.29999924
+2006,Famine,Famine,Famine,Honduras,HND,21.79999924
+2007,Famine,Famine,Famine,Honduras,HND,21
+2008,Famine,Famine,Famine,Honduras,HND,20.79999924
+2009,Famine,Famine,Famine,Honduras,HND,18.29999924
+2010,Famine,Famine,Famine,Honduras,HND,15.89999962
+2011,Famine,Famine,Famine,Honduras,HND,13.5
+2012,Famine,Famine,Famine,Honduras,HND,13.39999962
+2013,Famine,Famine,Famine,Honduras,HND,14.10000038
+2014,Famine,Famine,Famine,Honduras,HND,14.60000038
+2015,Famine,Famine,Famine,Honduras,HND,14.5
+2016,Famine,Famine,Famine,Honduras,HND,13.80000019
+2017,Famine,Famine,Famine,Honduras,HND,13.19999981
+2018,Famine,Famine,Famine,Honduras,HND,13.10000038
+2019,Famine,Famine,Famine,Honduras,HND,13.5
+2001,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2002,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2003,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2004,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2005,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2006,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2007,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2008,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2009,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2010,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2011,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2012,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2013,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2014,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2015,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2016,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2017,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2018,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2019,Famine,Famine,Famine,Hong Kong,HKG,2.5
+2001,Famine,Famine,Famine,Hungary,HUN,2.5
+2002,Famine,Famine,Famine,Hungary,HUN,2.5
+2003,Famine,Famine,Famine,Hungary,HUN,2.5
+2004,Famine,Famine,Famine,Hungary,HUN,2.5
+2005,Famine,Famine,Famine,Hungary,HUN,2.5
+2006,Famine,Famine,Famine,Hungary,HUN,2.5
+2007,Famine,Famine,Famine,Hungary,HUN,2.5
+2008,Famine,Famine,Famine,Hungary,HUN,2.5
+2009,Famine,Famine,Famine,Hungary,HUN,2.5
+2010,Famine,Famine,Famine,Hungary,HUN,2.5
+2011,Famine,Famine,Famine,Hungary,HUN,2.5
+2012,Famine,Famine,Famine,Hungary,HUN,2.5
+2013,Famine,Famine,Famine,Hungary,HUN,2.5
+2014,Famine,Famine,Famine,Hungary,HUN,2.5
+2015,Famine,Famine,Famine,Hungary,HUN,2.5
+2016,Famine,Famine,Famine,Hungary,HUN,2.5
+2017,Famine,Famine,Famine,Hungary,HUN,2.5
+2018,Famine,Famine,Famine,Hungary,HUN,2.5
+2019,Famine,Famine,Famine,Hungary,HUN,2.5
+2001,Famine,Famine,Famine,Iceland,ISL,2.5
+2002,Famine,Famine,Famine,Iceland,ISL,2.5
+2003,Famine,Famine,Famine,Iceland,ISL,2.5
+2004,Famine,Famine,Famine,Iceland,ISL,2.5
+2005,Famine,Famine,Famine,Iceland,ISL,2.5
+2006,Famine,Famine,Famine,Iceland,ISL,2.5
+2007,Famine,Famine,Famine,Iceland,ISL,2.5
+2008,Famine,Famine,Famine,Iceland,ISL,2.5
+2009,Famine,Famine,Famine,Iceland,ISL,2.5
+2010,Famine,Famine,Famine,Iceland,ISL,2.5
+2011,Famine,Famine,Famine,Iceland,ISL,2.5
+2012,Famine,Famine,Famine,Iceland,ISL,2.5
+2013,Famine,Famine,Famine,Iceland,ISL,2.5
+2014,Famine,Famine,Famine,Iceland,ISL,2.5
+2015,Famine,Famine,Famine,Iceland,ISL,2.5
+2016,Famine,Famine,Famine,Iceland,ISL,2.5
+2017,Famine,Famine,Famine,Iceland,ISL,2.5
+2018,Famine,Famine,Famine,Iceland,ISL,2.5
+2019,Famine,Famine,Famine,Iceland,ISL,2.5
+2001,Famine,Famine,Famine,India,IND,18.39999962
+2002,Famine,Famine,Famine,India,IND,20.10000038
+2003,Famine,Famine,Famine,India,IND,21.5
+2004,Famine,Famine,Famine,India,IND,22.10000038
+2005,Famine,Famine,Famine,India,IND,21.60000038
+2006,Famine,Famine,Famine,India,IND,19.60000038
+2007,Famine,Famine,Famine,India,IND,17.5
+2008,Famine,Famine,Famine,India,IND,16.60000038
+2009,Famine,Famine,Famine,India,IND,16.29999924
+2010,Famine,Famine,Famine,India,IND,16
+2011,Famine,Famine,Famine,India,IND,15.60000038
+2012,Famine,Famine,Famine,India,IND,15
+2013,Famine,Famine,Famine,India,IND,15.10000038
+2014,Famine,Famine,Famine,India,IND,14.89999962
+2015,Famine,Famine,Famine,India,IND,14.69999981
+2016,Famine,Famine,Famine,India,IND,14.19999981
+2017,Famine,Famine,Famine,India,IND,13.80000019
+2018,Famine,Famine,Famine,India,IND,14
+2019,Famine,Famine,Famine,India,IND,15.30000019
+2001,Famine,Famine,Famine,Indonesia,IDN,19.20000076
+2002,Famine,Famine,Famine,Indonesia,IDN,19.10000038
+2003,Famine,Famine,Famine,Indonesia,IDN,18.89999962
+2004,Famine,Famine,Famine,Indonesia,IDN,19.10000038
+2005,Famine,Famine,Famine,Indonesia,IDN,19.20000076
+2006,Famine,Famine,Famine,Indonesia,IDN,19
+2007,Famine,Famine,Famine,Indonesia,IDN,18.5
+2008,Famine,Famine,Famine,Indonesia,IDN,17.39999962
+2009,Famine,Famine,Famine,Indonesia,IDN,15.5
+2010,Famine,Famine,Famine,Indonesia,IDN,13
+2011,Famine,Famine,Famine,Indonesia,IDN,10.69999981
+2012,Famine,Famine,Famine,Indonesia,IDN,9.399999619
+2013,Famine,Famine,Famine,Indonesia,IDN,8.300000191
+2014,Famine,Famine,Famine,Indonesia,IDN,7.699999809
+2015,Famine,Famine,Famine,Indonesia,IDN,7
+2016,Famine,Famine,Famine,Indonesia,IDN,6.800000191
+2017,Famine,Famine,Famine,Indonesia,IDN,6.400000095
+2018,Famine,Famine,Famine,Indonesia,IDN,6.400000095
+2019,Famine,Famine,Famine,Indonesia,IDN,6.5
+2001,Famine,Famine,Famine,Iran,IRN,4.800000191
+2002,Famine,Famine,Famine,Iran,IRN,5
+2003,Famine,Famine,Famine,Iran,IRN,5
+2004,Famine,Famine,Famine,Iran,IRN,4.900000095
+2005,Famine,Famine,Famine,Iran,IRN,5.199999809
+2006,Famine,Famine,Famine,Iran,IRN,5.5
+2007,Famine,Famine,Famine,Iran,IRN,5.699999809
+2008,Famine,Famine,Famine,Iran,IRN,5.400000095
+2009,Famine,Famine,Famine,Iran,IRN,5.5
+2010,Famine,Famine,Famine,Iran,IRN,6
+2011,Famine,Famine,Famine,Iran,IRN,6.300000191
+2012,Famine,Famine,Famine,Iran,IRN,6.199999809
+2013,Famine,Famine,Famine,Iran,IRN,5.300000191
+2014,Famine,Famine,Famine,Iran,IRN,4.900000095
+2015,Famine,Famine,Famine,Iran,IRN,4.699999809
+2016,Famine,Famine,Famine,Iran,IRN,4.900000095
+2017,Famine,Famine,Famine,Iran,IRN,5.199999809
+2018,Famine,Famine,Famine,Iran,IRN,5.400000095
+2019,Famine,Famine,Famine,Iran,IRN,5.5
+2001,Famine,Famine,Famine,Iraq,IRQ,22.39999962
+2002,Famine,Famine,Famine,Iraq,IRQ,22.70000076
+2003,Famine,Famine,Famine,Iraq,IRQ,23.10000038
+2004,Famine,Famine,Famine,Iraq,IRQ,23.79999924
+2005,Famine,Famine,Famine,Iraq,IRQ,23.79999924
+2006,Famine,Famine,Famine,Iraq,IRQ,25.10000038
+2007,Famine,Famine,Famine,Iraq,IRQ,25.70000076
+2008,Famine,Famine,Famine,Iraq,IRQ,24.89999962
+2009,Famine,Famine,Famine,Iraq,IRQ,27.89999962
+2010,Famine,Famine,Famine,Iraq,IRQ,31.60000038
+2011,Famine,Famine,Famine,Iraq,IRQ,36.70000076
+2012,Famine,Famine,Famine,Iraq,IRQ,37.09999847
+2013,Famine,Famine,Famine,Iraq,IRQ,36.70000076
+2014,Famine,Famine,Famine,Iraq,IRQ,36.79999924
+2015,Famine,Famine,Famine,Iraq,IRQ,37.79999924
+2016,Famine,Famine,Famine,Iraq,IRQ,38.40000153
+2017,Famine,Famine,Famine,Iraq,IRQ,37.90000153
+2018,Famine,Famine,Famine,Iraq,IRQ,37.40000153
+2019,Famine,Famine,Famine,Iraq,IRQ,37.5
+2001,Famine,Famine,Famine,Ireland,IRL,2.5
+2002,Famine,Famine,Famine,Ireland,IRL,2.5
+2003,Famine,Famine,Famine,Ireland,IRL,2.5
+2004,Famine,Famine,Famine,Ireland,IRL,2.5
+2005,Famine,Famine,Famine,Ireland,IRL,2.5
+2006,Famine,Famine,Famine,Ireland,IRL,2.5
+2007,Famine,Famine,Famine,Ireland,IRL,2.5
+2008,Famine,Famine,Famine,Ireland,IRL,2.5
+2009,Famine,Famine,Famine,Ireland,IRL,2.5
+2010,Famine,Famine,Famine,Ireland,IRL,2.5
+2011,Famine,Famine,Famine,Ireland,IRL,2.5
+2012,Famine,Famine,Famine,Ireland,IRL,2.5
+2013,Famine,Famine,Famine,Ireland,IRL,2.5
+2014,Famine,Famine,Famine,Ireland,IRL,2.5
+2015,Famine,Famine,Famine,Ireland,IRL,2.5
+2016,Famine,Famine,Famine,Ireland,IRL,2.5
+2017,Famine,Famine,Famine,Ireland,IRL,2.5
+2018,Famine,Famine,Famine,Ireland,IRL,2.5
+2019,Famine,Famine,Famine,Ireland,IRL,2.5
+2001,Famine,Famine,Famine,Israel,ISR,2.5
+2002,Famine,Famine,Famine,Israel,ISR,2.5
+2003,Famine,Famine,Famine,Israel,ISR,2.5
+2004,Famine,Famine,Famine,Israel,ISR,2.5
+2005,Famine,Famine,Famine,Israel,ISR,2.5
+2006,Famine,Famine,Famine,Israel,ISR,2.5
+2007,Famine,Famine,Famine,Israel,ISR,2.5
+2008,Famine,Famine,Famine,Israel,ISR,2.5
+2009,Famine,Famine,Famine,Israel,ISR,2.5
+2010,Famine,Famine,Famine,Israel,ISR,2.5
+2011,Famine,Famine,Famine,Israel,ISR,2.5
+2012,Famine,Famine,Famine,Israel,ISR,2.5
+2013,Famine,Famine,Famine,Israel,ISR,2.5
+2014,Famine,Famine,Famine,Israel,ISR,2.5
+2015,Famine,Famine,Famine,Israel,ISR,2.5
+2016,Famine,Famine,Famine,Israel,ISR,2.5
+2017,Famine,Famine,Famine,Israel,ISR,2.5
+2018,Famine,Famine,Famine,Israel,ISR,2.5
+2019,Famine,Famine,Famine,Israel,ISR,2.5
+2001,Famine,Famine,Famine,Italy,ITA,2.5
+2002,Famine,Famine,Famine,Italy,ITA,2.5
+2003,Famine,Famine,Famine,Italy,ITA,2.5
+2004,Famine,Famine,Famine,Italy,ITA,2.5
+2005,Famine,Famine,Famine,Italy,ITA,2.5
+2006,Famine,Famine,Famine,Italy,ITA,2.5
+2007,Famine,Famine,Famine,Italy,ITA,2.5
+2008,Famine,Famine,Famine,Italy,ITA,2.5
+2009,Famine,Famine,Famine,Italy,ITA,2.5
+2010,Famine,Famine,Famine,Italy,ITA,2.5
+2011,Famine,Famine,Famine,Italy,ITA,2.5
+2012,Famine,Famine,Famine,Italy,ITA,2.5
+2013,Famine,Famine,Famine,Italy,ITA,2.5
+2014,Famine,Famine,Famine,Italy,ITA,2.5
+2015,Famine,Famine,Famine,Italy,ITA,2.5
+2016,Famine,Famine,Famine,Italy,ITA,2.5
+2017,Famine,Famine,Famine,Italy,ITA,2.5
+2018,Famine,Famine,Famine,Italy,ITA,2.5
+2019,Famine,Famine,Famine,Italy,ITA,2.5
+2001,Famine,Famine,Famine,Jamaica,JAM,7.400000095
+2002,Famine,Famine,Famine,Jamaica,JAM,6.900000095
+2003,Famine,Famine,Famine,Jamaica,JAM,7
+2004,Famine,Famine,Famine,Jamaica,JAM,7.099999905
+2005,Famine,Famine,Famine,Jamaica,JAM,7.400000095
+2006,Famine,Famine,Famine,Jamaica,JAM,7.699999809
+2007,Famine,Famine,Famine,Jamaica,JAM,8.300000191
+2008,Famine,Famine,Famine,Jamaica,JAM,9
+2009,Famine,Famine,Famine,Jamaica,JAM,9.5
+2010,Famine,Famine,Famine,Jamaica,JAM,9.600000381
+2011,Famine,Famine,Famine,Jamaica,JAM,9.800000191
+2012,Famine,Famine,Famine,Jamaica,JAM,10.10000038
+2013,Famine,Famine,Famine,Jamaica,JAM,10.10000038
+2014,Famine,Famine,Famine,Jamaica,JAM,9.699999809
+2015,Famine,Famine,Famine,Jamaica,JAM,9.600000381
+2016,Famine,Famine,Famine,Jamaica,JAM,9.300000191
+2017,Famine,Famine,Famine,Jamaica,JAM,8.800000191
+2018,Famine,Famine,Famine,Jamaica,JAM,7.699999809
+2019,Famine,Famine,Famine,Jamaica,JAM,7.699999809
+2001,Famine,Famine,Famine,Japan,JPN,2.5
+2002,Famine,Famine,Famine,Japan,JPN,2.5
+2003,Famine,Famine,Famine,Japan,JPN,2.5
+2004,Famine,Famine,Famine,Japan,JPN,2.5
+2005,Famine,Famine,Famine,Japan,JPN,2.5
+2006,Famine,Famine,Famine,Japan,JPN,2.5
+2007,Famine,Famine,Famine,Japan,JPN,2.5
+2008,Famine,Famine,Famine,Japan,JPN,2.5
+2009,Famine,Famine,Famine,Japan,JPN,2.599999905
+2010,Famine,Famine,Famine,Japan,JPN,2.700000048
+2011,Famine,Famine,Famine,Japan,JPN,2.5
+2012,Famine,Famine,Famine,Japan,JPN,2.5
+2013,Famine,Famine,Famine,Japan,JPN,2.5
+2014,Famine,Famine,Famine,Japan,JPN,2.5
+2015,Famine,Famine,Famine,Japan,JPN,2.5
+2016,Famine,Famine,Famine,Japan,JPN,2.5
+2017,Famine,Famine,Famine,Japan,JPN,2.5
+2018,Famine,Famine,Famine,Japan,JPN,2.5
+2019,Famine,Famine,Famine,Japan,JPN,2.5
+2001,Famine,Famine,Famine,Jordan,JOR,9.699999809
+2002,Famine,Famine,Famine,Jordan,JOR,7.699999809
+2003,Famine,Famine,Famine,Jordan,JOR,6.300000191
+2004,Famine,Famine,Famine,Jordan,JOR,5.699999809
+2005,Famine,Famine,Famine,Jordan,JOR,5.5
+2006,Famine,Famine,Famine,Jordan,JOR,5.699999809
+2007,Famine,Famine,Famine,Jordan,JOR,6.099999905
+2008,Famine,Famine,Famine,Jordan,JOR,6.5
+2009,Famine,Famine,Famine,Jordan,JOR,6.900000095
+2010,Famine,Famine,Famine,Jordan,JOR,7.099999905
+2011,Famine,Famine,Famine,Jordan,JOR,7.5
+2012,Famine,Famine,Famine,Jordan,JOR,8.5
+2013,Famine,Famine,Famine,Jordan,JOR,7.900000095
+2014,Famine,Famine,Famine,Jordan,JOR,7.199999809
+2015,Famine,Famine,Famine,Jordan,JOR,6.300000191
+2016,Famine,Famine,Famine,Jordan,JOR,7.099999905
+2017,Famine,Famine,Famine,Jordan,JOR,7.699999809
+2018,Famine,Famine,Famine,Jordan,JOR,8.199999809
+2019,Famine,Famine,Famine,Jordan,JOR,9.5
+2001,Famine,Famine,Famine,Kazakhstan,KAZ,6.5
+2002,Famine,Famine,Famine,Kazakhstan,KAZ,6.599999905
+2003,Famine,Famine,Famine,Kazakhstan,KAZ,7.099999905
+2004,Famine,Famine,Famine,Kazakhstan,KAZ,7.5
+2005,Famine,Famine,Famine,Kazakhstan,KAZ,7.300000191
+2006,Famine,Famine,Famine,Kazakhstan,KAZ,6.300000191
+2007,Famine,Famine,Famine,Kazakhstan,KAZ,5.099999905
+2008,Famine,Famine,Famine,Kazakhstan,KAZ,4.300000191
+2009,Famine,Famine,Famine,Kazakhstan,KAZ,3.900000095
+2010,Famine,Famine,Famine,Kazakhstan,KAZ,3.5
+2011,Famine,Famine,Famine,Kazakhstan,KAZ,3.200000048
+2012,Famine,Famine,Famine,Kazakhstan,KAZ,2.799999952
+2013,Famine,Famine,Famine,Kazakhstan,KAZ,2.599999905
+2014,Famine,Famine,Famine,Kazakhstan,KAZ,2.5
+2015,Famine,Famine,Famine,Kazakhstan,KAZ,2.5
+2016,Famine,Famine,Famine,Kazakhstan,KAZ,2.5
+2017,Famine,Famine,Famine,Kazakhstan,KAZ,2.599999905
+2018,Famine,Famine,Famine,Kazakhstan,KAZ,2.5
+2019,Famine,Famine,Famine,Kazakhstan,KAZ,2.5
+2001,Famine,Famine,Famine,Kenya,KEN,32.20000076
+2002,Famine,Famine,Famine,Kenya,KEN,33.59999847
+2003,Famine,Famine,Famine,Kenya,KEN,34.90000153
+2004,Famine,Famine,Famine,Kenya,KEN,32.09999847
+2005,Famine,Famine,Famine,Kenya,KEN,28.5
+2006,Famine,Famine,Famine,Kenya,KEN,26.10000038
+2007,Famine,Famine,Famine,Kenya,KEN,26.89999962
+2008,Famine,Famine,Famine,Kenya,KEN,26.60000038
+2009,Famine,Famine,Famine,Kenya,KEN,24.10000038
+2010,Famine,Famine,Famine,Kenya,KEN,24.20000076
+2011,Famine,Famine,Famine,Kenya,KEN,23.89999962
+2012,Famine,Famine,Famine,Kenya,KEN,24.89999962
+2013,Famine,Famine,Famine,Kenya,KEN,22.10000038
+2014,Famine,Famine,Famine,Kenya,KEN,20.89999962
+2015,Famine,Famine,Famine,Kenya,KEN,21.5
+2016,Famine,Famine,Famine,Kenya,KEN,23.20000076
+2017,Famine,Famine,Famine,Kenya,KEN,24.60000038
+2018,Famine,Famine,Famine,Kenya,KEN,24.39999962
+2019,Famine,Famine,Famine,Kenya,KEN,24.79999924
+2001,Famine,Famine,Famine,Kiribati,KIR,4.400000095
+2002,Famine,Famine,Famine,Kiribati,KIR,4.599999905
+2003,Famine,Famine,Famine,Kiribati,KIR,5
+2004,Famine,Famine,Famine,Kiribati,KIR,5.099999905
+2005,Famine,Famine,Famine,Kiribati,KIR,5.300000191
+2006,Famine,Famine,Famine,Kiribati,KIR,5.5
+2007,Famine,Famine,Famine,Kiribati,KIR,6
+2008,Famine,Famine,Famine,Kiribati,KIR,6.199999809
+2009,Famine,Famine,Famine,Kiribati,KIR,6
+2010,Famine,Famine,Famine,Kiribati,KIR,5.599999905
+2011,Famine,Famine,Famine,Kiribati,KIR,5.199999809
+2012,Famine,Famine,Famine,Kiribati,KIR,5
+2013,Famine,Famine,Famine,Kiribati,KIR,4.300000191
+2014,Famine,Famine,Famine,Kiribati,KIR,3.799999952
+2015,Famine,Famine,Famine,Kiribati,KIR,3.200000048
+2016,Famine,Famine,Famine,Kiribati,KIR,3.299999952
+2017,Famine,Famine,Famine,Kiribati,KIR,3.5
+2018,Famine,Famine,Famine,Kiribati,KIR,3.799999952
+2019,Famine,Famine,Famine,Kiribati,KIR,4.099999905
+2001,Famine,Famine,Famine,Kuwait,KWT,2.599999905
+2002,Famine,Famine,Famine,Kuwait,KWT,2.5
+2003,Famine,Famine,Famine,Kuwait,KWT,2.5
+2004,Famine,Famine,Famine,Kuwait,KWT,2.5
+2005,Famine,Famine,Famine,Kuwait,KWT,2.5
+2006,Famine,Famine,Famine,Kuwait,KWT,2.5
+2007,Famine,Famine,Famine,Kuwait,KWT,2.5
+2008,Famine,Famine,Famine,Kuwait,KWT,2.5
+2009,Famine,Famine,Famine,Kuwait,KWT,2.5
+2010,Famine,Famine,Famine,Kuwait,KWT,2.5
+2011,Famine,Famine,Famine,Kuwait,KWT,2.5
+2012,Famine,Famine,Famine,Kuwait,KWT,2.5
+2013,Famine,Famine,Famine,Kuwait,KWT,2.5
+2014,Famine,Famine,Famine,Kuwait,KWT,2.5
+2015,Famine,Famine,Famine,Kuwait,KWT,2.5
+2016,Famine,Famine,Famine,Kuwait,KWT,2.5
+2017,Famine,Famine,Famine,Kuwait,KWT,2.5
+2018,Famine,Famine,Famine,Kuwait,KWT,2.5
+2019,Famine,Famine,Famine,Kuwait,KWT,2.5
+2001,Famine,Famine,Famine,Kyrgyzstan,KGZ,15.10000038
+2002,Famine,Famine,Famine,Kyrgyzstan,KGZ,13.19999981
+2003,Famine,Famine,Famine,Kyrgyzstan,KGZ,11
+2004,Famine,Famine,Famine,Kyrgyzstan,KGZ,9
+2005,Famine,Famine,Famine,Kyrgyzstan,KGZ,9
+2006,Famine,Famine,Famine,Kyrgyzstan,KGZ,9.699999809
+2007,Famine,Famine,Famine,Kyrgyzstan,KGZ,10.39999962
+2008,Famine,Famine,Famine,Kyrgyzstan,KGZ,9.800000191
+2009,Famine,Famine,Famine,Kyrgyzstan,KGZ,9
+2010,Famine,Famine,Famine,Kyrgyzstan,KGZ,8.300000191
+2011,Famine,Famine,Famine,Kyrgyzstan,KGZ,8.100000381
+2012,Famine,Famine,Famine,Kyrgyzstan,KGZ,8.100000381
+2013,Famine,Famine,Famine,Kyrgyzstan,KGZ,7.900000095
+2014,Famine,Famine,Famine,Kyrgyzstan,KGZ,7.599999905
+2015,Famine,Famine,Famine,Kyrgyzstan,KGZ,8
+2016,Famine,Famine,Famine,Kyrgyzstan,KGZ,7.900000095
+2017,Famine,Famine,Famine,Kyrgyzstan,KGZ,7.699999809
+2018,Famine,Famine,Famine,Kyrgyzstan,KGZ,7.199999809
+2019,Famine,Famine,Famine,Kyrgyzstan,KGZ,7.199999809
+2001,Famine,Famine,Famine,Laos,LAO,31.20000076
+2002,Famine,Famine,Famine,Laos,LAO,29.5
+2003,Famine,Famine,Famine,Laos,LAO,26.89999962
+2004,Famine,Famine,Famine,Laos,LAO,24.10000038
+2005,Famine,Famine,Famine,Laos,LAO,22.39999962
+2006,Famine,Famine,Famine,Laos,LAO,20.60000038
+2007,Famine,Famine,Famine,Laos,LAO,20.10000038
+2008,Famine,Famine,Famine,Laos,LAO,18.29999924
+2009,Famine,Famine,Famine,Laos,LAO,17.70000076
+2010,Famine,Famine,Famine,Laos,LAO,16
+2011,Famine,Famine,Famine,Laos,LAO,15.89999962
+2012,Famine,Famine,Famine,Laos,LAO,14.5
+2013,Famine,Famine,Famine,Laos,LAO,12.19999981
+2014,Famine,Famine,Famine,Laos,LAO,9
+2015,Famine,Famine,Famine,Laos,LAO,6.699999809
+2016,Famine,Famine,Famine,Laos,LAO,5.900000095
+2017,Famine,Famine,Famine,Laos,LAO,5.599999905
+2018,Famine,Famine,Famine,Laos,LAO,5.400000095
+2019,Famine,Famine,Famine,Laos,LAO,5.300000191
+2001,Famine,Famine,Famine,Latvia,LVA,4.599999905
+2002,Famine,Famine,Famine,Latvia,LVA,3.400000095
+2003,Famine,Famine,Famine,Latvia,LVA,2.799999952
+2004,Famine,Famine,Famine,Latvia,LVA,2.5
+2005,Famine,Famine,Famine,Latvia,LVA,2.5
+2006,Famine,Famine,Famine,Latvia,LVA,2.5
+2007,Famine,Famine,Famine,Latvia,LVA,2.5
+2008,Famine,Famine,Famine,Latvia,LVA,2.5
+2009,Famine,Famine,Famine,Latvia,LVA,2.5
+2010,Famine,Famine,Famine,Latvia,LVA,2.5
+2011,Famine,Famine,Famine,Latvia,LVA,2.5
+2012,Famine,Famine,Famine,Latvia,LVA,2.5
+2013,Famine,Famine,Famine,Latvia,LVA,2.5
+2014,Famine,Famine,Famine,Latvia,LVA,2.5
+2015,Famine,Famine,Famine,Latvia,LVA,2.5
+2016,Famine,Famine,Famine,Latvia,LVA,2.5
+2017,Famine,Famine,Famine,Latvia,LVA,2.5
+2018,Famine,Famine,Famine,Latvia,LVA,2.5
+2019,Famine,Famine,Famine,Latvia,LVA,2.5
+2001,Famine,Famine,Famine,Lebanon,LBN,7.800000191
+2002,Famine,Famine,Famine,Lebanon,LBN,8.600000381
+2003,Famine,Famine,Famine,Lebanon,LBN,9.600000381
+2004,Famine,Famine,Famine,Lebanon,LBN,10.69999981
+2005,Famine,Famine,Famine,Lebanon,LBN,10.89999962
+2006,Famine,Famine,Famine,Lebanon,LBN,10.5
+2007,Famine,Famine,Famine,Lebanon,LBN,9.899999619
+2008,Famine,Famine,Famine,Lebanon,LBN,9.399999619
+2009,Famine,Famine,Famine,Lebanon,LBN,9.600000381
+2010,Famine,Famine,Famine,Lebanon,LBN,10.19999981
+2011,Famine,Famine,Famine,Lebanon,LBN,12.10000038
+2012,Famine,Famine,Famine,Lebanon,LBN,14.89999962
+2013,Famine,Famine,Famine,Lebanon,LBN,12.60000038
+2014,Famine,Famine,Famine,Lebanon,LBN,9.600000381
+2015,Famine,Famine,Famine,Lebanon,LBN,5.900000095
+2016,Famine,Famine,Famine,Lebanon,LBN,6.199999809
+2017,Famine,Famine,Famine,Lebanon,LBN,6.699999809
+2018,Famine,Famine,Famine,Lebanon,LBN,7.199999809
+2019,Famine,Famine,Famine,Lebanon,LBN,9.300000191
+2001,Famine,Famine,Famine,Lesotho,LSO,20
+2002,Famine,Famine,Famine,Lesotho,LSO,18.5
+2003,Famine,Famine,Famine,Lesotho,LSO,16.79999924
+2004,Famine,Famine,Famine,Lesotho,LSO,15.30000019
+2005,Famine,Famine,Famine,Lesotho,LSO,13.69999981
+2006,Famine,Famine,Famine,Lesotho,LSO,12.80000019
+2007,Famine,Famine,Famine,Lesotho,LSO,12.39999962
+2008,Famine,Famine,Famine,Lesotho,LSO,12.30000019
+2009,Famine,Famine,Famine,Lesotho,LSO,11.89999962
+2010,Famine,Famine,Famine,Lesotho,LSO,11.60000038
+2011,Famine,Famine,Famine,Lesotho,LSO,11.5
+2012,Famine,Famine,Famine,Lesotho,LSO,11.80000019
+2013,Famine,Famine,Famine,Lesotho,LSO,14.80000019
+2014,Famine,Famine,Famine,Lesotho,LSO,20.79999924
+2015,Famine,Famine,Famine,Lesotho,LSO,29.89999962
+2016,Famine,Famine,Famine,Lesotho,LSO,28.29999924
+2017,Famine,Famine,Famine,Lesotho,LSO,26
+2018,Famine,Famine,Famine,Lesotho,LSO,20.79999924
+2019,Famine,Famine,Famine,Lesotho,LSO,23.5
+2001,Famine,Famine,Famine,Liberia,LBR,36.59999847
+2002,Famine,Famine,Famine,Liberia,LBR,38.09999847
+2003,Famine,Famine,Famine,Liberia,LBR,37.59999847
+2004,Famine,Famine,Famine,Liberia,LBR,36.5
+2005,Famine,Famine,Famine,Liberia,LBR,35.79999924
+2006,Famine,Famine,Famine,Liberia,LBR,35.29999924
+2007,Famine,Famine,Famine,Liberia,LBR,34.40000153
+2008,Famine,Famine,Famine,Liberia,LBR,32.90000153
+2009,Famine,Famine,Famine,Liberia,LBR,32.90000153
+2010,Famine,Famine,Famine,Liberia,LBR,34.59999847
+2011,Famine,Famine,Famine,Liberia,LBR,35.20000076
+2012,Famine,Famine,Famine,Liberia,LBR,36.29999924
+2013,Famine,Famine,Famine,Liberia,LBR,36
+2014,Famine,Famine,Famine,Liberia,LBR,37.20000076
+2015,Famine,Famine,Famine,Liberia,LBR,36.40000153
+2016,Famine,Famine,Famine,Liberia,LBR,36.40000153
+2017,Famine,Famine,Famine,Liberia,LBR,36.59999847
+2018,Famine,Famine,Famine,Liberia,LBR,37.5
+2019,Famine,Famine,Famine,Liberia,LBR,38.90000153
+2001,Famine,Famine,Famine,Lithuania,LTU,2.5
+2002,Famine,Famine,Famine,Lithuania,LTU,2.5
+2003,Famine,Famine,Famine,Lithuania,LTU,2.5
+2004,Famine,Famine,Famine,Lithuania,LTU,2.5
+2005,Famine,Famine,Famine,Lithuania,LTU,2.5
+2006,Famine,Famine,Famine,Lithuania,LTU,2.5
+2007,Famine,Famine,Famine,Lithuania,LTU,2.5
+2008,Famine,Famine,Famine,Lithuania,LTU,2.5
+2009,Famine,Famine,Famine,Lithuania,LTU,2.5
+2010,Famine,Famine,Famine,Lithuania,LTU,2.5
+2011,Famine,Famine,Famine,Lithuania,LTU,2.5
+2012,Famine,Famine,Famine,Lithuania,LTU,2.5
+2013,Famine,Famine,Famine,Lithuania,LTU,2.5
+2014,Famine,Famine,Famine,Lithuania,LTU,2.5
+2015,Famine,Famine,Famine,Lithuania,LTU,2.5
+2016,Famine,Famine,Famine,Lithuania,LTU,2.5
+2017,Famine,Famine,Famine,Lithuania,LTU,2.5
+2018,Famine,Famine,Famine,Lithuania,LTU,2.5
+2019,Famine,Famine,Famine,Lithuania,LTU,2.5
+2001,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2002,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2003,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2004,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2005,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2006,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2007,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2008,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2009,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2010,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2011,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2012,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2013,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2014,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2015,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2016,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2017,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2018,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2019,Famine,Famine,Famine,Luxembourg,LUX,2.5
+2001,Famine,Famine,Famine,Macao,MAC,21.20000076
+2002,Famine,Famine,Famine,Macao,MAC,20.60000038
+2003,Famine,Famine,Famine,Macao,MAC,19.10000038
+2004,Famine,Famine,Famine,Macao,MAC,17.29999924
+2005,Famine,Famine,Famine,Macao,MAC,16
+2006,Famine,Famine,Famine,Macao,MAC,15.19999981
+2007,Famine,Famine,Famine,Macao,MAC,14.89999962
+2008,Famine,Famine,Famine,Macao,MAC,14.5
+2009,Famine,Famine,Famine,Macao,MAC,14.19999981
+2010,Famine,Famine,Famine,Macao,MAC,13.80000019
+2011,Famine,Famine,Famine,Macao,MAC,13.30000019
+2012,Famine,Famine,Famine,Macao,MAC,13
+2013,Famine,Famine,Famine,Macao,MAC,10.10000038
+2014,Famine,Famine,Famine,Macao,MAC,7.599999905
+2015,Famine,Famine,Famine,Macao,MAC,5.099999905
+2016,Famine,Famine,Famine,Macao,MAC,5
+2017,Famine,Famine,Famine,Macao,MAC,4.800000191
+2018,Famine,Famine,Famine,Macao,MAC,4.5
+2019,Famine,Famine,Famine,Macao,MAC,4.300000191
+2001,Famine,Famine,Famine,Madagascar,MDG,33.79999924
+2002,Famine,Famine,Famine,Madagascar,MDG,35.20000076
+2003,Famine,Famine,Famine,Madagascar,MDG,36.5
+2004,Famine,Famine,Famine,Madagascar,MDG,35
+2005,Famine,Famine,Famine,Madagascar,MDG,33.40000153
+2006,Famine,Famine,Famine,Madagascar,MDG,31
+2007,Famine,Famine,Famine,Madagascar,MDG,30.5
+2008,Famine,Famine,Famine,Madagascar,MDG,30.39999962
+2009,Famine,Famine,Famine,Madagascar,MDG,30.29999924
+2010,Famine,Famine,Famine,Madagascar,MDG,29
+2011,Famine,Famine,Famine,Madagascar,MDG,28.29999924
+2012,Famine,Famine,Famine,Madagascar,MDG,29.70000076
+2013,Famine,Famine,Famine,Madagascar,MDG,33.09999847
+2014,Famine,Famine,Famine,Madagascar,MDG,37.59999847
+2015,Famine,Famine,Famine,Madagascar,MDG,40.20000076
+2016,Famine,Famine,Famine,Madagascar,MDG,41.59999847
+2017,Famine,Famine,Famine,Madagascar,MDG,42.29999924
+2018,Famine,Famine,Famine,Madagascar,MDG,42.59999847
+2019,Famine,Famine,Famine,Madagascar,MDG,43.20000076
+2001,Famine,Famine,Famine,Malawi,MWI,23.60000038
+2002,Famine,Famine,Famine,Malawi,MWI,23.79999924
+2003,Famine,Famine,Famine,Malawi,MWI,24.60000038
+2004,Famine,Famine,Famine,Malawi,MWI,24
+2005,Famine,Famine,Famine,Malawi,MWI,22.5
+2006,Famine,Famine,Famine,Malawi,MWI,20.79999924
+2007,Famine,Famine,Famine,Malawi,MWI,19.29999924
+2008,Famine,Famine,Famine,Malawi,MWI,19
+2009,Famine,Famine,Famine,Malawi,MWI,17.5
+2010,Famine,Famine,Famine,Malawi,MWI,16.39999962
+2011,Famine,Famine,Famine,Malawi,MWI,15.19999981
+2012,Famine,Famine,Famine,Malawi,MWI,15.89999962
+2013,Famine,Famine,Famine,Malawi,MWI,16.20000076
+2014,Famine,Famine,Famine,Malawi,MWI,16.10000038
+2015,Famine,Famine,Famine,Malawi,MWI,16
+2016,Famine,Famine,Famine,Malawi,MWI,16.10000038
+2017,Famine,Famine,Famine,Malawi,MWI,16.5
+2018,Famine,Famine,Famine,Malawi,MWI,16.79999924
+2019,Famine,Famine,Famine,Malawi,MWI,17.29999924
+2001,Famine,Famine,Famine,Malaysia,MYS,2.5
+2002,Famine,Famine,Famine,Malaysia,MYS,2.799999952
+2003,Famine,Famine,Famine,Malaysia,MYS,2.900000095
+2004,Famine,Famine,Famine,Malaysia,MYS,3.099999905
+2005,Famine,Famine,Famine,Malaysia,MYS,3.200000048
+2006,Famine,Famine,Famine,Malaysia,MYS,3.400000095
+2007,Famine,Famine,Famine,Malaysia,MYS,3.599999905
+2008,Famine,Famine,Famine,Malaysia,MYS,3.599999905
+2009,Famine,Famine,Famine,Malaysia,MYS,3.5
+2010,Famine,Famine,Famine,Malaysia,MYS,3.200000048
+2011,Famine,Famine,Famine,Malaysia,MYS,3
+2012,Famine,Famine,Famine,Malaysia,MYS,2.799999952
+2013,Famine,Famine,Famine,Malaysia,MYS,3.200000048
+2014,Famine,Famine,Famine,Malaysia,MYS,3.400000095
+2015,Famine,Famine,Famine,Malaysia,MYS,3.799999952
+2016,Famine,Famine,Famine,Malaysia,MYS,3.5
+2017,Famine,Famine,Famine,Malaysia,MYS,3.400000095
+2018,Famine,Famine,Famine,Malaysia,MYS,3.200000048
+2019,Famine,Famine,Famine,Malaysia,MYS,3.200000048
+2001,Famine,Famine,Famine,Mali,MLI,16.20000076
+2002,Famine,Famine,Famine,Mali,MLI,15.19999981
+2003,Famine,Famine,Famine,Mali,MLI,15.10000038
+2004,Famine,Famine,Famine,Mali,MLI,14.39999962
+2005,Famine,Famine,Famine,Mali,MLI,13.30000019
+2006,Famine,Famine,Famine,Mali,MLI,11.89999962
+2007,Famine,Famine,Famine,Mali,MLI,10.39999962
+2008,Famine,Famine,Famine,Mali,MLI,9.399999619
+2009,Famine,Famine,Famine,Mali,MLI,7.5
+2010,Famine,Famine,Famine,Mali,MLI,6
+2011,Famine,Famine,Famine,Mali,MLI,4.800000191
+2012,Famine,Famine,Famine,Mali,MLI,4.699999809
+2013,Famine,Famine,Famine,Mali,MLI,4.800000191
+2014,Famine,Famine,Famine,Mali,MLI,4.900000095
+2015,Famine,Famine,Famine,Mali,MLI,5
+2016,Famine,Famine,Famine,Mali,MLI,5.300000191
+2017,Famine,Famine,Famine,Mali,MLI,6.300000191
+2018,Famine,Famine,Famine,Mali,MLI,7.699999809
+2019,Famine,Famine,Famine,Mali,MLI,10.39999962
+2001,Famine,Famine,Famine,Malta,MLT,2.5
+2002,Famine,Famine,Famine,Malta,MLT,2.5
+2003,Famine,Famine,Famine,Malta,MLT,2.5
+2004,Famine,Famine,Famine,Malta,MLT,2.5
+2005,Famine,Famine,Famine,Malta,MLT,2.5
+2006,Famine,Famine,Famine,Malta,MLT,2.5
+2007,Famine,Famine,Famine,Malta,MLT,2.5
+2008,Famine,Famine,Famine,Malta,MLT,2.5
+2009,Famine,Famine,Famine,Malta,MLT,2.5
+2010,Famine,Famine,Famine,Malta,MLT,2.5
+2011,Famine,Famine,Famine,Malta,MLT,2.5
+2012,Famine,Famine,Famine,Malta,MLT,2.5
+2013,Famine,Famine,Famine,Malta,MLT,2.5
+2014,Famine,Famine,Famine,Malta,MLT,2.5
+2015,Famine,Famine,Famine,Malta,MLT,2.5
+2016,Famine,Famine,Famine,Malta,MLT,2.5
+2017,Famine,Famine,Famine,Malta,MLT,2.5
+2018,Famine,Famine,Famine,Malta,MLT,2.5
+2019,Famine,Famine,Famine,Malta,MLT,2.5
+2001,Famine,Famine,Famine,Mauritania,MRT,8.300000191
+2002,Famine,Famine,Famine,Mauritania,MRT,7.900000095
+2003,Famine,Famine,Famine,Mauritania,MRT,8.300000191
+2004,Famine,Famine,Famine,Mauritania,MRT,8.5
+2005,Famine,Famine,Famine,Mauritania,MRT,9.399999619
+2006,Famine,Famine,Famine,Mauritania,MRT,8.800000191
+2007,Famine,Famine,Famine,Mauritania,MRT,8.100000381
+2008,Famine,Famine,Famine,Mauritania,MRT,7.300000191
+2009,Famine,Famine,Famine,Mauritania,MRT,7.199999809
+2010,Famine,Famine,Famine,Mauritania,MRT,7.300000191
+2011,Famine,Famine,Famine,Mauritania,MRT,7.099999905
+2012,Famine,Famine,Famine,Mauritania,MRT,7
+2013,Famine,Famine,Famine,Mauritania,MRT,7.300000191
+2014,Famine,Famine,Famine,Mauritania,MRT,7.699999809
+2015,Famine,Famine,Famine,Mauritania,MRT,8.300000191
+2016,Famine,Famine,Famine,Mauritania,MRT,8.5
+2017,Famine,Famine,Famine,Mauritania,MRT,8.600000381
+2018,Famine,Famine,Famine,Mauritania,MRT,8.699999809
+2019,Famine,Famine,Famine,Mauritania,MRT,9.100000381
+2001,Famine,Famine,Famine,Mauritius,MUS,5.699999809
+2002,Famine,Famine,Famine,Mauritius,MUS,5.599999905
+2003,Famine,Famine,Famine,Mauritius,MUS,5.400000095
+2004,Famine,Famine,Famine,Mauritius,MUS,5.199999809
+2005,Famine,Famine,Famine,Mauritius,MUS,5.099999905
+2006,Famine,Famine,Famine,Mauritius,MUS,5
+2007,Famine,Famine,Famine,Mauritius,MUS,5.199999809
+2008,Famine,Famine,Famine,Mauritius,MUS,5
+2009,Famine,Famine,Famine,Mauritius,MUS,4.800000191
+2010,Famine,Famine,Famine,Mauritius,MUS,4.699999809
+2011,Famine,Famine,Famine,Mauritius,MUS,5.300000191
+2012,Famine,Famine,Famine,Mauritius,MUS,5.599999905
+2013,Famine,Famine,Famine,Mauritius,MUS,5.599999905
+2014,Famine,Famine,Famine,Mauritius,MUS,5.300000191
+2015,Famine,Famine,Famine,Mauritius,MUS,5.599999905
+2016,Famine,Famine,Famine,Mauritius,MUS,5.699999809
+2017,Famine,Famine,Famine,Mauritius,MUS,5.900000095
+2018,Famine,Famine,Famine,Mauritius,MUS,5.699999809
+2019,Famine,Famine,Famine,Mauritius,MUS,6.199999809
+2001,Famine,Famine,Famine,Mexico,MEX,3.299999952
+2002,Famine,Famine,Famine,Mexico,MEX,3.700000048
+2003,Famine,Famine,Famine,Mexico,MEX,4.300000191
+2004,Famine,Famine,Famine,Mexico,MEX,4.599999905
+2005,Famine,Famine,Famine,Mexico,MEX,4.400000095
+2006,Famine,Famine,Famine,Mexico,MEX,4.099999905
+2007,Famine,Famine,Famine,Mexico,MEX,4.099999905
+2008,Famine,Famine,Famine,Mexico,MEX,4.5
+2009,Famine,Famine,Famine,Mexico,MEX,4.800000191
+2010,Famine,Famine,Famine,Mexico,MEX,5
+2011,Famine,Famine,Famine,Mexico,MEX,4.900000095
+2012,Famine,Famine,Famine,Mexico,MEX,4.800000191
+2013,Famine,Famine,Famine,Mexico,MEX,4.300000191
+2014,Famine,Famine,Famine,Mexico,MEX,4.400000095
+2015,Famine,Famine,Famine,Mexico,MEX,5
+2016,Famine,Famine,Famine,Mexico,MEX,5.800000191
+2017,Famine,Famine,Famine,Mexico,MEX,6.099999905
+2018,Famine,Famine,Famine,Mexico,MEX,6.199999809
+2019,Famine,Famine,Famine,Mexico,MEX,7.199999809
+2001,Famine,Famine,Famine,Middle East and North Africa,,8.347758293
+2002,Famine,Famine,Famine,Middle East and North Africa,,8.418598175
+2003,Famine,Famine,Famine,Middle East and North Africa,,8.596320152
+2004,Famine,Famine,Famine,Middle East and North Africa,,8.765911102
+2005,Famine,Famine,Famine,Middle East and North Africa,,8.776644707
+2006,Famine,Famine,Famine,Middle East and North Africa,,8.748951912
+2007,Famine,Famine,Famine,Middle East and North Africa,,8.695969582
+2008,Famine,Famine,Famine,Middle East and North Africa,,8.552230835
+2009,Famine,Famine,Famine,Middle East and North Africa,,8.621630669
+2010,Famine,Famine,Famine,Middle East and North Africa,,9.139748573
+2011,Famine,Famine,Famine,Middle East and North Africa,,9.587463379
+2012,Famine,Famine,Famine,Middle East and North Africa,,9.944926262
+2013,Famine,Famine,Famine,Middle East and North Africa,,9.572374344
+2014,Famine,Famine,Famine,Middle East and North Africa,,9.615689278
+2015,Famine,Famine,Famine,Middle East and North Africa,,9.823820114
+2016,Famine,Famine,Famine,Middle East and North Africa,,10.21929741
+2017,Famine,Famine,Famine,Middle East and North Africa,,10.38284874
+2018,Famine,Famine,Famine,Middle East and North Africa,,10.38078117
+2019,Famine,Famine,Famine,Middle East and North Africa,,10.65035248
+2001,Famine,Famine,Famine,Middle income,,13.95148563
+2002,Famine,Famine,Famine,Middle income,,14.03825855
+2003,Famine,Famine,Famine,Middle income,,13.97460175
+2004,Famine,Famine,Famine,Middle income,,13.65501976
+2005,Famine,Famine,Famine,Middle income,,13.04176998
+2006,Famine,Famine,Famine,Middle income,,12.06498909
+2007,Famine,Famine,Famine,Middle income,,11.09316444
+2008,Famine,Famine,Famine,Middle income,,10.45521736
+2009,Famine,Famine,Famine,Middle income,,9.866353035
+2010,Famine,Famine,Famine,Middle income,,9.522808075
+2011,Famine,Famine,Famine,Middle income,,9.206733704
+2012,Famine,Famine,Famine,Middle income,,8.968895912
+2013,Famine,Famine,Famine,Middle income,,8.770545959
+2014,Famine,Famine,Famine,Middle income,,8.564894676
+2015,Famine,Famine,Famine,Middle income,,8.405615807
+2016,Famine,Famine,Famine,Middle income,,8.275343895
+2017,Famine,Famine,Famine,Middle income,,8.158132553
+2018,Famine,Famine,Famine,Middle income,,8.182705879
+2019,Famine,Famine,Famine,Middle income,,8.747727394
+2001,Famine,Famine,Famine,Mongolia,MNG,31.10000038
+2002,Famine,Famine,Famine,Mongolia,MNG,30.60000038
+2003,Famine,Famine,Famine,Mongolia,MNG,30.79999924
+2004,Famine,Famine,Famine,Mongolia,MNG,30.70000076
+2005,Famine,Famine,Famine,Mongolia,MNG,29.60000038
+2006,Famine,Famine,Famine,Mongolia,MNG,27.39999962
+2007,Famine,Famine,Famine,Mongolia,MNG,25.20000076
+2008,Famine,Famine,Famine,Mongolia,MNG,22.29999924
+2009,Famine,Famine,Famine,Mongolia,MNG,20.5
+2010,Famine,Famine,Famine,Mongolia,MNG,19.10000038
+2011,Famine,Famine,Famine,Mongolia,MNG,18.39999962
+2012,Famine,Famine,Famine,Mongolia,MNG,17.29999924
+2013,Famine,Famine,Famine,Mongolia,MNG,14.69999981
+2014,Famine,Famine,Famine,Mongolia,MNG,11.5
+2015,Famine,Famine,Famine,Mongolia,MNG,8.399999619
+2016,Famine,Famine,Famine,Mongolia,MNG,7.400000095
+2017,Famine,Famine,Famine,Mongolia,MNG,6.300000191
+2018,Famine,Famine,Famine,Mongolia,MNG,5.5
+2019,Famine,Famine,Famine,Mongolia,MNG,4.300000191
+2001,Famine,Famine,Famine,Montenegro,MNE,9.600000381
+2002,Famine,Famine,Famine,Montenegro,MNE,9.199999809
+2003,Famine,Famine,Famine,Montenegro,MNE,8.399999619
+2004,Famine,Famine,Famine,Montenegro,MNE,7.699999809
+2005,Famine,Famine,Famine,Montenegro,MNE,5.5
+2006,Famine,Famine,Famine,Montenegro,MNE,3.099999905
+2007,Famine,Famine,Famine,Montenegro,MNE,2.5
+2008,Famine,Famine,Famine,Montenegro,MNE,2.5
+2009,Famine,Famine,Famine,Montenegro,MNE,2.5
+2010,Famine,Famine,Famine,Montenegro,MNE,2.5
+2011,Famine,Famine,Famine,Montenegro,MNE,2.5
+2012,Famine,Famine,Famine,Montenegro,MNE,2.5
+2013,Famine,Famine,Famine,Montenegro,MNE,2.5
+2014,Famine,Famine,Famine,Montenegro,MNE,2.5
+2015,Famine,Famine,Famine,Montenegro,MNE,2.5
+2016,Famine,Famine,Famine,Montenegro,MNE,2.5
+2017,Famine,Famine,Famine,Montenegro,MNE,2.5
+2018,Famine,Famine,Famine,Montenegro,MNE,2.5
+2019,Famine,Famine,Famine,Montenegro,MNE,2.5
+2001,Famine,Famine,Famine,Morocco,MAR,6.300000191
+2002,Famine,Famine,Famine,Morocco,MAR,5.900000095
+2003,Famine,Famine,Famine,Morocco,MAR,5.599999905
+2004,Famine,Famine,Famine,Morocco,MAR,5.5
+2005,Famine,Famine,Famine,Morocco,MAR,5.5
+2006,Famine,Famine,Famine,Morocco,MAR,5.599999905
+2007,Famine,Famine,Famine,Morocco,MAR,5.5
+2008,Famine,Famine,Famine,Morocco,MAR,5.599999905
+2009,Famine,Famine,Famine,Morocco,MAR,5.599999905
+2010,Famine,Famine,Famine,Morocco,MAR,5.5
+2011,Famine,Famine,Famine,Morocco,MAR,5.300000191
+2012,Famine,Famine,Famine,Morocco,MAR,4.900000095
+2013,Famine,Famine,Famine,Morocco,MAR,4.400000095
+2014,Famine,Famine,Famine,Morocco,MAR,4.099999905
+2015,Famine,Famine,Famine,Morocco,MAR,3.799999952
+2016,Famine,Famine,Famine,Morocco,MAR,3.799999952
+2017,Famine,Famine,Famine,Morocco,MAR,3.700000048
+2018,Famine,Famine,Famine,Morocco,MAR,3.700000048
+2019,Famine,Famine,Famine,Morocco,MAR,4.199999809
+2001,Famine,Famine,Famine,Mozambique,MOZ,36.5
+2002,Famine,Famine,Famine,Mozambique,MOZ,35.20000076
+2003,Famine,Famine,Famine,Mozambique,MOZ,34.09999847
+2004,Famine,Famine,Famine,Mozambique,MOZ,34.09999847
+2005,Famine,Famine,Famine,Mozambique,MOZ,33.29999924
+2006,Famine,Famine,Famine,Mozambique,MOZ,32.40000153
+2007,Famine,Famine,Famine,Mozambique,MOZ,29.89999962
+2008,Famine,Famine,Famine,Mozambique,MOZ,28.60000038
+2009,Famine,Famine,Famine,Mozambique,MOZ,25.79999924
+2010,Famine,Famine,Famine,Mozambique,MOZ,24.10000038
+2011,Famine,Famine,Famine,Mozambique,MOZ,21.79999924
+2012,Famine,Famine,Famine,Mozambique,MOZ,21
+2013,Famine,Famine,Famine,Mozambique,MOZ,22.39999962
+2014,Famine,Famine,Famine,Mozambique,MOZ,25.70000076
+2015,Famine,Famine,Famine,Mozambique,MOZ,29.70000076
+2016,Famine,Famine,Famine,Mozambique,MOZ,31.5
+2017,Famine,Famine,Famine,Mozambique,MOZ,31.39999962
+2018,Famine,Famine,Famine,Mozambique,MOZ,31
+2019,Famine,Famine,Famine,Mozambique,MOZ,31.20000076
+2001,Famine,Famine,Famine,Myanmar,MMR,37.59999847
+2002,Famine,Famine,Famine,Myanmar,MMR,34.79999924
+2003,Famine,Famine,Famine,Myanmar,MMR,32.40000153
+2004,Famine,Famine,Famine,Myanmar,MMR,30.20000076
+2005,Famine,Famine,Famine,Myanmar,MMR,27.79999924
+2006,Famine,Famine,Famine,Myanmar,MMR,24.79999924
+2007,Famine,Famine,Famine,Myanmar,MMR,21.20000076
+2008,Famine,Famine,Famine,Myanmar,MMR,18.39999962
+2009,Famine,Famine,Famine,Myanmar,MMR,15.10000038
+2010,Famine,Famine,Famine,Myanmar,MMR,13.10000038
+2011,Famine,Famine,Famine,Myanmar,MMR,11.39999962
+2012,Famine,Famine,Famine,Myanmar,MMR,11.19999981
+2013,Famine,Famine,Famine,Myanmar,MMR,10.5
+2014,Famine,Famine,Famine,Myanmar,MMR,9.699999809
+2015,Famine,Famine,Famine,Myanmar,MMR,8.899999619
+2016,Famine,Famine,Famine,Myanmar,MMR,8.399999619
+2017,Famine,Famine,Famine,Myanmar,MMR,8.100000381
+2018,Famine,Famine,Famine,Myanmar,MMR,7.800000191
+2019,Famine,Famine,Famine,Myanmar,MMR,7.599999905
+2001,Famine,Famine,Famine,Namibia,NAM,13.5
+2002,Famine,Famine,Famine,Namibia,NAM,14.5
+2003,Famine,Famine,Famine,Namibia,NAM,15.69999981
+2004,Famine,Famine,Famine,Namibia,NAM,16.60000038
+2005,Famine,Famine,Famine,Namibia,NAM,18.20000076
+2006,Famine,Famine,Famine,Namibia,NAM,20.10000038
+2007,Famine,Famine,Famine,Namibia,NAM,23.5
+2008,Famine,Famine,Famine,Namibia,NAM,27.60000038
+2009,Famine,Famine,Famine,Namibia,NAM,31.5
+2010,Famine,Famine,Famine,Namibia,NAM,32.70000076
+2011,Famine,Famine,Famine,Namibia,NAM,31.5
+2012,Famine,Famine,Famine,Namibia,NAM,29.60000038
+2013,Famine,Famine,Famine,Namibia,NAM,26.5
+2014,Famine,Famine,Famine,Namibia,NAM,23.60000038
+2015,Famine,Famine,Famine,Namibia,NAM,21
+2016,Famine,Famine,Famine,Namibia,NAM,20.20000076
+2017,Famine,Famine,Famine,Namibia,NAM,20
+2018,Famine,Famine,Famine,Namibia,NAM,19.89999962
+2019,Famine,Famine,Famine,Namibia,NAM,19.79999924
+2001,Famine,Famine,Famine,Nepal,NPL,23.5
+2002,Famine,Famine,Famine,Nepal,NPL,21.70000076
+2003,Famine,Famine,Famine,Nepal,NPL,19.79999924
+2004,Famine,Famine,Famine,Nepal,NPL,17.60000038
+2005,Famine,Famine,Famine,Nepal,NPL,16.79999924
+2006,Famine,Famine,Famine,Nepal,NPL,15.89999962
+2007,Famine,Famine,Famine,Nepal,NPL,14.89999962
+2008,Famine,Famine,Famine,Nepal,NPL,13
+2009,Famine,Famine,Famine,Nepal,NPL,11.60000038
+2010,Famine,Famine,Famine,Nepal,NPL,10.5
+2011,Famine,Famine,Famine,Nepal,NPL,9.199999809
+2012,Famine,Famine,Famine,Nepal,NPL,8.100000381
+2013,Famine,Famine,Famine,Nepal,NPL,7
+2014,Famine,Famine,Famine,Nepal,NPL,6.400000095
+2015,Famine,Famine,Famine,Nepal,NPL,5.300000191
+2016,Famine,Famine,Famine,Nepal,NPL,4.5
+2017,Famine,Famine,Famine,Nepal,NPL,4.199999809
+2018,Famine,Famine,Famine,Nepal,NPL,4.300000191
+2019,Famine,Famine,Famine,Nepal,NPL,4.800000191
+2001,Famine,Famine,Famine,Netherlands,NLD,2.5
+2002,Famine,Famine,Famine,Netherlands,NLD,2.5
+2003,Famine,Famine,Famine,Netherlands,NLD,2.5
+2004,Famine,Famine,Famine,Netherlands,NLD,2.5
+2005,Famine,Famine,Famine,Netherlands,NLD,2.5
+2006,Famine,Famine,Famine,Netherlands,NLD,2.5
+2007,Famine,Famine,Famine,Netherlands,NLD,2.5
+2008,Famine,Famine,Famine,Netherlands,NLD,2.5
+2009,Famine,Famine,Famine,Netherlands,NLD,2.5
+2010,Famine,Famine,Famine,Netherlands,NLD,2.5
+2011,Famine,Famine,Famine,Netherlands,NLD,2.5
+2012,Famine,Famine,Famine,Netherlands,NLD,2.5
+2013,Famine,Famine,Famine,Netherlands,NLD,2.5
+2014,Famine,Famine,Famine,Netherlands,NLD,2.5
+2015,Famine,Famine,Famine,Netherlands,NLD,2.5
+2016,Famine,Famine,Famine,Netherlands,NLD,2.5
+2017,Famine,Famine,Famine,Netherlands,NLD,2.5
+2018,Famine,Famine,Famine,Netherlands,NLD,2.5
+2019,Famine,Famine,Famine,Netherlands,NLD,2.5
+2001,Famine,Famine,Famine,New Caledonia,NCL,8.399999619
+2002,Famine,Famine,Famine,New Caledonia,NCL,8.699999809
+2003,Famine,Famine,Famine,New Caledonia,NCL,9.100000381
+2004,Famine,Famine,Famine,New Caledonia,NCL,9.5
+2005,Famine,Famine,Famine,New Caledonia,NCL,9.600000381
+2006,Famine,Famine,Famine,New Caledonia,NCL,9.5
+2007,Famine,Famine,Famine,New Caledonia,NCL,9.399999619
+2008,Famine,Famine,Famine,New Caledonia,NCL,9.100000381
+2009,Famine,Famine,Famine,New Caledonia,NCL,8.899999619
+2010,Famine,Famine,Famine,New Caledonia,NCL,8.5
+2011,Famine,Famine,Famine,New Caledonia,NCL,8.199999809
+2012,Famine,Famine,Famine,New Caledonia,NCL,8.100000381
+2013,Famine,Famine,Famine,New Caledonia,NCL,7.400000095
+2014,Famine,Famine,Famine,New Caledonia,NCL,6.800000191
+2015,Famine,Famine,Famine,New Caledonia,NCL,6.199999809
+2016,Famine,Famine,Famine,New Caledonia,NCL,6.5
+2017,Famine,Famine,Famine,New Caledonia,NCL,6.800000191
+2018,Famine,Famine,Famine,New Caledonia,NCL,7
+2019,Famine,Famine,Famine,New Caledonia,NCL,6.900000095
+2001,Famine,Famine,Famine,New Zealand,NZL,2.5
+2002,Famine,Famine,Famine,New Zealand,NZL,2.5
+2003,Famine,Famine,Famine,New Zealand,NZL,2.5
+2004,Famine,Famine,Famine,New Zealand,NZL,2.5
+2005,Famine,Famine,Famine,New Zealand,NZL,2.5
+2006,Famine,Famine,Famine,New Zealand,NZL,2.5
+2007,Famine,Famine,Famine,New Zealand,NZL,2.5
+2008,Famine,Famine,Famine,New Zealand,NZL,2.5
+2009,Famine,Famine,Famine,New Zealand,NZL,2.5
+2010,Famine,Famine,Famine,New Zealand,NZL,2.5
+2011,Famine,Famine,Famine,New Zealand,NZL,2.5
+2012,Famine,Famine,Famine,New Zealand,NZL,2.5
+2013,Famine,Famine,Famine,New Zealand,NZL,2.5
+2014,Famine,Famine,Famine,New Zealand,NZL,2.5
+2015,Famine,Famine,Famine,New Zealand,NZL,2.5
+2016,Famine,Famine,Famine,New Zealand,NZL,2.5
+2017,Famine,Famine,Famine,New Zealand,NZL,2.5
+2018,Famine,Famine,Famine,New Zealand,NZL,2.5
+2019,Famine,Famine,Famine,New Zealand,NZL,2.5
+2001,Famine,Famine,Famine,Nicaragua,NIC,27.5
+2002,Famine,Famine,Famine,Nicaragua,NIC,25.20000076
+2003,Famine,Famine,Famine,Nicaragua,NIC,25
+2004,Famine,Famine,Famine,Nicaragua,NIC,24
+2005,Famine,Famine,Famine,Nicaragua,NIC,23.29999924
+2006,Famine,Famine,Famine,Nicaragua,NIC,22.20000076
+2007,Famine,Famine,Famine,Nicaragua,NIC,21.60000038
+2008,Famine,Famine,Famine,Nicaragua,NIC,21.20000076
+2009,Famine,Famine,Famine,Nicaragua,NIC,20.89999962
+2010,Famine,Famine,Famine,Nicaragua,NIC,20.10000038
+2011,Famine,Famine,Famine,Nicaragua,NIC,19.20000076
+2012,Famine,Famine,Famine,Nicaragua,NIC,17.79999924
+2013,Famine,Famine,Famine,Nicaragua,NIC,18.10000038
+2014,Famine,Famine,Famine,Nicaragua,NIC,18.70000076
+2015,Famine,Famine,Famine,Nicaragua,NIC,19
+2016,Famine,Famine,Famine,Nicaragua,NIC,18
+2017,Famine,Famine,Famine,Nicaragua,NIC,17.60000038
+2018,Famine,Famine,Famine,Nicaragua,NIC,18.20000076
+2019,Famine,Famine,Famine,Nicaragua,NIC,19.29999924
+2001,Famine,Famine,Famine,Nigeria,NGA,8.899999619
+2002,Famine,Famine,Famine,Nigeria,NGA,8.899999619
+2003,Famine,Famine,Famine,Nigeria,NGA,8.600000381
+2004,Famine,Famine,Famine,Nigeria,NGA,7.900000095
+2005,Famine,Famine,Famine,Nigeria,NGA,7.099999905
+2006,Famine,Famine,Famine,Nigeria,NGA,6.699999809
+2007,Famine,Famine,Famine,Nigeria,NGA,6.599999905
+2008,Famine,Famine,Famine,Nigeria,NGA,6.800000191
+2009,Famine,Famine,Famine,Nigeria,NGA,7.300000191
+2010,Famine,Famine,Famine,Nigeria,NGA,7.800000191
+2011,Famine,Famine,Famine,Nigeria,NGA,8.100000381
+2012,Famine,Famine,Famine,Nigeria,NGA,8.800000191
+2013,Famine,Famine,Famine,Nigeria,NGA,9
+2014,Famine,Famine,Famine,Nigeria,NGA,9.300000191
+2015,Famine,Famine,Famine,Nigeria,NGA,9.199999809
+2016,Famine,Famine,Famine,Nigeria,NGA,9.399999619
+2017,Famine,Famine,Famine,Nigeria,NGA,10
+2018,Famine,Famine,Famine,Nigeria,NGA,10.69999981
+2019,Famine,Famine,Famine,Nigeria,NGA,14.60000038
+2001,Famine,Famine,Famine,North America,,2.5
+2002,Famine,Famine,Famine,North America,,2.5
+2003,Famine,Famine,Famine,North America,,2.5
+2004,Famine,Famine,Famine,North America,,2.5
+2005,Famine,Famine,Famine,North America,,2.5
+2006,Famine,Famine,Famine,North America,,2.5
+2007,Famine,Famine,Famine,North America,,2.5
+2008,Famine,Famine,Famine,North America,,2.5
+2009,Famine,Famine,Famine,North America,,2.5
+2010,Famine,Famine,Famine,North America,,2.5
+2011,Famine,Famine,Famine,North America,,2.5
+2012,Famine,Famine,Famine,North America,,2.5
+2013,Famine,Famine,Famine,North America,,2.5
+2014,Famine,Famine,Famine,North America,,2.5
+2015,Famine,Famine,Famine,North America,,2.5
+2016,Famine,Famine,Famine,North America,,2.5
+2017,Famine,Famine,Famine,North America,,2.5
+2018,Famine,Famine,Famine,North America,,2.5
+2019,Famine,Famine,Famine,North America,,2.5
+2001,Famine,Famine,Famine,North Korea,PRK,35.70000076
+2002,Famine,Famine,Famine,North Korea,PRK,34.79999924
+2003,Famine,Famine,Famine,North Korea,PRK,32.29999924
+2004,Famine,Famine,Famine,North Korea,PRK,32.59999847
+2005,Famine,Famine,Famine,North Korea,PRK,33.79999924
+2006,Famine,Famine,Famine,North Korea,PRK,36.09999847
+2007,Famine,Famine,Famine,North Korea,PRK,38.20000076
+2008,Famine,Famine,Famine,North Korea,PRK,39.70000076
+2009,Famine,Famine,Famine,North Korea,PRK,41.40000153
+2010,Famine,Famine,Famine,North Korea,PRK,42.59999847
+2011,Famine,Famine,Famine,North Korea,PRK,43
+2012,Famine,Famine,Famine,North Korea,PRK,42.70000076
+2013,Famine,Famine,Famine,North Korea,PRK,41.09999847
+2014,Famine,Famine,Famine,North Korea,PRK,40.59999847
+2015,Famine,Famine,Famine,North Korea,PRK,40.29999924
+2016,Famine,Famine,Famine,North Korea,PRK,41.20000076
+2017,Famine,Famine,Famine,North Korea,PRK,42.90000153
+2018,Famine,Famine,Famine,North Korea,PRK,42.59999847
+2019,Famine,Famine,Famine,North Korea,PRK,42.40000153
+2001,Famine,Famine,Famine,North Macedonia,MKD,7.5
+2002,Famine,Famine,Famine,North Macedonia,MKD,7.5
+2003,Famine,Famine,Famine,North Macedonia,MKD,5.800000191
+2004,Famine,Famine,Famine,North Macedonia,MKD,5.5
+2005,Famine,Famine,Famine,North Macedonia,MKD,5
+2006,Famine,Famine,Famine,North Macedonia,MKD,4.400000095
+2007,Famine,Famine,Famine,North Macedonia,MKD,3.599999905
+2008,Famine,Famine,Famine,North Macedonia,MKD,2.900000095
+2009,Famine,Famine,Famine,North Macedonia,MKD,3.099999905
+2010,Famine,Famine,Famine,North Macedonia,MKD,3.400000095
+2011,Famine,Famine,Famine,North Macedonia,MKD,3.599999905
+2012,Famine,Famine,Famine,North Macedonia,MKD,3.700000048
+2013,Famine,Famine,Famine,North Macedonia,MKD,3.599999905
+2014,Famine,Famine,Famine,North Macedonia,MKD,3.5
+2015,Famine,Famine,Famine,North Macedonia,MKD,3.299999952
+2016,Famine,Famine,Famine,North Macedonia,MKD,3
+2017,Famine,Famine,Famine,North Macedonia,MKD,2.700000048
+2018,Famine,Famine,Famine,North Macedonia,MKD,2.5
+2019,Famine,Famine,Famine,North Macedonia,MKD,2.700000048
+2001,Famine,Famine,Famine,Norway,NOR,2.5
+2002,Famine,Famine,Famine,Norway,NOR,2.5
+2003,Famine,Famine,Famine,Norway,NOR,2.5
+2004,Famine,Famine,Famine,Norway,NOR,2.5
+2005,Famine,Famine,Famine,Norway,NOR,2.5
+2006,Famine,Famine,Famine,Norway,NOR,2.5
+2007,Famine,Famine,Famine,Norway,NOR,2.5
+2008,Famine,Famine,Famine,Norway,NOR,2.5
+2009,Famine,Famine,Famine,Norway,NOR,2.5
+2010,Famine,Famine,Famine,Norway,NOR,2.5
+2011,Famine,Famine,Famine,Norway,NOR,2.5
+2012,Famine,Famine,Famine,Norway,NOR,2.5
+2013,Famine,Famine,Famine,Norway,NOR,2.5
+2014,Famine,Famine,Famine,Norway,NOR,2.5
+2015,Famine,Famine,Famine,Norway,NOR,2.5
+2016,Famine,Famine,Famine,Norway,NOR,2.5
+2017,Famine,Famine,Famine,Norway,NOR,2.5
+2018,Famine,Famine,Famine,Norway,NOR,2.5
+2019,Famine,Famine,Famine,Norway,NOR,2.5
+2001,Famine,Famine,Famine,Oman,OMN,12.30000019
+2002,Famine,Famine,Famine,Oman,OMN,11.30000019
+2003,Famine,Famine,Famine,Oman,OMN,11
+2004,Famine,Famine,Famine,Oman,OMN,10.10000038
+2005,Famine,Famine,Famine,Oman,OMN,9.600000381
+2006,Famine,Famine,Famine,Oman,OMN,9.600000381
+2007,Famine,Famine,Famine,Oman,OMN,9.699999809
+2008,Famine,Famine,Famine,Oman,OMN,9.699999809
+2009,Famine,Famine,Famine,Oman,OMN,9.399999619
+2010,Famine,Famine,Famine,Oman,OMN,9.100000381
+2011,Famine,Famine,Famine,Oman,OMN,8.399999619
+2012,Famine,Famine,Famine,Oman,OMN,7.300000191
+2013,Famine,Famine,Famine,Oman,OMN,6.800000191
+2014,Famine,Famine,Famine,Oman,OMN,7
+2015,Famine,Famine,Famine,Oman,OMN,8.100000381
+2016,Famine,Famine,Famine,Oman,OMN,8.399999619
+2017,Famine,Famine,Famine,Oman,OMN,8.399999619
+2018,Famine,Famine,Famine,Oman,OMN,8.100000381
+2019,Famine,Famine,Famine,Oman,OMN,8.199999809
+2001,Famine,Famine,Famine,Pakistan,PAK,21.10000038
+2002,Famine,Famine,Famine,Pakistan,PAK,21.79999924
+2003,Famine,Famine,Famine,Pakistan,PAK,21
+2004,Famine,Famine,Famine,Pakistan,PAK,19
+2005,Famine,Famine,Famine,Pakistan,PAK,17.60000038
+2006,Famine,Famine,Famine,Pakistan,PAK,16.39999962
+2007,Famine,Famine,Famine,Pakistan,PAK,15.80000019
+2008,Famine,Famine,Famine,Pakistan,PAK,15.80000019
+2009,Famine,Famine,Famine,Pakistan,PAK,15.89999962
+2010,Famine,Famine,Famine,Pakistan,PAK,15.89999962
+2011,Famine,Famine,Famine,Pakistan,PAK,15.89999962
+2012,Famine,Famine,Famine,Pakistan,PAK,15.89999962
+2013,Famine,Famine,Famine,Pakistan,PAK,15.10000038
+2014,Famine,Famine,Famine,Pakistan,PAK,13.89999962
+2015,Famine,Famine,Famine,Pakistan,PAK,12.80000019
+2016,Famine,Famine,Famine,Pakistan,PAK,12.39999962
+2017,Famine,Famine,Famine,Pakistan,PAK,12.10000038
+2018,Famine,Famine,Famine,Pakistan,PAK,12.19999981
+2019,Famine,Famine,Famine,Pakistan,PAK,12.89999962
+2001,Famine,Famine,Famine,Panama,PAN,24.5
+2002,Famine,Famine,Famine,Panama,PAN,20.5
+2003,Famine,Famine,Famine,Panama,PAN,21
+2004,Famine,Famine,Famine,Panama,PAN,21.29999924
+2005,Famine,Famine,Famine,Panama,PAN,21.60000038
+2006,Famine,Famine,Famine,Panama,PAN,18.5
+2007,Famine,Famine,Famine,Panama,PAN,16.20000076
+2008,Famine,Famine,Famine,Panama,PAN,14.10000038
+2009,Famine,Famine,Famine,Panama,PAN,12.89999962
+2010,Famine,Famine,Famine,Panama,PAN,11.80000019
+2011,Famine,Famine,Famine,Panama,PAN,10.19999981
+2012,Famine,Famine,Famine,Panama,PAN,9.100000381
+2013,Famine,Famine,Famine,Panama,PAN,8.5
+2014,Famine,Famine,Famine,Panama,PAN,8.300000191
+2015,Famine,Famine,Famine,Panama,PAN,8.100000381
+2016,Famine,Famine,Famine,Panama,PAN,7.800000191
+2017,Famine,Famine,Famine,Panama,PAN,7.5
+2018,Famine,Famine,Famine,Panama,PAN,7.400000095
+2019,Famine,Famine,Famine,Panama,PAN,7.5
+2001,Famine,Famine,Famine,Papua New Guinea,PNG,26.29999924
+2002,Famine,Famine,Famine,Papua New Guinea,PNG,27
+2003,Famine,Famine,Famine,Papua New Guinea,PNG,27.70000076
+2004,Famine,Famine,Famine,Papua New Guinea,PNG,28.60000038
+2005,Famine,Famine,Famine,Papua New Guinea,PNG,27.39999962
+2006,Famine,Famine,Famine,Papua New Guinea,PNG,27.29999924
+2007,Famine,Famine,Famine,Papua New Guinea,PNG,26.60000038
+2008,Famine,Famine,Famine,Papua New Guinea,PNG,27
+2009,Famine,Famine,Famine,Papua New Guinea,PNG,24.70000076
+2010,Famine,Famine,Famine,Papua New Guinea,PNG,22.70000076
+2011,Famine,Famine,Famine,Papua New Guinea,PNG,21.10000038
+2012,Famine,Famine,Famine,Papua New Guinea,PNG,21.29999924
+2013,Famine,Famine,Famine,Papua New Guinea,PNG,22.79999924
+2014,Famine,Famine,Famine,Papua New Guinea,PNG,23.79999924
+2015,Famine,Famine,Famine,Papua New Guinea,PNG,25
+2016,Famine,Famine,Famine,Papua New Guinea,PNG,25.20000076
+2017,Famine,Famine,Famine,Papua New Guinea,PNG,25.10000038
+2018,Famine,Famine,Famine,Papua New Guinea,PNG,24.89999962
+2019,Famine,Famine,Famine,Papua New Guinea,PNG,24.60000038
+2001,Famine,Famine,Famine,Paraguay,PRY,10.5
+2002,Famine,Famine,Famine,Paraguay,PRY,9.300000191
+2003,Famine,Famine,Famine,Paraguay,PRY,8.800000191
+2004,Famine,Famine,Famine,Paraguay,PRY,9.100000381
+2005,Famine,Famine,Famine,Paraguay,PRY,9.5
+2006,Famine,Famine,Famine,Paraguay,PRY,9.699999809
+2007,Famine,Famine,Famine,Paraguay,PRY,9.399999619
+2008,Famine,Famine,Famine,Paraguay,PRY,9.600000381
+2009,Famine,Famine,Famine,Paraguay,PRY,9.199999809
+2010,Famine,Famine,Famine,Paraguay,PRY,8.399999619
+2011,Famine,Famine,Famine,Paraguay,PRY,7.800000191
+2012,Famine,Famine,Famine,Paraguay,PRY,7.699999809
+2013,Famine,Famine,Famine,Paraguay,PRY,7.699999809
+2014,Famine,Famine,Famine,Paraguay,PRY,7.400000095
+2015,Famine,Famine,Famine,Paraguay,PRY,7.400000095
+2016,Famine,Famine,Famine,Paraguay,PRY,7.699999809
+2017,Famine,Famine,Famine,Paraguay,PRY,7.800000191
+2018,Famine,Famine,Famine,Paraguay,PRY,7.900000095
+2019,Famine,Famine,Famine,Paraguay,PRY,9.199999809
+2001,Famine,Famine,Famine,Peru,PER,21.5
+2002,Famine,Famine,Famine,Peru,PER,22.89999962
+2003,Famine,Famine,Famine,Peru,PER,23.10000038
+2004,Famine,Famine,Famine,Peru,PER,21.70000076
+2005,Famine,Famine,Famine,Peru,PER,18.79999924
+2006,Famine,Famine,Famine,Peru,PER,15.69999981
+2007,Famine,Famine,Famine,Peru,PER,13.69999981
+2008,Famine,Famine,Famine,Peru,PER,11.60000038
+2009,Famine,Famine,Famine,Peru,PER,9.800000191
+2010,Famine,Famine,Famine,Peru,PER,8.800000191
+2011,Famine,Famine,Famine,Peru,PER,7.699999809
+2012,Famine,Famine,Famine,Peru,PER,6.699999809
+2013,Famine,Famine,Famine,Peru,PER,5.599999905
+2014,Famine,Famine,Famine,Peru,PER,5.400000095
+2015,Famine,Famine,Famine,Peru,PER,5.900000095
+2016,Famine,Famine,Famine,Peru,PER,6.900000095
+2017,Famine,Famine,Famine,Peru,PER,7.599999905
+2018,Famine,Famine,Famine,Peru,PER,7.900000095
+2019,Famine,Famine,Famine,Peru,PER,8.699999809
+2001,Famine,Famine,Famine,Philippines,PHL,18.70000076
+2002,Famine,Famine,Famine,Philippines,PHL,18.39999962
+2003,Famine,Famine,Famine,Philippines,PHL,17.10000038
+2004,Famine,Famine,Famine,Philippines,PHL,16.20000076
+2005,Famine,Famine,Famine,Philippines,PHL,14.89999962
+2006,Famine,Famine,Famine,Philippines,PHL,14
+2007,Famine,Famine,Famine,Philippines,PHL,13.10000038
+2008,Famine,Famine,Famine,Philippines,PHL,12.60000038
+2009,Famine,Famine,Famine,Philippines,PHL,12.80000019
+2010,Famine,Famine,Famine,Philippines,PHL,13.39999962
+2011,Famine,Famine,Famine,Philippines,PHL,13.69999981
+2012,Famine,Famine,Famine,Philippines,PHL,13.69999981
+2013,Famine,Famine,Famine,Philippines,PHL,13.80000019
+2014,Famine,Famine,Famine,Philippines,PHL,13.80000019
+2015,Famine,Famine,Famine,Philippines,PHL,13.30000019
+2016,Famine,Famine,Famine,Philippines,PHL,12.10000038
+2017,Famine,Famine,Famine,Philippines,PHL,10.89999962
+2018,Famine,Famine,Famine,Philippines,PHL,9.699999809
+2019,Famine,Famine,Famine,Philippines,PHL,9.399999619
+2001,Famine,Famine,Famine,Poland,POL,2.5
+2002,Famine,Famine,Famine,Poland,POL,2.5
+2003,Famine,Famine,Famine,Poland,POL,2.5
+2004,Famine,Famine,Famine,Poland,POL,2.5
+2005,Famine,Famine,Famine,Poland,POL,2.5
+2006,Famine,Famine,Famine,Poland,POL,2.5
+2007,Famine,Famine,Famine,Poland,POL,2.5
+2008,Famine,Famine,Famine,Poland,POL,2.5
+2009,Famine,Famine,Famine,Poland,POL,2.5
+2010,Famine,Famine,Famine,Poland,POL,2.5
+2011,Famine,Famine,Famine,Poland,POL,2.5
+2012,Famine,Famine,Famine,Poland,POL,2.5
+2013,Famine,Famine,Famine,Poland,POL,2.5
+2014,Famine,Famine,Famine,Poland,POL,2.5
+2015,Famine,Famine,Famine,Poland,POL,2.5
+2016,Famine,Famine,Famine,Poland,POL,2.5
+2017,Famine,Famine,Famine,Poland,POL,2.5
+2018,Famine,Famine,Famine,Poland,POL,2.5
+2019,Famine,Famine,Famine,Poland,POL,2.5
+2001,Famine,Famine,Famine,Portugal,PRT,2.5
+2002,Famine,Famine,Famine,Portugal,PRT,2.5
+2003,Famine,Famine,Famine,Portugal,PRT,2.5
+2004,Famine,Famine,Famine,Portugal,PRT,2.5
+2005,Famine,Famine,Famine,Portugal,PRT,2.5
+2006,Famine,Famine,Famine,Portugal,PRT,2.5
+2007,Famine,Famine,Famine,Portugal,PRT,2.5
+2008,Famine,Famine,Famine,Portugal,PRT,2.5
+2009,Famine,Famine,Famine,Portugal,PRT,2.5
+2010,Famine,Famine,Famine,Portugal,PRT,2.5
+2011,Famine,Famine,Famine,Portugal,PRT,2.5
+2012,Famine,Famine,Famine,Portugal,PRT,2.5
+2013,Famine,Famine,Famine,Portugal,PRT,2.5
+2014,Famine,Famine,Famine,Portugal,PRT,2.5
+2015,Famine,Famine,Famine,Portugal,PRT,2.5
+2016,Famine,Famine,Famine,Portugal,PRT,2.5
+2017,Famine,Famine,Famine,Portugal,PRT,2.5
+2018,Famine,Famine,Famine,Portugal,PRT,2.5
+2019,Famine,Famine,Famine,Portugal,PRT,2.5
+2001,Famine,Famine,Famine,Romania,ROU,2.5
+2002,Famine,Famine,Famine,Romania,ROU,2.5
+2003,Famine,Famine,Famine,Romania,ROU,2.5
+2004,Famine,Famine,Famine,Romania,ROU,2.5
+2005,Famine,Famine,Famine,Romania,ROU,2.5
+2006,Famine,Famine,Famine,Romania,ROU,2.5
+2007,Famine,Famine,Famine,Romania,ROU,2.5
+2008,Famine,Famine,Famine,Romania,ROU,2.5
+2009,Famine,Famine,Famine,Romania,ROU,2.5
+2010,Famine,Famine,Famine,Romania,ROU,2.5
+2011,Famine,Famine,Famine,Romania,ROU,2.5
+2012,Famine,Famine,Famine,Romania,ROU,2.5
+2013,Famine,Famine,Famine,Romania,ROU,2.5
+2014,Famine,Famine,Famine,Romania,ROU,2.5
+2015,Famine,Famine,Famine,Romania,ROU,2.5
+2016,Famine,Famine,Famine,Romania,ROU,2.5
+2017,Famine,Famine,Famine,Romania,ROU,2.5
+2018,Famine,Famine,Famine,Romania,ROU,2.5
+2019,Famine,Famine,Famine,Romania,ROU,2.5
+2001,Famine,Famine,Famine,Russia,RUS,4
+2002,Famine,Famine,Famine,Russia,RUS,3.299999952
+2003,Famine,Famine,Famine,Russia,RUS,2.799999952
+2004,Famine,Famine,Famine,Russia,RUS,2.5
+2005,Famine,Famine,Famine,Russia,RUS,2.5
+2006,Famine,Famine,Famine,Russia,RUS,2.5
+2007,Famine,Famine,Famine,Russia,RUS,2.5
+2008,Famine,Famine,Famine,Russia,RUS,2.5
+2009,Famine,Famine,Famine,Russia,RUS,2.5
+2010,Famine,Famine,Famine,Russia,RUS,2.5
+2011,Famine,Famine,Famine,Russia,RUS,2.5
+2012,Famine,Famine,Famine,Russia,RUS,2.5
+2013,Famine,Famine,Famine,Russia,RUS,2.5
+2014,Famine,Famine,Famine,Russia,RUS,2.5
+2015,Famine,Famine,Famine,Russia,RUS,2.5
+2016,Famine,Famine,Famine,Russia,RUS,2.5
+2017,Famine,Famine,Famine,Russia,RUS,2.5
+2018,Famine,Famine,Famine,Russia,RUS,2.5
+2019,Famine,Famine,Famine,Russia,RUS,2.5
+2001,Famine,Famine,Famine,Rwanda,RWA,38.5
+2002,Famine,Famine,Famine,Rwanda,RWA,35.20000076
+2003,Famine,Famine,Famine,Rwanda,RWA,34.59999847
+2004,Famine,Famine,Famine,Rwanda,RWA,35.90000153
+2005,Famine,Famine,Famine,Rwanda,RWA,35.29999924
+2006,Famine,Famine,Famine,Rwanda,RWA,33.70000076
+2007,Famine,Famine,Famine,Rwanda,RWA,32.29999924
+2008,Famine,Famine,Famine,Rwanda,RWA,29.5
+2009,Famine,Famine,Famine,Rwanda,RWA,29.79999924
+2010,Famine,Famine,Famine,Rwanda,RWA,31.29999924
+2011,Famine,Famine,Famine,Rwanda,RWA,34.09999847
+2012,Famine,Famine,Famine,Rwanda,RWA,34.29999924
+2013,Famine,Famine,Famine,Rwanda,RWA,34.70000076
+2014,Famine,Famine,Famine,Rwanda,RWA,35.09999847
+2015,Famine,Famine,Famine,Rwanda,RWA,35.29999924
+2016,Famine,Famine,Famine,Rwanda,RWA,34.79999924
+2017,Famine,Famine,Famine,Rwanda,RWA,34.5
+2018,Famine,Famine,Famine,Rwanda,RWA,34.29999924
+2019,Famine,Famine,Famine,Rwanda,RWA,35.20000076
+2001,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,13.39999962
+2002,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,11.89999962
+2003,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,9.5
+2004,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,8.699999809
+2005,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,7.900000095
+2006,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,7.199999809
+2007,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,6.800000191
+2008,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,6.400000095
+2009,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,6
+2010,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.699999809
+2011,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.5
+2012,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.199999809
+2013,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.400000095
+2014,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.5
+2015,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.699999809
+2016,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.599999905
+2017,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.5
+2018,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.5
+2019,Famine,Famine,Famine,Saint Vincent and the Grenadines,VCT,5.599999905
+2001,Famine,Famine,Famine,Samoa,WSM,3.5
+2002,Famine,Famine,Famine,Samoa,WSM,3.5
+2003,Famine,Famine,Famine,Samoa,WSM,3.400000095
+2004,Famine,Famine,Famine,Samoa,WSM,3.299999952
+2005,Famine,Famine,Famine,Samoa,WSM,3.400000095
+2006,Famine,Famine,Famine,Samoa,WSM,3.799999952
+2007,Famine,Famine,Famine,Samoa,WSM,3.900000095
+2008,Famine,Famine,Famine,Samoa,WSM,4
+2009,Famine,Famine,Famine,Samoa,WSM,3.900000095
+2010,Famine,Famine,Famine,Samoa,WSM,4.199999809
+2011,Famine,Famine,Famine,Samoa,WSM,4.099999905
+2012,Famine,Famine,Famine,Samoa,WSM,4
+2013,Famine,Famine,Famine,Samoa,WSM,3.799999952
+2014,Famine,Famine,Famine,Samoa,WSM,4.199999809
+2015,Famine,Famine,Famine,Samoa,WSM,4.5
+2016,Famine,Famine,Famine,Samoa,WSM,4.699999809
+2017,Famine,Famine,Famine,Samoa,WSM,4.699999809
+2018,Famine,Famine,Famine,Samoa,WSM,4.599999905
+2019,Famine,Famine,Famine,Samoa,WSM,4.599999905
+2001,Famine,Famine,Famine,Sao Tome and Principe,STP,14.69999981
+2002,Famine,Famine,Famine,Sao Tome and Principe,STP,12.80000019
+2003,Famine,Famine,Famine,Sao Tome and Principe,STP,11.19999981
+2004,Famine,Famine,Famine,Sao Tome and Principe,STP,9.800000191
+2005,Famine,Famine,Famine,Sao Tome and Principe,STP,9
+2006,Famine,Famine,Famine,Sao Tome and Principe,STP,9
+2007,Famine,Famine,Famine,Sao Tome and Principe,STP,9.800000191
+2008,Famine,Famine,Famine,Sao Tome and Principe,STP,11.10000038
+2009,Famine,Famine,Famine,Sao Tome and Principe,STP,12.60000038
+2010,Famine,Famine,Famine,Sao Tome and Principe,STP,14.10000038
+2011,Famine,Famine,Famine,Sao Tome and Principe,STP,14.89999962
+2012,Famine,Famine,Famine,Sao Tome and Principe,STP,13.89999962
+2013,Famine,Famine,Famine,Sao Tome and Principe,STP,13.10000038
+2014,Famine,Famine,Famine,Sao Tome and Principe,STP,12.69999981
+2015,Famine,Famine,Famine,Sao Tome and Principe,STP,12.80000019
+2016,Famine,Famine,Famine,Sao Tome and Principe,STP,12.60000038
+2017,Famine,Famine,Famine,Sao Tome and Principe,STP,11.80000019
+2018,Famine,Famine,Famine,Sao Tome and Principe,STP,11.80000019
+2019,Famine,Famine,Famine,Sao Tome and Principe,STP,11.89999962
+2001,Famine,Famine,Famine,Saudi Arabia,SAU,4.900000095
+2002,Famine,Famine,Famine,Saudi Arabia,SAU,5
+2003,Famine,Famine,Famine,Saudi Arabia,SAU,5.099999905
+2004,Famine,Famine,Famine,Saudi Arabia,SAU,5
+2005,Famine,Famine,Famine,Saudi Arabia,SAU,4.800000191
+2006,Famine,Famine,Famine,Saudi Arabia,SAU,4.5
+2007,Famine,Famine,Famine,Saudi Arabia,SAU,4.800000191
+2008,Famine,Famine,Famine,Saudi Arabia,SAU,5.5
+2009,Famine,Famine,Famine,Saudi Arabia,SAU,5.699999809
+2010,Famine,Famine,Famine,Saudi Arabia,SAU,5.900000095
+2011,Famine,Famine,Famine,Saudi Arabia,SAU,5.400000095
+2012,Famine,Famine,Famine,Saudi Arabia,SAU,5.400000095
+2013,Famine,Famine,Famine,Saudi Arabia,SAU,4.599999905
+2014,Famine,Famine,Famine,Saudi Arabia,SAU,4.300000191
+2015,Famine,Famine,Famine,Saudi Arabia,SAU,3.700000048
+2016,Famine,Famine,Famine,Saudi Arabia,SAU,3.700000048
+2017,Famine,Famine,Famine,Saudi Arabia,SAU,3.700000048
+2018,Famine,Famine,Famine,Saudi Arabia,SAU,3.799999952
+2019,Famine,Famine,Famine,Saudi Arabia,SAU,3.900000095
+2001,Famine,Famine,Famine,Senegal,SEN,24
+2002,Famine,Famine,Famine,Senegal,SEN,22.70000076
+2003,Famine,Famine,Famine,Senegal,SEN,21
+2004,Famine,Famine,Famine,Senegal,SEN,19
+2005,Famine,Famine,Famine,Senegal,SEN,17.20000076
+2006,Famine,Famine,Famine,Senegal,SEN,15.5
+2007,Famine,Famine,Famine,Senegal,SEN,12.69999981
+2008,Famine,Famine,Famine,Senegal,SEN,10.89999962
+2009,Famine,Famine,Famine,Senegal,SEN,10.30000019
+2010,Famine,Famine,Famine,Senegal,SEN,11.10000038
+2011,Famine,Famine,Famine,Senegal,SEN,11.39999962
+2012,Famine,Famine,Famine,Senegal,SEN,12
+2013,Famine,Famine,Famine,Senegal,SEN,11.5
+2014,Famine,Famine,Famine,Senegal,SEN,11.19999981
+2015,Famine,Famine,Famine,Senegal,SEN,9.800000191
+2016,Famine,Famine,Famine,Senegal,SEN,8.899999619
+2017,Famine,Famine,Famine,Senegal,SEN,7.900000095
+2018,Famine,Famine,Famine,Senegal,SEN,7.400000095
+2019,Famine,Famine,Famine,Senegal,SEN,7.5
+2001,Famine,Famine,Famine,Serbia,SRB,3.099999905
+2002,Famine,Famine,Famine,Serbia,SRB,3
+2003,Famine,Famine,Famine,Serbia,SRB,2.700000048
+2004,Famine,Famine,Famine,Serbia,SRB,2.5
+2005,Famine,Famine,Famine,Serbia,SRB,2.5
+2006,Famine,Famine,Famine,Serbia,SRB,2.5
+2007,Famine,Famine,Famine,Serbia,SRB,2.5
+2008,Famine,Famine,Famine,Serbia,SRB,2.5
+2009,Famine,Famine,Famine,Serbia,SRB,2.5
+2010,Famine,Famine,Famine,Serbia,SRB,2.5
+2011,Famine,Famine,Famine,Serbia,SRB,2.599999905
+2012,Famine,Famine,Famine,Serbia,SRB,2.700000048
+2013,Famine,Famine,Famine,Serbia,SRB,3.200000048
+2014,Famine,Famine,Famine,Serbia,SRB,3.700000048
+2015,Famine,Famine,Famine,Serbia,SRB,4.099999905
+2016,Famine,Famine,Famine,Serbia,SRB,4.199999809
+2017,Famine,Famine,Famine,Serbia,SRB,4
+2018,Famine,Famine,Famine,Serbia,SRB,3.799999952
+2019,Famine,Famine,Famine,Serbia,SRB,3.900000095
+2001,Famine,Famine,Famine,Sierra Leone,SLE,50.70000076
+2002,Famine,Famine,Famine,Sierra Leone,SLE,49.79999924
+2003,Famine,Famine,Famine,Sierra Leone,SLE,49.40000153
+2004,Famine,Famine,Famine,Sierra Leone,SLE,48.79999924
+2005,Famine,Famine,Famine,Sierra Leone,SLE,46.70000076
+2006,Famine,Famine,Famine,Sierra Leone,SLE,43.70000076
+2007,Famine,Famine,Famine,Sierra Leone,SLE,41.70000076
+2008,Famine,Famine,Famine,Sierra Leone,SLE,40.29999924
+2009,Famine,Famine,Famine,Sierra Leone,SLE,34.5
+2010,Famine,Famine,Famine,Sierra Leone,SLE,28.79999924
+2011,Famine,Famine,Famine,Sierra Leone,SLE,24
+2012,Famine,Famine,Famine,Sierra Leone,SLE,24.29999924
+2013,Famine,Famine,Famine,Sierra Leone,SLE,25.29999924
+2014,Famine,Famine,Famine,Sierra Leone,SLE,25
+2015,Famine,Famine,Famine,Sierra Leone,SLE,25.79999924
+2016,Famine,Famine,Famine,Sierra Leone,SLE,25.39999962
+2017,Famine,Famine,Famine,Sierra Leone,SLE,26.20000076
+2018,Famine,Famine,Famine,Sierra Leone,SLE,25.70000076
+2019,Famine,Famine,Famine,Sierra Leone,SLE,26.20000076
+2001,Famine,Famine,Famine,Slovakia,SVK,6.099999905
+2002,Famine,Famine,Famine,Slovakia,SVK,6.199999809
+2003,Famine,Famine,Famine,Slovakia,SVK,6
+2004,Famine,Famine,Famine,Slovakia,SVK,5.800000191
+2005,Famine,Famine,Famine,Slovakia,SVK,5.5
+2006,Famine,Famine,Famine,Slovakia,SVK,5.599999905
+2007,Famine,Famine,Famine,Slovakia,SVK,5.400000095
+2008,Famine,Famine,Famine,Slovakia,SVK,4.900000095
+2009,Famine,Famine,Famine,Slovakia,SVK,4
+2010,Famine,Famine,Famine,Slovakia,SVK,3.5
+2011,Famine,Famine,Famine,Slovakia,SVK,3.400000095
+2012,Famine,Famine,Famine,Slovakia,SVK,3.400000095
+2013,Famine,Famine,Famine,Slovakia,SVK,4
+2014,Famine,Famine,Famine,Slovakia,SVK,5.300000191
+2015,Famine,Famine,Famine,Slovakia,SVK,5.900000095
+2016,Famine,Famine,Famine,Slovakia,SVK,5.599999905
+2017,Famine,Famine,Famine,Slovakia,SVK,4.5
+2018,Famine,Famine,Famine,Slovakia,SVK,4.099999905
+2019,Famine,Famine,Famine,Slovakia,SVK,4
+2001,Famine,Famine,Famine,Slovenia,SVN,2.5
+2002,Famine,Famine,Famine,Slovenia,SVN,2.5
+2003,Famine,Famine,Famine,Slovenia,SVN,2.5
+2004,Famine,Famine,Famine,Slovenia,SVN,2.5
+2005,Famine,Famine,Famine,Slovenia,SVN,2.5
+2006,Famine,Famine,Famine,Slovenia,SVN,2.5
+2007,Famine,Famine,Famine,Slovenia,SVN,2.5
+2008,Famine,Famine,Famine,Slovenia,SVN,2.5
+2009,Famine,Famine,Famine,Slovenia,SVN,2.5
+2010,Famine,Famine,Famine,Slovenia,SVN,2.5
+2011,Famine,Famine,Famine,Slovenia,SVN,2.5
+2012,Famine,Famine,Famine,Slovenia,SVN,2.5
+2013,Famine,Famine,Famine,Slovenia,SVN,2.5
+2014,Famine,Famine,Famine,Slovenia,SVN,2.5
+2015,Famine,Famine,Famine,Slovenia,SVN,2.5
+2016,Famine,Famine,Famine,Slovenia,SVN,2.5
+2017,Famine,Famine,Famine,Slovenia,SVN,2.5
+2018,Famine,Famine,Famine,Slovenia,SVN,2.5
+2019,Famine,Famine,Famine,Slovenia,SVN,2.5
+2001,Famine,Famine,Famine,Solomon Islands,SLB,13.30000019
+2002,Famine,Famine,Famine,Solomon Islands,SLB,13.10000038
+2003,Famine,Famine,Famine,Solomon Islands,SLB,12.60000038
+2004,Famine,Famine,Famine,Solomon Islands,SLB,12.69999981
+2005,Famine,Famine,Famine,Solomon Islands,SLB,12.5
+2006,Famine,Famine,Famine,Solomon Islands,SLB,12.80000019
+2007,Famine,Famine,Famine,Solomon Islands,SLB,12.60000038
+2008,Famine,Famine,Famine,Solomon Islands,SLB,13.19999981
+2009,Famine,Famine,Famine,Solomon Islands,SLB,13
+2010,Famine,Famine,Famine,Solomon Islands,SLB,13.5
+2011,Famine,Famine,Famine,Solomon Islands,SLB,14.89999962
+2012,Famine,Famine,Famine,Solomon Islands,SLB,17.10000038
+2013,Famine,Famine,Famine,Solomon Islands,SLB,18.79999924
+2014,Famine,Famine,Famine,Solomon Islands,SLB,19.10000038
+2015,Famine,Famine,Famine,Solomon Islands,SLB,18.39999962
+2016,Famine,Famine,Famine,Solomon Islands,SLB,18
+2017,Famine,Famine,Famine,Solomon Islands,SLB,17.60000038
+2018,Famine,Famine,Famine,Solomon Islands,SLB,17
+2019,Famine,Famine,Famine,Solomon Islands,SLB,16.5
+2001,Famine,Famine,Famine,Somalia,SOM,57.90000153
+2002,Famine,Famine,Famine,Somalia,SOM,57.90000153
+2003,Famine,Famine,Famine,Somalia,SOM,58
+2004,Famine,Famine,Famine,Somalia,SOM,58.09999847
+2005,Famine,Famine,Famine,Somalia,SOM,58.20000076
+2006,Famine,Famine,Famine,Somalia,SOM,58.20000076
+2007,Famine,Famine,Famine,Somalia,SOM,58.20000076
+2008,Famine,Famine,Famine,Somalia,SOM,58.20000076
+2009,Famine,Famine,Famine,Somalia,SOM,67.09999847
+2010,Famine,Famine,Famine,Somalia,SOM,75.59999847
+2011,Famine,Famine,Famine,Somalia,SOM,81.69999695
+2012,Famine,Famine,Famine,Somalia,SOM,79.69999695
+2013,Famine,Famine,Famine,Somalia,SOM,71.30000305
+2014,Famine,Famine,Famine,Somalia,SOM,65.69999695
+2015,Famine,Famine,Famine,Somalia,SOM,60.29999924
+2016,Famine,Famine,Famine,Somalia,SOM,57.79999924
+2017,Famine,Famine,Famine,Somalia,SOM,58.70000076
+2018,Famine,Famine,Famine,Somalia,SOM,57.40000153
+2019,Famine,Famine,Famine,Somalia,SOM,59.5
+2001,Famine,Famine,Famine,South Africa,ZAF,3.900000095
+2002,Famine,Famine,Famine,South Africa,ZAF,3.700000048
+2003,Famine,Famine,Famine,South Africa,ZAF,3.599999905
+2004,Famine,Famine,Famine,South Africa,ZAF,3.400000095
+2005,Famine,Famine,Famine,South Africa,ZAF,3.400000095
+2006,Famine,Famine,Famine,South Africa,ZAF,3.5
+2007,Famine,Famine,Famine,South Africa,ZAF,3.599999905
+2008,Famine,Famine,Famine,South Africa,ZAF,3.599999905
+2009,Famine,Famine,Famine,South Africa,ZAF,3.599999905
+2010,Famine,Famine,Famine,South Africa,ZAF,3.599999905
+2011,Famine,Famine,Famine,South Africa,ZAF,3.700000048
+2012,Famine,Famine,Famine,South Africa,ZAF,4
+2013,Famine,Famine,Famine,South Africa,ZAF,4.300000191
+2014,Famine,Famine,Famine,South Africa,ZAF,4.800000191
+2015,Famine,Famine,Famine,South Africa,ZAF,5.199999809
+2016,Famine,Famine,Famine,South Africa,ZAF,5.400000095
+2017,Famine,Famine,Famine,South Africa,ZAF,5.5
+2018,Famine,Famine,Famine,South Africa,ZAF,5.5
+2019,Famine,Famine,Famine,South Africa,ZAF,6.5
+2001,Famine,Famine,Famine,South Asia,,18.96497536
+2002,Famine,Famine,Famine,South Asia,,20.19383621
+2003,Famine,Famine,Famine,South Asia,,21.05000877
+2004,Famine,Famine,Famine,South Asia,,21.17040634
+2005,Famine,Famine,Famine,South Asia,,20.57454872
+2006,Famine,Famine,Famine,South Asia,,18.83192253
+2007,Famine,Famine,Famine,South Asia,,17.09963989
+2008,Famine,Famine,Famine,South Asia,,16.29471588
+2009,Famine,Famine,Famine,South Asia,,16.11502838
+2010,Famine,Famine,Famine,South Asia,,15.90531063
+2011,Famine,Famine,Famine,South Asia,,15.6452055
+2012,Famine,Famine,Famine,South Asia,,15.22177219
+2013,Famine,Famine,Famine,South Asia,,15.11287212
+2014,Famine,Famine,Famine,South Asia,,14.68968201
+2015,Famine,Famine,Famine,South Asia,,14.31453514
+2016,Famine,Famine,Famine,South Asia,,13.82846355
+2017,Famine,Famine,Famine,South Asia,,13.43062401
+2018,Famine,Famine,Famine,South Asia,,13.45130348
+2019,Famine,Famine,Famine,South Asia,,14.46777534
+2001,Famine,Famine,Famine,South Korea,KOR,2.5
+2002,Famine,Famine,Famine,South Korea,KOR,2.599999905
+2003,Famine,Famine,Famine,South Korea,KOR,2.599999905
+2004,Famine,Famine,Famine,South Korea,KOR,2.599999905
+2005,Famine,Famine,Famine,South Korea,KOR,2.5
+2006,Famine,Famine,Famine,South Korea,KOR,2.5
+2007,Famine,Famine,Famine,South Korea,KOR,2.5
+2008,Famine,Famine,Famine,South Korea,KOR,2.5
+2009,Famine,Famine,Famine,South Korea,KOR,2.5
+2010,Famine,Famine,Famine,South Korea,KOR,2.5
+2011,Famine,Famine,Famine,South Korea,KOR,2.5
+2012,Famine,Famine,Famine,South Korea,KOR,2.5
+2013,Famine,Famine,Famine,South Korea,KOR,2.5
+2014,Famine,Famine,Famine,South Korea,KOR,2.5
+2015,Famine,Famine,Famine,South Korea,KOR,2.5
+2016,Famine,Famine,Famine,South Korea,KOR,2.5
+2017,Famine,Famine,Famine,South Korea,KOR,2.5
+2018,Famine,Famine,Famine,South Korea,KOR,2.5
+2019,Famine,Famine,Famine,South Korea,KOR,2.5
+2001,Famine,Famine,Famine,Spain,ESP,2.5
+2002,Famine,Famine,Famine,Spain,ESP,2.5
+2003,Famine,Famine,Famine,Spain,ESP,2.5
+2004,Famine,Famine,Famine,Spain,ESP,2.5
+2005,Famine,Famine,Famine,Spain,ESP,2.5
+2006,Famine,Famine,Famine,Spain,ESP,2.5
+2007,Famine,Famine,Famine,Spain,ESP,2.5
+2008,Famine,Famine,Famine,Spain,ESP,2.5
+2009,Famine,Famine,Famine,Spain,ESP,2.5
+2010,Famine,Famine,Famine,Spain,ESP,2.5
+2011,Famine,Famine,Famine,Spain,ESP,2.5
+2012,Famine,Famine,Famine,Spain,ESP,2.5
+2013,Famine,Famine,Famine,Spain,ESP,2.5
+2014,Famine,Famine,Famine,Spain,ESP,2.5
+2015,Famine,Famine,Famine,Spain,ESP,2.5
+2016,Famine,Famine,Famine,Spain,ESP,2.5
+2017,Famine,Famine,Famine,Spain,ESP,2.5
+2018,Famine,Famine,Famine,Spain,ESP,2.5
+2019,Famine,Famine,Famine,Spain,ESP,2.5
+2001,Famine,Famine,Famine,Sri Lanka,LKA,16.89999962
+2002,Famine,Famine,Famine,Sri Lanka,LKA,16.29999924
+2003,Famine,Famine,Famine,Sri Lanka,LKA,16.10000038
+2004,Famine,Famine,Famine,Sri Lanka,LKA,15.60000038
+2005,Famine,Famine,Famine,Sri Lanka,LKA,14.69999981
+2006,Famine,Famine,Famine,Sri Lanka,LKA,14.10000038
+2007,Famine,Famine,Famine,Sri Lanka,LKA,12.80000019
+2008,Famine,Famine,Famine,Sri Lanka,LKA,11.89999962
+2009,Famine,Famine,Famine,Sri Lanka,LKA,11.39999962
+2010,Famine,Famine,Famine,Sri Lanka,LKA,11.30000019
+2011,Famine,Famine,Famine,Sri Lanka,LKA,10.89999962
+2012,Famine,Famine,Famine,Sri Lanka,LKA,10.30000019
+2013,Famine,Famine,Famine,Sri Lanka,LKA,9.199999809
+2014,Famine,Famine,Famine,Sri Lanka,LKA,8.100000381
+2015,Famine,Famine,Famine,Sri Lanka,LKA,6.800000191
+2016,Famine,Famine,Famine,Sri Lanka,LKA,6.300000191
+2017,Famine,Famine,Famine,Sri Lanka,LKA,5.900000095
+2018,Famine,Famine,Famine,Sri Lanka,LKA,6
+2019,Famine,Famine,Famine,Sri Lanka,LKA,6.800000191
+2001,Famine,Famine,Famine,Sub-Saharan Africa,,26.26425552
+2002,Famine,Famine,Famine,Sub-Saharan Africa,,25.70783424
+2003,Famine,Famine,Famine,Sub-Saharan Africa,,25.25398445
+2004,Famine,Famine,Famine,Sub-Saharan Africa,,24.29568481
+2005,Famine,Famine,Famine,Sub-Saharan Africa,,23.25356483
+2006,Famine,Famine,Famine,Sub-Saharan Africa,,22.39469337
+2007,Famine,Famine,Famine,Sub-Saharan Africa,,21.96045494
+2008,Famine,Famine,Famine,Sub-Saharan Africa,,21.52995491
+2009,Famine,Famine,Famine,Sub-Saharan Africa,,20.58610916
+2010,Famine,Famine,Famine,Sub-Saharan Africa,,20.01689529
+2011,Famine,Famine,Famine,Sub-Saharan Africa,,19.48449707
+2012,Famine,Famine,Famine,Sub-Saharan Africa,,19.6247921
+2013,Famine,Famine,Famine,Sub-Saharan Africa,,18.90294647
+2014,Famine,Famine,Famine,Sub-Saharan Africa,,18.43922615
+2015,Famine,Famine,Famine,Sub-Saharan Africa,,18.11434746
+2016,Famine,Famine,Famine,Sub-Saharan Africa,,18.21801186
+2017,Famine,Famine,Famine,Sub-Saharan Africa,,18.52011681
+2018,Famine,Famine,Famine,Sub-Saharan Africa,,18.76015472
+2019,Famine,Famine,Famine,Sub-Saharan Africa,,20.3410759
+2001,Famine,Famine,Famine,Sudan,SDN,21.5
+2002,Famine,Famine,Famine,Sudan,SDN,20.29999924
+2003,Famine,Famine,Famine,Sudan,SDN,20
+2004,Famine,Famine,Famine,Sudan,SDN,19.70000076
+2005,Famine,Famine,Famine,Sudan,SDN,18.89999962
+2006,Famine,Famine,Famine,Sudan,SDN,17.60000038
+2007,Famine,Famine,Famine,Sudan,SDN,16.70000076
+2008,Famine,Famine,Famine,Sudan,SDN,16.29999924
+2009,Famine,Famine,Famine,Sudan,SDN,16.5
+2010,Famine,Famine,Famine,Sudan,SDN,16.5
+2011,Famine,Famine,Famine,Sudan,SDN,15.39999962
+2012,Famine,Famine,Famine,Sudan,SDN,13.39999962
+2013,Famine,Famine,Famine,Sudan,SDN,11.60000038
+2014,Famine,Famine,Famine,Sudan,SDN,11
+2015,Famine,Famine,Famine,Sudan,SDN,11.19999981
+2016,Famine,Famine,Famine,Sudan,SDN,11.80000019
+2017,Famine,Famine,Famine,Sudan,SDN,11.80000019
+2018,Famine,Famine,Famine,Sudan,SDN,12
+2019,Famine,Famine,Famine,Sudan,SDN,12.30000019
+2001,Famine,Famine,Famine,Suriname,SUR,11.80000019
+2002,Famine,Famine,Famine,Suriname,SUR,11.5
+2003,Famine,Famine,Famine,Suriname,SUR,10.89999962
+2004,Famine,Famine,Famine,Suriname,SUR,10.30000019
+2005,Famine,Famine,Famine,Suriname,SUR,9.699999809
+2006,Famine,Famine,Famine,Suriname,SUR,8.800000191
+2007,Famine,Famine,Famine,Suriname,SUR,8.800000191
+2008,Famine,Famine,Famine,Suriname,SUR,8.300000191
+2009,Famine,Famine,Famine,Suriname,SUR,7.599999905
+2010,Famine,Famine,Famine,Suriname,SUR,7.300000191
+2011,Famine,Famine,Famine,Suriname,SUR,7.599999905
+2012,Famine,Famine,Famine,Suriname,SUR,8.199999809
+2013,Famine,Famine,Famine,Suriname,SUR,7.699999809
+2014,Famine,Famine,Famine,Suriname,SUR,7.599999905
+2015,Famine,Famine,Famine,Suriname,SUR,7.699999809
+2016,Famine,Famine,Famine,Suriname,SUR,8.199999809
+2017,Famine,Famine,Famine,Suriname,SUR,8.399999619
+2018,Famine,Famine,Famine,Suriname,SUR,8.5
+2019,Famine,Famine,Famine,Suriname,SUR,8.699999809
+2001,Famine,Famine,Famine,Sweden,SWE,2.5
+2002,Famine,Famine,Famine,Sweden,SWE,2.5
+2003,Famine,Famine,Famine,Sweden,SWE,2.5
+2004,Famine,Famine,Famine,Sweden,SWE,2.5
+2005,Famine,Famine,Famine,Sweden,SWE,2.5
+2006,Famine,Famine,Famine,Sweden,SWE,2.5
+2007,Famine,Famine,Famine,Sweden,SWE,2.5
+2008,Famine,Famine,Famine,Sweden,SWE,2.5
+2009,Famine,Famine,Famine,Sweden,SWE,2.5
+2010,Famine,Famine,Famine,Sweden,SWE,2.5
+2011,Famine,Famine,Famine,Sweden,SWE,2.5
+2012,Famine,Famine,Famine,Sweden,SWE,2.5
+2013,Famine,Famine,Famine,Sweden,SWE,2.5
+2014,Famine,Famine,Famine,Sweden,SWE,2.5
+2015,Famine,Famine,Famine,Sweden,SWE,2.5
+2016,Famine,Famine,Famine,Sweden,SWE,2.5
+2017,Famine,Famine,Famine,Sweden,SWE,2.5
+2018,Famine,Famine,Famine,Sweden,SWE,2.5
+2019,Famine,Famine,Famine,Sweden,SWE,2.5
+2001,Famine,Famine,Famine,Switzerland,CHE,2.5
+2002,Famine,Famine,Famine,Switzerland,CHE,2.5
+2003,Famine,Famine,Famine,Switzerland,CHE,2.5
+2004,Famine,Famine,Famine,Switzerland,CHE,2.5
+2005,Famine,Famine,Famine,Switzerland,CHE,2.5
+2006,Famine,Famine,Famine,Switzerland,CHE,2.5
+2007,Famine,Famine,Famine,Switzerland,CHE,2.5
+2008,Famine,Famine,Famine,Switzerland,CHE,2.5
+2009,Famine,Famine,Famine,Switzerland,CHE,2.5
+2010,Famine,Famine,Famine,Switzerland,CHE,2.5
+2011,Famine,Famine,Famine,Switzerland,CHE,2.5
+2012,Famine,Famine,Famine,Switzerland,CHE,2.5
+2013,Famine,Famine,Famine,Switzerland,CHE,2.5
+2014,Famine,Famine,Famine,Switzerland,CHE,2.5
+2015,Famine,Famine,Famine,Switzerland,CHE,2.5
+2016,Famine,Famine,Famine,Switzerland,CHE,2.5
+2017,Famine,Famine,Famine,Switzerland,CHE,2.5
+2018,Famine,Famine,Famine,Switzerland,CHE,2.5
+2019,Famine,Famine,Famine,Switzerland,CHE,2.5
+2001,Famine,Famine,Famine,Tanzania,TZA,33
+2002,Famine,Famine,Famine,Tanzania,TZA,34.09999847
+2003,Famine,Famine,Famine,Tanzania,TZA,33.59999847
+2004,Famine,Famine,Famine,Tanzania,TZA,33.70000076
+2005,Famine,Famine,Famine,Tanzania,TZA,31.60000038
+2006,Famine,Famine,Famine,Tanzania,TZA,30.20000076
+2007,Famine,Famine,Famine,Tanzania,TZA,30.5
+2008,Famine,Famine,Famine,Tanzania,TZA,30.70000076
+2009,Famine,Famine,Famine,Tanzania,TZA,30.89999962
+2010,Famine,Famine,Famine,Tanzania,TZA,29.5
+2011,Famine,Famine,Famine,Tanzania,TZA,28
+2012,Famine,Famine,Famine,Tanzania,TZA,27.20000076
+2013,Famine,Famine,Famine,Tanzania,TZA,26.20000076
+2014,Famine,Famine,Famine,Tanzania,TZA,25.29999924
+2015,Famine,Famine,Famine,Tanzania,TZA,24.39999962
+2016,Famine,Famine,Famine,Tanzania,TZA,24.10000038
+2017,Famine,Famine,Famine,Tanzania,TZA,24.10000038
+2018,Famine,Famine,Famine,Tanzania,TZA,24.20000076
+2019,Famine,Famine,Famine,Tanzania,TZA,25.10000038
+2001,Famine,Famine,Famine,Thailand,THA,17.29999924
+2002,Famine,Famine,Famine,Thailand,THA,16.39999962
+2003,Famine,Famine,Famine,Thailand,THA,15
+2004,Famine,Famine,Famine,Thailand,THA,13.69999981
+2005,Famine,Famine,Famine,Thailand,THA,11.89999962
+2006,Famine,Famine,Famine,Thailand,THA,10.60000038
+2007,Famine,Famine,Famine,Thailand,THA,10.19999981
+2008,Famine,Famine,Famine,Thailand,THA,10.60000038
+2009,Famine,Famine,Famine,Thailand,THA,10.39999962
+2010,Famine,Famine,Famine,Thailand,THA,10
+2011,Famine,Famine,Famine,Thailand,THA,9.199999809
+2012,Famine,Famine,Famine,Thailand,THA,8.800000191
+2013,Famine,Famine,Famine,Thailand,THA,8.199999809
+2014,Famine,Famine,Famine,Thailand,THA,7.699999809
+2015,Famine,Famine,Famine,Thailand,THA,7.300000191
+2016,Famine,Famine,Famine,Thailand,THA,7.5
+2017,Famine,Famine,Famine,Thailand,THA,7.699999809
+2018,Famine,Famine,Famine,Thailand,THA,7.900000095
+2019,Famine,Famine,Famine,Thailand,THA,8.199999809
+2001,Famine,Famine,Famine,Timor,TLS,41.5
+2002,Famine,Famine,Famine,Timor,TLS,36.5
+2003,Famine,Famine,Famine,Timor,TLS,33.09999847
+2004,Famine,Famine,Famine,Timor,TLS,32.5
+2005,Famine,Famine,Famine,Timor,TLS,32.20000076
+2006,Famine,Famine,Famine,Timor,TLS,31.89999962
+2007,Famine,Famine,Famine,Timor,TLS,31.70000076
+2008,Famine,Famine,Famine,Timor,TLS,32.40000153
+2009,Famine,Famine,Famine,Timor,TLS,32.5
+2010,Famine,Famine,Famine,Timor,TLS,32.5
+2011,Famine,Famine,Famine,Timor,TLS,31.10000038
+2012,Famine,Famine,Famine,Timor,TLS,31
+2013,Famine,Famine,Famine,Timor,TLS,28.70000076
+2014,Famine,Famine,Famine,Timor,TLS,26.79999924
+2015,Famine,Famine,Famine,Timor,TLS,24.5
+2016,Famine,Famine,Famine,Timor,TLS,24.10000038
+2017,Famine,Famine,Famine,Timor,TLS,24
+2018,Famine,Famine,Famine,Timor,TLS,23.29999924
+2019,Famine,Famine,Famine,Timor,TLS,22.60000038
+2001,Famine,Famine,Famine,Togo,TGO,31.29999924
+2002,Famine,Famine,Famine,Togo,TGO,31.10000038
+2003,Famine,Famine,Famine,Togo,TGO,29.79999924
+2004,Famine,Famine,Famine,Togo,TGO,28.70000076
+2005,Famine,Famine,Famine,Togo,TGO,27.70000076
+2006,Famine,Famine,Famine,Togo,TGO,27.20000076
+2007,Famine,Famine,Famine,Togo,TGO,26.20000076
+2008,Famine,Famine,Famine,Togo,TGO,25.60000038
+2009,Famine,Famine,Famine,Togo,TGO,23.29999924
+2010,Famine,Famine,Famine,Togo,TGO,21.20000076
+2011,Famine,Famine,Famine,Togo,TGO,19.70000076
+2012,Famine,Famine,Famine,Togo,TGO,19.5
+2013,Famine,Famine,Famine,Togo,TGO,19.60000038
+2014,Famine,Famine,Famine,Togo,TGO,20.39999962
+2015,Famine,Famine,Famine,Togo,TGO,20.89999962
+2016,Famine,Famine,Famine,Togo,TGO,21.60000038
+2017,Famine,Famine,Famine,Togo,TGO,21.20000076
+2018,Famine,Famine,Famine,Togo,TGO,20.89999962
+2019,Famine,Famine,Famine,Togo,TGO,20.39999962
+2001,Famine,Famine,Famine,Trinidad and Tobago,TTO,10
+2002,Famine,Famine,Famine,Trinidad and Tobago,TTO,10.5
+2003,Famine,Famine,Famine,Trinidad and Tobago,TTO,11.10000038
+2004,Famine,Famine,Famine,Trinidad and Tobago,TTO,11.5
+2005,Famine,Famine,Famine,Trinidad and Tobago,TTO,11.10000038
+2006,Famine,Famine,Famine,Trinidad and Tobago,TTO,10.5
+2007,Famine,Famine,Famine,Trinidad and Tobago,TTO,9.899999619
+2008,Famine,Famine,Famine,Trinidad and Tobago,TTO,9.600000381
+2009,Famine,Famine,Famine,Trinidad and Tobago,TTO,9.600000381
+2010,Famine,Famine,Famine,Trinidad and Tobago,TTO,9.199999809
+2011,Famine,Famine,Famine,Trinidad and Tobago,TTO,8.300000191
+2012,Famine,Famine,Famine,Trinidad and Tobago,TTO,7.199999809
+2013,Famine,Famine,Famine,Trinidad and Tobago,TTO,6.599999905
+2014,Famine,Famine,Famine,Trinidad and Tobago,TTO,6.5
+2015,Famine,Famine,Famine,Trinidad and Tobago,TTO,6.800000191
+2016,Famine,Famine,Famine,Trinidad and Tobago,TTO,6.800000191
+2017,Famine,Famine,Famine,Trinidad and Tobago,TTO,6.800000191
+2018,Famine,Famine,Famine,Trinidad and Tobago,TTO,6.699999809
+2019,Famine,Famine,Famine,Trinidad and Tobago,TTO,6.699999809
+2001,Famine,Famine,Famine,Tunisia,TUN,4.400000095
+2002,Famine,Famine,Famine,Tunisia,TUN,4.400000095
+2003,Famine,Famine,Famine,Tunisia,TUN,4.5
+2004,Famine,Famine,Famine,Tunisia,TUN,4.400000095
+2005,Famine,Famine,Famine,Tunisia,TUN,4.300000191
+2006,Famine,Famine,Famine,Tunisia,TUN,4.300000191
+2007,Famine,Famine,Famine,Tunisia,TUN,4
+2008,Famine,Famine,Famine,Tunisia,TUN,3.799999952
+2009,Famine,Famine,Famine,Tunisia,TUN,3.599999905
+2010,Famine,Famine,Famine,Tunisia,TUN,3.400000095
+2011,Famine,Famine,Famine,Tunisia,TUN,3.299999952
+2012,Famine,Famine,Famine,Tunisia,TUN,3.099999905
+2013,Famine,Famine,Famine,Tunisia,TUN,2.900000095
+2014,Famine,Famine,Famine,Tunisia,TUN,2.700000048
+2015,Famine,Famine,Famine,Tunisia,TUN,2.5
+2016,Famine,Famine,Famine,Tunisia,TUN,2.5
+2017,Famine,Famine,Famine,Tunisia,TUN,2.5
+2018,Famine,Famine,Famine,Tunisia,TUN,2.5
+2019,Famine,Famine,Famine,Tunisia,TUN,3
+2001,Famine,Famine,Famine,Turkey,TUR,2.5
+2002,Famine,Famine,Famine,Turkey,TUR,2.5
+2003,Famine,Famine,Famine,Turkey,TUR,2.5
+2004,Famine,Famine,Famine,Turkey,TUR,2.5
+2005,Famine,Famine,Famine,Turkey,TUR,2.5
+2006,Famine,Famine,Famine,Turkey,TUR,2.5
+2007,Famine,Famine,Famine,Turkey,TUR,2.5
+2008,Famine,Famine,Famine,Turkey,TUR,2.5
+2009,Famine,Famine,Famine,Turkey,TUR,2.5
+2010,Famine,Famine,Famine,Turkey,TUR,2.5
+2011,Famine,Famine,Famine,Turkey,TUR,2.5
+2012,Famine,Famine,Famine,Turkey,TUR,2.5
+2013,Famine,Famine,Famine,Turkey,TUR,2.5
+2014,Famine,Famine,Famine,Turkey,TUR,2.5
+2015,Famine,Famine,Famine,Turkey,TUR,2.5
+2016,Famine,Famine,Famine,Turkey,TUR,2.5
+2017,Famine,Famine,Famine,Turkey,TUR,2.5
+2018,Famine,Famine,Famine,Turkey,TUR,2.5
+2019,Famine,Famine,Famine,Turkey,TUR,2.5
+2001,Famine,Famine,Famine,Turkmenistan,TKM,6.800000191
+2002,Famine,Famine,Famine,Turkmenistan,TKM,6.199999809
+2003,Famine,Famine,Famine,Turkmenistan,TKM,5.199999809
+2004,Famine,Famine,Famine,Turkmenistan,TKM,4.5
+2005,Famine,Famine,Famine,Turkmenistan,TKM,4.199999809
+2006,Famine,Famine,Famine,Turkmenistan,TKM,4
+2007,Famine,Famine,Famine,Turkmenistan,TKM,3.900000095
+2008,Famine,Famine,Famine,Turkmenistan,TKM,4
+2009,Famine,Famine,Famine,Turkmenistan,TKM,4.300000191
+2010,Famine,Famine,Famine,Turkmenistan,TKM,4.5
+2011,Famine,Famine,Famine,Turkmenistan,TKM,4.800000191
+2012,Famine,Famine,Famine,Turkmenistan,TKM,5
+2013,Famine,Famine,Famine,Turkmenistan,TKM,4.5
+2014,Famine,Famine,Famine,Turkmenistan,TKM,3.900000095
+2015,Famine,Famine,Famine,Turkmenistan,TKM,3.400000095
+2016,Famine,Famine,Famine,Turkmenistan,TKM,3.400000095
+2017,Famine,Famine,Famine,Turkmenistan,TKM,3.700000048
+2018,Famine,Famine,Famine,Turkmenistan,TKM,3.900000095
+2019,Famine,Famine,Famine,Turkmenistan,TKM,4.099999905
+2001,Famine,Famine,Famine,Ukraine,UKR,3
+2002,Famine,Famine,Famine,Ukraine,UKR,2.5
+2003,Famine,Famine,Famine,Ukraine,UKR,2.5
+2004,Famine,Famine,Famine,Ukraine,UKR,2.5
+2005,Famine,Famine,Famine,Ukraine,UKR,2.5
+2006,Famine,Famine,Famine,Ukraine,UKR,2.5
+2007,Famine,Famine,Famine,Ukraine,UKR,2.5
+2008,Famine,Famine,Famine,Ukraine,UKR,2.5
+2009,Famine,Famine,Famine,Ukraine,UKR,2.5
+2010,Famine,Famine,Famine,Ukraine,UKR,2.5
+2011,Famine,Famine,Famine,Ukraine,UKR,2.5
+2012,Famine,Famine,Famine,Ukraine,UKR,2.5
+2013,Famine,Famine,Famine,Ukraine,UKR,2.5
+2014,Famine,Famine,Famine,Ukraine,UKR,2.5
+2015,Famine,Famine,Famine,Ukraine,UKR,2.5
+2016,Famine,Famine,Famine,Ukraine,UKR,2.5
+2017,Famine,Famine,Famine,Ukraine,UKR,2.5
+2018,Famine,Famine,Famine,Ukraine,UKR,2.5
+2019,Famine,Famine,Famine,Ukraine,UKR,2.5
+2001,Famine,Famine,Famine,United Arab Emirates,ARE,3.299999952
+2002,Famine,Famine,Famine,United Arab Emirates,ARE,4.400000095
+2003,Famine,Famine,Famine,United Arab Emirates,ARE,5.900000095
+2004,Famine,Famine,Famine,United Arab Emirates,ARE,7.699999809
+2005,Famine,Famine,Famine,United Arab Emirates,ARE,8.800000191
+2006,Famine,Famine,Famine,United Arab Emirates,ARE,9.199999809
+2007,Famine,Famine,Famine,United Arab Emirates,ARE,9
+2008,Famine,Famine,Famine,United Arab Emirates,ARE,8.199999809
+2009,Famine,Famine,Famine,United Arab Emirates,ARE,7.400000095
+2010,Famine,Famine,Famine,United Arab Emirates,ARE,6.300000191
+2011,Famine,Famine,Famine,United Arab Emirates,ARE,5.5
+2012,Famine,Famine,Famine,United Arab Emirates,ARE,4.400000095
+2013,Famine,Famine,Famine,United Arab Emirates,ARE,3.599999905
+2014,Famine,Famine,Famine,United Arab Emirates,ARE,2.900000095
+2015,Famine,Famine,Famine,United Arab Emirates,ARE,2.700000048
+2016,Famine,Famine,Famine,United Arab Emirates,ARE,2.900000095
+2017,Famine,Famine,Famine,United Arab Emirates,ARE,3.200000048
+2018,Famine,Famine,Famine,United Arab Emirates,ARE,3.400000095
+2019,Famine,Famine,Famine,United Arab Emirates,ARE,3.700000048
+2001,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2002,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2003,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2004,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2005,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2006,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2007,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2008,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2009,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2010,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2011,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2012,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2013,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2014,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2015,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2016,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2017,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2018,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2019,Famine,Famine,Famine,United Kingdom,GBR,2.5
+2001,Famine,Famine,Famine,United States,USA,2.5
+2002,Famine,Famine,Famine,United States,USA,2.5
+2003,Famine,Famine,Famine,United States,USA,2.5
+2004,Famine,Famine,Famine,United States,USA,2.5
+2005,Famine,Famine,Famine,United States,USA,2.5
+2006,Famine,Famine,Famine,United States,USA,2.5
+2007,Famine,Famine,Famine,United States,USA,2.5
+2008,Famine,Famine,Famine,United States,USA,2.5
+2009,Famine,Famine,Famine,United States,USA,2.5
+2010,Famine,Famine,Famine,United States,USA,2.5
+2011,Famine,Famine,Famine,United States,USA,2.5
+2012,Famine,Famine,Famine,United States,USA,2.5
+2013,Famine,Famine,Famine,United States,USA,2.5
+2014,Famine,Famine,Famine,United States,USA,2.5
+2015,Famine,Famine,Famine,United States,USA,2.5
+2016,Famine,Famine,Famine,United States,USA,2.5
+2017,Famine,Famine,Famine,United States,USA,2.5
+2018,Famine,Famine,Famine,United States,USA,2.5
+2019,Famine,Famine,Famine,United States,USA,2.5
+2001,Famine,Famine,Famine,Uruguay,URY,3.599999905
+2002,Famine,Famine,Famine,Uruguay,URY,3.5
+2003,Famine,Famine,Famine,Uruguay,URY,3.700000048
+2004,Famine,Famine,Famine,Uruguay,URY,3.799999952
+2005,Famine,Famine,Famine,Uruguay,URY,3.900000095
+2006,Famine,Famine,Famine,Uruguay,URY,3.700000048
+2007,Famine,Famine,Famine,Uruguay,URY,3.099999905
+2008,Famine,Famine,Famine,Uruguay,URY,2.5
+2009,Famine,Famine,Famine,Uruguay,URY,2.5
+2010,Famine,Famine,Famine,Uruguay,URY,2.5
+2011,Famine,Famine,Famine,Uruguay,URY,2.5
+2012,Famine,Famine,Famine,Uruguay,URY,2.5
+2013,Famine,Famine,Famine,Uruguay,URY,2.5
+2014,Famine,Famine,Famine,Uruguay,URY,2.5
+2015,Famine,Famine,Famine,Uruguay,URY,2.5
+2016,Famine,Famine,Famine,Uruguay,URY,2.5
+2017,Famine,Famine,Famine,Uruguay,URY,2.5
+2018,Famine,Famine,Famine,Uruguay,URY,2.5
+2019,Famine,Famine,Famine,Uruguay,URY,2.5
+2001,Famine,Famine,Famine,Uzbekistan,UZB,17.89999962
+2002,Famine,Famine,Famine,Uzbekistan,UZB,19.20000076
+2003,Famine,Famine,Famine,Uzbekistan,UZB,18.70000076
+2004,Famine,Famine,Famine,Uzbekistan,UZB,16.79999924
+2005,Famine,Famine,Famine,Uzbekistan,UZB,14.69999981
+2006,Famine,Famine,Famine,Uzbekistan,UZB,12.60000038
+2007,Famine,Famine,Famine,Uzbekistan,UZB,11.5
+2008,Famine,Famine,Famine,Uzbekistan,UZB,11.19999981
+2009,Famine,Famine,Famine,Uzbekistan,UZB,8.5
+2010,Famine,Famine,Famine,Uzbekistan,UZB,5.400000095
+2011,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2012,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2013,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2014,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2015,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2016,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2017,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2018,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2019,Famine,Famine,Famine,Uzbekistan,UZB,2.5
+2001,Famine,Famine,Famine,Vanuatu,VUT,7.400000095
+2002,Famine,Famine,Famine,Vanuatu,VUT,7.099999905
+2003,Famine,Famine,Famine,Vanuatu,VUT,6.800000191
+2004,Famine,Famine,Famine,Vanuatu,VUT,6.5
+2005,Famine,Famine,Famine,Vanuatu,VUT,6.300000191
+2006,Famine,Famine,Famine,Vanuatu,VUT,5.699999809
+2007,Famine,Famine,Famine,Vanuatu,VUT,5.300000191
+2008,Famine,Famine,Famine,Vanuatu,VUT,5
+2009,Famine,Famine,Famine,Vanuatu,VUT,5.099999905
+2010,Famine,Famine,Famine,Vanuatu,VUT,5.199999809
+2011,Famine,Famine,Famine,Vanuatu,VUT,5.599999905
+2012,Famine,Famine,Famine,Vanuatu,VUT,5.900000095
+2013,Famine,Famine,Famine,Vanuatu,VUT,6.400000095
+2014,Famine,Famine,Famine,Vanuatu,VUT,6.900000095
+2015,Famine,Famine,Famine,Vanuatu,VUT,8.100000381
+2016,Famine,Famine,Famine,Vanuatu,VUT,8.899999619
+2017,Famine,Famine,Famine,Vanuatu,VUT,9.600000381
+2018,Famine,Famine,Famine,Vanuatu,VUT,9.5
+2019,Famine,Famine,Famine,Vanuatu,VUT,9.300000191
+2001,Famine,Famine,Famine,Venezuela,VEN,14.89999962
+2002,Famine,Famine,Famine,Venezuela,VEN,15.10000038
+2003,Famine,Famine,Famine,Venezuela,VEN,14.60000038
+2004,Famine,Famine,Famine,Venezuela,VEN,10
+2005,Famine,Famine,Famine,Venezuela,VEN,8.399999619
+2006,Famine,Famine,Famine,Venezuela,VEN,7
+2007,Famine,Famine,Famine,Venezuela,VEN,4.800000191
+2008,Famine,Famine,Famine,Venezuela,VEN,2.799999952
+2009,Famine,Famine,Famine,Venezuela,VEN,2.5
+2010,Famine,Famine,Famine,Venezuela,VEN,2.5
+2011,Famine,Famine,Famine,Venezuela,VEN,2.5
+2012,Famine,Famine,Famine,Venezuela,VEN,3.200000048
+2013,Famine,Famine,Famine,Venezuela,VEN,3.299999952
+2014,Famine,Famine,Famine,Venezuela,VEN,5
+2015,Famine,Famine,Famine,Venezuela,VEN,11.30000019
+2016,Famine,Famine,Famine,Venezuela,VEN,16.39999962
+2017,Famine,Famine,Famine,Venezuela,VEN,22.20000076
+2018,Famine,Famine,Famine,Venezuela,VEN,23.39999962
+2019,Famine,Famine,Famine,Venezuela,VEN,27.39999962
+2001,Famine,Famine,Famine,Vietnam,VNM,19.70000076
+2002,Famine,Famine,Famine,Vietnam,VNM,18
+2003,Famine,Famine,Famine,Vietnam,VNM,16.29999924
+2004,Famine,Famine,Famine,Vietnam,VNM,15.69999981
+2005,Famine,Famine,Famine,Vietnam,VNM,15.5
+2006,Famine,Famine,Famine,Vietnam,VNM,15.30000019
+2007,Famine,Famine,Famine,Vietnam,VNM,14.10000038
+2008,Famine,Famine,Famine,Vietnam,VNM,12.89999962
+2009,Famine,Famine,Famine,Vietnam,VNM,11.80000019
+2010,Famine,Famine,Famine,Vietnam,VNM,11
+2011,Famine,Famine,Famine,Vietnam,VNM,10
+2012,Famine,Famine,Famine,Vietnam,VNM,9.300000191
+2013,Famine,Famine,Famine,Vietnam,VNM,8.699999809
+2014,Famine,Famine,Famine,Vietnam,VNM,8.5
+2015,Famine,Famine,Famine,Vietnam,VNM,8.100000381
+2016,Famine,Famine,Famine,Vietnam,VNM,7.800000191
+2017,Famine,Famine,Famine,Vietnam,VNM,7.199999809
+2018,Famine,Famine,Famine,Vietnam,VNM,6.800000191
+2019,Famine,Famine,Famine,Vietnam,VNM,6.699999809
+2001,Famine,Famine,Famine,Yemen,YEM,26.70000076
+2002,Famine,Famine,Famine,Yemen,YEM,27.60000038
+2003,Famine,Famine,Famine,Yemen,YEM,28
+2004,Famine,Famine,Famine,Yemen,YEM,28.29999924
+2005,Famine,Famine,Famine,Yemen,YEM,27.79999924
+2006,Famine,Famine,Famine,Yemen,YEM,26.60000038
+2007,Famine,Famine,Famine,Yemen,YEM,26.10000038
+2008,Famine,Famine,Famine,Yemen,YEM,26
+2009,Famine,Famine,Famine,Yemen,YEM,23.5
+2010,Famine,Famine,Famine,Yemen,YEM,26.39999962
+2011,Famine,Famine,Famine,Yemen,YEM,27.89999962
+2012,Famine,Famine,Famine,Yemen,YEM,33.29999924
+2013,Famine,Famine,Famine,Yemen,YEM,34.29999924
+2014,Famine,Famine,Famine,Yemen,YEM,38.59999847
+2015,Famine,Famine,Famine,Yemen,YEM,43.40000153
+2016,Famine,Famine,Famine,Yemen,YEM,46.09999847
+2017,Famine,Famine,Famine,Yemen,YEM,46.59999847
+2018,Famine,Famine,Famine,Yemen,YEM,45.40000153
+2019,Famine,Famine,Famine,Yemen,YEM,45.40000153
