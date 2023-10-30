@@ -6919,3 +6919,11 @@ LINE 10: Unnamed: 7 FLOAT,
 2023-10-28 23:11:36,937 - ERROR - An error occurred: current transaction is aborted, commands ignored until end of transaction block
 
 2023-10-28 23:31:08,329 - ERROR - An error occurred: 'utf-8' codec can't decode byte 0xfc in position 1663: invalid start byte
+2023-10-30 22:24:43,339 - ERROR - An error occurred: relation "access_to_water_per_country_2000_2020_dim" already exists
+
+2023-10-30 23:33:32,698 - ERROR - An error occurred: syntax error at or near "0"
+LINE 3: 0 TEXT,
+        ^
+
+2023-10-30 23:43:55,821 - ERROR - An error occurred: relation "access_to_water_per_country_2000_2020_dim" already exists
+
