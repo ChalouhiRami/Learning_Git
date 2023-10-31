@@ -1,3 +1,10 @@
+-- table name convention:
+-- dim / fct / stg_ sourcename_tablename
+
+-- access_to_water_per_country_2000_2020_dim
+-- dim_country_water_access
+
+
  --access_to_water_per_country_2000_2020.csv
 CREATE TABLE IF NOT EXISTS access_to_water_per_country_2000_2020_dim (
     Entity VARCHAR(255),

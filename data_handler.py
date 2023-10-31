@@ -20,10 +20,7 @@ def read_data_as_dataframe(file_type, file_config, db_session = None):
         return None
 
 
-# you need to be able to create a new function
-# it would return the create statementf from a dataframe
-# create a function
-# it would return the insert statement from a dataframe.
+
 def return_create_statement_from_df(dataframe, schema_name, table_name): # i added db_session
     type_mapping = {
         'int64':'INT',
@@ -40,11 +37,9 @@ def return_create_statement_from_df(dataframe, schema_name, table_name): # i add
     create_table_statement += "ID SERIAL PRIMARY KEY,\n"
     create_table_statement += ',\n'.join(fields)
     create_table_statement += ");"
-    
-    #execute_query(db_session, create_table_statement)
-    
     return create_table_statement
 
+# use a function to return sql insert statement / statement(s) and use execute query from database handler.
 def return_insert_and_ex_statement_from_df(dataframe, schema_name, table_name, db_session):
     columns = ', '.join(dataframe.columns)
     insert_statements = []
