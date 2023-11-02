@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2daada64-e614-45fa-b6fb-f4a52e89b3fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Project_Code/SQL_Commands/V1_prehook_create_schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/SQL_Commands/V2_prehook_create_etl_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/SQL_Commands/dim_fact_prehook.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/data_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/database_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/error_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/error_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/execute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/filehandler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/logging_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/lookups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/main_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/malnourishment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/malnourishment_per_country_2000_2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/panda_transform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/population_per_country.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Code/prehook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/data_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/database_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/error_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/error_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/data_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/database_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/error_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/lookups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/main_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/main_tester.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/misc_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/pandas_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/etl_project_2/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/execute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/filehandler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/logging_handler.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/logging_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/lookups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/main_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/natural_disasters.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/panda_transform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/data_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/database_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/error_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/error_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/execute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/filehandler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/logging_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/lookups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/main_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/temp/panda_transform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/base plan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/sprint4_tickets.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/task10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/tasks_and_epic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/to add datasets.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2XbppS5jS08qsCui8iLr3m0OlNy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
