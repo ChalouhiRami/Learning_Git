@@ -56,9 +56,6 @@ def return_insert_statement_from_df(dataframe, schema_name, table_name, db_sessi
                 values = ', '.join(values_list)
                 insert_statement = f"INSERT INTO {schema_name}.{table_name} ({columns}) VALUES ({values});"
                 insert_statements.append(insert_statement)
-
-        db_session.commit()  
-
     except Exception as error:
         db_session.rollback()   
         print(f"An error occurred: {str(error)}")

@@ -5,7 +5,6 @@ import os
 import glob 
 from datetime import datetime
 
-
 def generate_list_of_csv_sources():
     csv_list = []
     csv_files = glob.glob(os.path.join("C:/Datasets", "*.csv"))
@@ -19,7 +18,6 @@ def create_sql_staging_tables(db_session, csv_list, schema_name):
         table_name = csv_item.replace('\\', '/').split('/')[-1].replace('.csv', '').lower()
         create_statement = data_handler.return_create_statement_from_df(stg_df, schema_name, table_name)
         database_handler.execute_query(db_session, create_statement)
-        data_handler.return_insert_statement_from_df(stg_df, schema_name, table_name, db_session)
 
 def create_etl_watermark(db_session, schema_name, table_name):
     
@@ -48,9 +46,7 @@ def create_etl_watermark(db_session, schema_name, table_name):
         print(f'An error occurred during ETL: {str(error)}')
         
     
-    
-
-
+ 
 def execute(db_session):
     sql_files = glob.glob("**/*.sql")
 
