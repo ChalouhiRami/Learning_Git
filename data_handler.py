@@ -40,7 +40,7 @@ def return_create_statement_from_df(dataframe, schema_name, table_name): # i add
     return create_table_statement
 
 # use a function to return sql insert statement / statement(s) and use execute query from database handler.
-def return_insert_and_ex_statement_from_df(dataframe, schema_name, table_name, db_session):
+def return_insert_statement_from_df(dataframe, schema_name, table_name, db_session):
     columns = ', '.join(dataframe.columns)
     insert_statements = []
 
@@ -56,11 +56,6 @@ def return_insert_and_ex_statement_from_df(dataframe, schema_name, table_name, d
                 values = ', '.join(values_list)
                 insert_statement = f"INSERT INTO {schema_name}.{table_name} ({columns}) VALUES ({values});"
                 insert_statements.append(insert_statement)
-
-                cursor.execute(insert_statement)  
-
-        db_session.commit()  
-
     except Exception as error:
         db_session.rollback()   
         print(f"An error occurred: {str(error)}")
