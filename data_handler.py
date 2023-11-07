@@ -21,7 +21,7 @@ def read_data_as_dataframe(file_type, file_config, db_session = None):
 
 
 
-def return_create_statement_from_df(dataframe, schema_name, table_name): # i added db_session
+def return_create_statement_from_df(dataframe, schema_name, table_name,table_type): # i added db_session
     type_mapping = {
         'int64':'INT',
         'float64':'FLOAT',
@@ -32,6 +32,8 @@ def return_create_statement_from_df(dataframe, schema_name, table_name): # i add
     for column, dtype in dataframe.dtypes.items():
         sql_type = type_mapping.get(str(dtype), 'TEXT')
         fields.append(f"{column} {sql_type}")
+    
+    table_name = f"{table_type}_{table_name}"
     
     create_table_statement = f"CREATE TABLE IF NOT EXISTS {schema_name}.{table_name} ( \n"
     create_table_statement += "ID SERIAL PRIMARY KEY,\n"
