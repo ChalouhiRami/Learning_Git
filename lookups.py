@@ -15,3 +15,4 @@ class HandledType(Enum):
     TIMESTAMP = "timestamp"
     STRING = "string"
     LIST = "list"
+

@@ -6,12 +6,12 @@
     "port_id" : "5433",
 
 
-    "acces_to_water_per_country_2000_2020": "",
-    "avg_temperature_per_city": "",
-    "density_per_city": "",
-    "gdp_per_country": "",
-    "malnourishment_per_country_2000_2020": "",
-    "population_per_country": "",
-    "public_emdat_custom_request_2023-09-26_c0a763a9-967b-4e71-bcb8-6370e2a64281 (4)": "",
+    "share-without-improved-water": "kaggle",
+    "city_temperature": "",
+    "worldcities": "Simplemaps",
+    "UNdata_Export_20231107_205105520": "UNdata",
+    "prevalence-of-undernourishment": "OurWorldInData",
+    "population_per_country": "theworldbank",
+    "public_emdat_custom_request_2023-09-26_c0a763a9-967b-4e71-bcb8-6370e2a64281": "emdat",
     "valuable_country_data": "OECD"
 }

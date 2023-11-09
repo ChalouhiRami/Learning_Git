@@ -2,6 +2,7 @@ import pandas as pd
 import lookups
 from error_handler import log_error, print_error_console
 from database_handler import execute_query
+import json
 
 
 def read_data_as_dataframe(file_type, file_config, db_session = None):
@@ -21,7 +22,11 @@ def read_data_as_dataframe(file_type, file_config, db_session = None):
 
 
 
-def return_create_statement_from_df(dataframe, schema_name, table_name,table_type): # i added db_session
+def return_create_statement_from_df(dataframe, schema_name, table_name,table_type, config_path='config.json'): # i added db_session
+    
+    with open(config_path) as config_file:
+        config_data = json.load(config_file)
+
     type_mapping = {
         'int64':'INT',
         'float64':'FLOAT',
@@ -33,7 +38,9 @@ def return_create_statement_from_df(dataframe, schema_name, table_name,table_typ
         sql_type = type_mapping.get(str(dtype), 'TEXT')
         fields.append(f"{column} {sql_type}")
     
-    table_name = f"{table_type}_{table_name}"
+    table_source = config_data.get(table_name, '')
+
+    table_name = f"{table_type}_{table_name}_{table_source}"
     
     create_table_statement = f"CREATE TABLE IF NOT EXISTS {schema_name}.{table_name} ( \n"
     create_table_statement += "ID SERIAL PRIMARY KEY,\n"
@@ -41,7 +48,6 @@ def return_create_statement_from_df(dataframe, schema_name, table_name,table_typ
     create_table_statement += ");"
     return create_table_statement
 
-# use a function to return sql insert statement / statement(s) and use execute query from database handler.
 def return_insert_statement_from_df(dataframe, schema_name, table_name, db_session):
     columns = ', '.join(dataframe.columns)
     insert_statements = []
