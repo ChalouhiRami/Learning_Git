@@ -6,8 +6,9 @@
     "port_id" : "5433",
 
 
+    "countries": "kaggle",
     "share-without-improved-water": "kaggle",
-    "city_temperature": "",
+    "avg_temparature": "kaggle",
     "worldcities": "Simplemaps",
     "UNdata_Export_20231107_205105520": "UNdata",
     "prevalence-of-undernourishment": "OurWorldInData",

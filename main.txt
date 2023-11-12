@@ -28,6 +28,7 @@ magnitude scale id
 -fct country
 country-id
 year
+population
 percentage of malnourishment
 GDP per year
 percent_pop_without_water

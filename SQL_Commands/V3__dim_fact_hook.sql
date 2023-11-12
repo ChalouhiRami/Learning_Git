@@ -1,16 +1,15 @@
 CREATE TABLE IF NOT EXISTS dim_country (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id SERIAL PRIMARY KEY,
     name VARCHAR(255),
     Code VARCHAR(255),
-    population DECIMAL(20, 2),
+    Capital VARCHAR(255)
 
 );
 
 
  
 CREATE TABLE IF NOT EXISTS dim_city (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    city_id INT,
+    id SERIAL AUTO_INCREMENT PRIMARY KEY,
     name INT,
     population INT,
     country VARCHAR(255),
@@ -18,29 +17,29 @@ CREATE TABLE IF NOT EXISTS dim_city (
 );
 
 CREATE TABLE IF NOT EXISTS dim_disaster (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id SERIAL PRIMARY KEY,
     disaster_subgroup VARCHAR(255),
     disaster_name VARCHAR(255),
 
 );
 
-
  
 CREATE TABLE IF NOT EXISTS dim_magnitude-scale (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id SERIAL PRIMARY KEY,
     type VARCHAR(255)
 );
 
 CREATE TABLE IF NOT EXISTS fct_disaster-magnitude (
-    id INT PRIMARY KEY,
+    id SERIAL PRIMARY KEY,
     disaster_id INT,
     magnitude-scale_id INT
 );
 
 CREATE TABLE IF NOT EXISTS fct_country (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id SERIAL AUTO_INCREMENT PRIMARY KEY,
     country_id INT,
     year INT,
+    population DECIMAL(20, 2),
     perc_malnourishment NUMERIC(10,4),
     GDP_per_year NUMERIC(5,4),
     perc_pop_without_wter NUMERIC(10,4)
@@ -48,7 +47,7 @@ CREATE TABLE IF NOT EXISTS fct_country (
 );
 
 CREATE TABLE IF NOT EXISTS fct_disasters (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id SERIAL AUTO_INCREMENT PRIMARY KEY,
     disaster_id INT,
     country_id INT,
     city_id INT,
