@@ -24,9 +24,6 @@ type
 disaster id
 magnitude scale id
 
---
-la hon wsolot
---
 
 -fct country
 country-id
@@ -34,6 +31,7 @@ year
 percentage of malnourishment
 GDP per year
 percent_pop_without_water
+average-temperature(F)
 
 -fct disasters
 disaster id
@@ -47,7 +45,7 @@ magnitude value   	(here the value can be numeric or other what do i do??)
 
 
 
-???
+??? ma hattayta mush hesesa ela 3aze
 -fct city country
 city id
 country id

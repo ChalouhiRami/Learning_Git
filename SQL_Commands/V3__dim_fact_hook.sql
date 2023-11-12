@@ -44,6 +44,7 @@ CREATE TABLE IF NOT EXISTS fct_country (
     perc_malnourishment NUMERIC(10,4),
     GDP_per_year NUMERIC(5,4),
     perc_pop_without_wter NUMERIC(10,4)
+    avg-temp NUMERIC(10,4)
 );
 
 CREATE TABLE IF NOT EXISTS fct_disasters (
