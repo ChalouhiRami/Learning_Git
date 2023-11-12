@@ -1,0 +1,63 @@
+-dim country
+id 
+name
+population
+code
+
+-dim city
+city id
+name
+population
+country
+
+-dim_disaster(manually with the id and name)
+id
+disaster_name
+disaster_subgroup
+
+-dim_magnitude-scale(manually)
+id 
+type
+
+
+-fct_disaster-magnitude(link l disaster maa el scale tab3oulo)
+disaster id
+magnitude scale id
+
+--
+la hon wsolot
+--
+
+-fct country
+country-id
+year
+percentage of malnourishment
+GDP per year
+percent_pop_without_water
+
+-fct disasters
+disaster id
+country id
+city id
+month 
+year
+OFDA(y/n)
+magnitude-scale id
+magnitude value   	(here the value can be numeric or other what do i do??)
+
+
+
+???
+-fct city country
+city id
+country id
+
+-------------------------------------------------------
+
+agg country
+
+agg city
+
+add disaster
+
+agg yearly country nourishment
