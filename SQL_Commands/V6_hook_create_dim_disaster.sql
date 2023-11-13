@@ -4,7 +4,7 @@ SELECT
     id,
     disaster_subgroup,
     disaster_name
-FROM stg_dim_disaster
+FROM dim_disaster_stg
 ON CONFLICT (id) DO UPDATE SET
     disaster_subgroup = EXCLUDED.disaster_subgroup,
     disaster_name = EXCLUDED.disaster_name;

@@ -5,7 +5,7 @@ population
 code
 
 -dim city
-city id
+id
 name
 population
 country
@@ -21,6 +21,7 @@ type
 
 
 -fct_disaster-magnitude(link l disaster maa el scale tab3oulo)
+id
 disaster id
 magnitude scale id
 
