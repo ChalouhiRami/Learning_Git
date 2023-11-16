@@ -8,10 +8,10 @@
 
     "countries": "kaggle",
     "share-without-improved-water": "kaggle",
-    "avg_temparature": "kaggle",
+    "avg_temperature": "kaggle",
     "worldcities": "Simplemaps",
     "UNdata_Export_20231107_205105520": "UNdata",
-    "prevalence-of-undernourishment": "OurWorldInData",
+    "prevalence_of_undernourishment": "OurWorldInData",
     "population_per_country": "theworldbank",
     "public_emdat_custom_request_2023-09-26_c0a763a9-967b-4e71-bcb8-6370e2a64281": "emdat",
     "valuable_country_data": "OECD"

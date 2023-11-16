@@ -40,15 +40,14 @@ def return_create_statement_from_df(dataframe, schema_name, table_name,table_typ
     
     table_source = config_data.get(table_name, '')
 
-    table_name = f"{table_type}_{table_name}_{table_source}"
+    full_table_name = f"{table_type}_{table_name}_{table_source}"
     
-    create_table_statement = f"CREATE TABLE IF NOT EXISTS {schema_name}.{table_name} ( \n"
+    create_table_statement = f"CREATE TABLE IF NOT EXISTS {schema_name}.{full_table_name} ( \n"
     create_table_statement += "ID SERIAL PRIMARY KEY,\n"
     create_table_statement += ',\n'.join(fields)
     create_table_statement += ");"
-    return create_table_statement
-
-def return_insert_statement_from_df(dataframe, schema_name, table_name, db_session):
+    return full_table_name, create_table_statement
+def return_insert_statement_from_df(dataframe, schema_name, full_table_name, db_session):
     columns = ', '.join(dataframe.columns)
     insert_statements = []
 
@@ -62,7 +61,7 @@ def return_insert_statement_from_df(dataframe, schema_name, table_name, db_sessi
                     values_list.append(f"'{val_str}'")
 
                 values = ', '.join(values_list)
-                insert_statement = f"INSERT INTO {schema_name}.{table_name} ({columns}) VALUES ({values});"
+                insert_statement = f"INSERT INTO {schema_name}.{full_table_name} ({columns}) VALUES ({values});"
                 insert_statements.append(insert_statement)
     except Exception as error:
         db_session.rollback()   
