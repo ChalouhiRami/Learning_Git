@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS dwreporting.fct_disaster_magnitude (
     magnitude_scale_id INT
 );
 
-CREATE TABLE IF NOT EXISTS dwreporting.fct_country (
+CREATE TABLE IF NOT EXISTS dwreporting.fct_country_details (
     id SERIAL PRIMARY KEY,
     country_id INT,
     year INT,
