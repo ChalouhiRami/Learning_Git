@@ -1,6 +1,6 @@
 INSERT INTO dim_city (name, population, country)
 SELECT
-    city_ascii AS name,
+    city AS name,
     population,
     country
 FROM worldcities
