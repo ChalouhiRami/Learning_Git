@@ -1,7 +1,9 @@
 import pandas as pd
 import lookups
 from error_handler import log_error, print_error_console
- 
+import lookups
+import data_handler
+import database_handler
 import json
 
 
@@ -68,9 +70,7 @@ def return_insert_statement_from_df(dataframe, schema_name, full_table_name, db_
         print(f"An error occurred: {str(error)}")
 
     return insert_statements
-import lookups
-import data_handler
-import database_handler
+
 
 def create_table_and_insert_data(db_session, df, sheet_name):
     if df is not None:
