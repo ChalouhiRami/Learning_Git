@@ -27,14 +27,13 @@ CREATE TABLE IF NOT EXISTS dim_city (
     country_id INT, -- from dim_country
 );
 
-CREATE TABLE IF NOT EXISTS dim_disaster (
+CREATE TABLE IF NOT EXISTS dwreporting.dim_disaster (
     id INT PRIMARY KEY,
     disaster_name VARCHAR(255),
     disaster_subgroup VARCHAR(255),
 );
 
- 
-CREATE TABLE IF NOT EXISTS dim_magnitude-scale (
+CREATE TABLE IF NOT EXISTS dwreporting.dim_magnitude_scale (
     id INT PRIMARY KEY,
     type VARCHAR(255)
 );
@@ -55,7 +54,7 @@ CREATE TABLE IF NOT EXISTS fct_subregion (
 
     );
 
-CREATE TABLE IF NOT EXISTS fct_country (
+CREATE TABLE IF NOT EXISTS dwreporting.fct_country_details (
     id SERIAL PRIMARY KEY,
     country_id INT,
     year INT,
@@ -75,7 +74,7 @@ CREATE TABLE IF NOT EXISTS fct_country (
     inland_water NUMERIC(10,4)
 );
 
-CREATE TABLE IF NOT EXISTS fct_disasters (
+CREATE TABLE IF NOT EXISTS dwreporting.fct_disasters (
     id SERIAL PRIMARY KEY,
     disaster_id INT, --foreign key dim_disaster
     country_id INT, --foreign key dim_country
@@ -87,9 +86,3 @@ CREATE TABLE IF NOT EXISTS fct_disasters (
     magnitude_scale_id INT, --foreign key to dim_magnitude_scale
     manitude_value VARCHAR(255),
 );
-
-
-
-
-
-

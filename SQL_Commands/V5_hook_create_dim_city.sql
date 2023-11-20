@@ -16,7 +16,7 @@ $$ LANGUAGE plpgsql;
 -- Insert into dim_city using the get_country_id function
 INSERT INTO dim_city (name, population, country_id)
 SELECT
-    city_ascii AS name,
+    city AS name,
     population,
     get_country_id(country) AS country_id
 FROM worldcities
