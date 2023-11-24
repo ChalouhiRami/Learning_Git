@@ -26,19 +26,37 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
-INSERT INTO dwreporting.dim_country (name, population, code, capital, continent_id, subregion_id)
+INSERT INTO dwreporting.dim_country (name, continent_id, subregion_id, population, code, capital, tree_cover, grassland, wetland, shrubland, sparse_vegetation, cropland, artificial_surfaces, bare_area, inland_water)
 SELECT
     Country_Territory AS name,
+    get_continent_id(Continent) AS continent_id,
+    get_subregion_id(New_Subregion) AS subregion_id,
     Population AS population,
     Code AS code,
     Capital AS capital,
-    get_continent_id(Continent) AS continent_id,
-    get_subregion_id(New_Subregion) AS subregion_id
+    tree_cover,
+    grassland,
+    wetland,
+    shrubland,
+    sparse_vegetation,
+    cropland,
+    artificial_surfaces,
+    bare_area,
+    inland_water
 FROM countries
 ON CONFLICT(name) DO UPDATE
 SET
+    continent_id = excluded.continent_id,
+    subregion_id = excluded.subregion_id,
     population = excluded.population,
     code = excluded.code,
     capital = excluded.capital,
-    continent_id = excluded.continent_id,
-    subregion_id = excluded.subregion_id;
+    tree_cover = excluded.tree_cover,
+    grassland = excluded.grassland,
+    wetland = excluded.wetland,
+    shrubland = excluded.shrubland,
+    sparse_vegetation = excluded.sparse_vegetation,
+    cropland = excluded.cropland,
+    artificial_surfaces = excluded.artificial_surfaces,
+    bare_area = excluded.bare_area,
+    inland_water = excluded.inland_water;
