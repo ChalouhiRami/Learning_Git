@@ -1,46 +1,3 @@
--- Define functions for getting IDs
-CREATE OR REPLACE FUNCTION get_disaster_id(disaster_type VARCHAR)
-RETURNS INT
-AS $$
-DECLARE
-    disaster_id INT;
-BEGIN
-    SELECT id INTO disaster_id
-    FROM dwreporting.dim_disaster
-    WHERE disaster_name = disaster_type;
-
-    RETURN disaster_id;
-END;
-$$ LANGUAGE plpgsql;
-
-CREATE OR REPLACE FUNCTION get_city_id(city_name VARCHAR)
-RETURNS INT
-AS $$
-DECLARE
-    city_id INT;
-BEGIN
-    SELECT id INTO city_id
-    FROM dwreporting.dim_city
-    WHERE name = city_name;
-
-    RETURN city_id;
-END;
-$$ LANGUAGE plpgsql;
-
-CREATE OR REPLACE FUNCTION get_magnitude_scale_id(magnitude_scale VARCHAR)
-RETURNS INT
-AS $$
-DECLARE
-    magnitude_scale_id INT;
-BEGIN
-    SELECT id INTO magnitude_scale_id
-    FROM dwreporting.dim_magnitude_scale
-    WHERE type = magnitude_scale;
-
-    RETURN magnitude_scale_id;
-END;
-$$ LANGUAGE plpgsql;
-
 -- Insert into fct_disasters using functions
 INSERT INTO dwreporting.fct_disasters (
     disaster_id,
@@ -66,4 +23,6 @@ SELECT
     nd.Magnitude AS magnitude_value,
     nd.Total_Affected AS total_affected
 FROM
-    natural_disasters nd;
+    natural_disasters nd
+ON CONFLICT (disaster_id, country_id, city_id, subregion_id, month, year)
+DO NOTHING;

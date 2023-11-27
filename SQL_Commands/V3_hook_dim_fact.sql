@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS dwreporting.dim_subregion (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255),
 );
-
+--
 CREATE TABLE IF NOT EXISTS dwreporting.dim_country (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255),
@@ -25,35 +25,34 @@ CREATE TABLE IF NOT EXISTS dwreporting.dim_country (
     artificial_surfaces NUMERIC(10,4),
     bare_area NUMERIC(10,4),
     inland_water NUMERIC(10,4)
-    
 );
-
+--
 CREATE TABLE IF NOT EXISTS dwreporting.dim_city (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255),
     population INT,
     country_id INT REFERENCES dim_country(id)
 );
-
+--
 CREATE TABLE IF NOT EXISTS dwreporting.dim_disaster (
     id SERIAL PRIMARY KEY,
     disaster_name VARCHAR(255),
     disaster_subgroup VARCHAR(255)
 );
-
+--
 CREATE TABLE IF NOT EXISTS dwreporting.dim_magnitude_scale (
     id SERIAL PRIMARY KEY,
     type VARCHAR(255)
 );
 
---nestaamil function?
+--
 CREATE TABLE IF NOT EXISTS dwreporting.fct_disaster_magnitude (
     id SERIAL PRIMARY KEY,
     disaster_id INT REFERENCES dim_disaster(id),
     magnitude_scale_id INT REFERENCES dim_magnitude_scale(id)
 );
 
---nestaamil function?
+--
 CREATE TABLE IF NOT EXISTS dwreporting.fct_subregion (
     id SERIAL PRIMARY KEY,
     subregion_id INT REFERENCES dim_subregion(id),
@@ -63,7 +62,7 @@ CREATE TABLE IF NOT EXISTS dwreporting.fct_subregion (
     population DECIMAL(20, 2)     --mush am tezbat l insert
 );
 
-
+--
 CREATE TABLE IF NOT EXISTS dwreporting.fct_country_details (
     id SERIAL PRIMARY KEY,
     country_id INT REFERENCES dim_country(id),
@@ -77,8 +76,7 @@ CREATE TABLE IF NOT EXISTS dwreporting.fct_country_details (
 
 );
 
---------------------------------- hon wsolot bil inserts
-
+--
 CREATE TABLE IF NOT EXISTS dwreporting.fct_disasters (
     id SERIAL PRIMARY KEY,
     disaster_id INT REFERENCES dim_disaster(id), --disaster 

@@ -1,12 +1,10 @@
-CREATE TABLE IF NOT EXISTS dwreporting.agg_country_yearly_summary (
+CREATE TABLE IF NOT EXISTS dwreporting.agg_subregion_yearly_summary (
     id SERIAL PRIMARY KEY,
-    country_id INT REFERENCES dim_country(id),
+    subregion_id INT REFERENCES dim_subregion(id),
     year INT,
     total_population DECIMAL(20, 2),
     average_malnourishment NUMERIC(10,4),
-    GDP_per_year NUMERIC(5,4),
     perc_pop_without_water NUMERIC(10,4),
-    avg_temp NUMERIC(10,4),
     total_affected_by_disasters INT,
 
     storm INT,
@@ -25,17 +23,15 @@ CREATE TABLE IF NOT EXISTS dwreporting.agg_country_yearly_summary (
     glacial_lake_outburst_flood INT,
     impact INT,
 
-    total_disasters INT,
+    total_disasters INT
 );
 
-INSERT INTO dwreporting.agg_country_yearly_summary (
-    country_id,
+INSERT INTO dwreporting.agg_subregion_yearly_summary (
+    subregion_id,
     year,
     total_population,
     average_malnourishment,
-    GDP_per_year,
     perc_pop_without_water,
-    avg_temp,
     total_affected_by_disasters,
 
     storm,
@@ -57,13 +53,11 @@ INSERT INTO dwreporting.agg_country_yearly_summary (
     total_disasters
 )
 SELECT
-    dc.id AS country_id,
-    fcd.year,
-    fcd.population AS total_population,
-    fcd.perc_malnourishment AS average_malnourishment,
-    fcd.GDP_per_year AS GDP_per_year,
-    fcd.perc_pop_without_water AS perc_pop_without_water,
-    fcd.avg_temp AS avg_temp,
+    dsr.id AS subregion_id,
+    fcs.year,
+    fcs.population AS total_population,
+    fcs.perc_malnourishment AS average_malnourishment,
+    fcs.perc_pop_without_water AS perc_pop_without_water,
     SUM(fd.total_affected) AS total_affected_by_disasters,
 
     COUNT(fd.id) FILTER (WHERE fd.disaster_name = 'Storm') AS storm,
@@ -82,12 +76,12 @@ SELECT
     COUNT(fd.id) FILTER (WHERE fd.disaster_name = 'Glacial lake outburst flood') AS glacial_lake_outburst_flood,
     COUNT(fd.id) FILTER (WHERE fd.disaster_name = 'Impact') AS impact,
 
-    COUNT(fd.id) AS total_disasters,
+    COUNT(fd.id) AS total_disasters
 FROM
-    dwreporting.fct_country_details fcd
+    dwreporting.fct_subregion fcs
 JOIN
-    dwreporting.dim_country dc ON fcd.country_id = dc.id
+    dwreporting.dim_subregion dsr ON fcs.subregion_id = dsr.id
 LEFT JOIN
-    dwreporting.fct_disasters fd ON fd.country_id = dc.id AND fd.year = fcd.year
+    dwreporting.fct_disasters fd ON fd.subregion_id = dsr.id AND fd.year = fcs.year
 GROUP BY
-    dc.id, fcd.year;
+    dsr.id, fcs.year;
