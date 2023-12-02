@@ -5,8 +5,8 @@ CREATE TABLE IF NOT EXISTS dwreporting.dim_continent (
 
 CREATE TABLE IF NOT EXISTS dwreporting.dim_subregion (
     id INT PRIMARY KEY,
-    name VARCHAR(255),
-    continent VARCHAR(255) REFERENCES dim_continent(id)
+    name VARCHAR(255)
+   
 );
 
 CREATE TABLE IF NOT EXISTS dwreporting.dim_country (
@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS dwreporting.dim_country (
     code VARCHAR(255),
     capital VARCHAR(255),
     continent_id INT REFERENCES dim_continent(id)
+    subregion_id INT REFERENCES dim_subregion(id)
 );
 
 CREATE TABLE IF NOT EXISTS dwreporting.dim_city (
@@ -26,24 +27,24 @@ CREATE TABLE IF NOT EXISTS dwreporting.dim_city (
 );
 
 CREATE TABLE IF NOT EXISTS dwreporting.dim_disaster (
-    id INT PRIMARY KEY,
+    id SERIAL INT PRIMARY KEY,
     disaster_name VARCHAR(255),
     disaster_subgroup VARCHAR(255)
 );
 
 CREATE TABLE IF NOT EXISTS dwreporting.dim_magnitude_scale (
-    id INT PRIMARY KEY,
+    id SERIAL INT PRIMARY KEY,
     type VARCHAR(255)
 );
 
 CREATE TABLE IF NOT EXISTS dwreporting.fct_disaster_magnitude (
-    id INT PRIMARY KEY,
+    id SERIAL INT PRIMARY KEY,
     disaster_id INT REFERENCES dim_disaster(id),
     magnitude_scale_id INT REFERENCES dim_magnitude_scale(id)
 );
 
 CREATE TABLE IF NOT EXISTS dwreporting.fct_subregion (
-    id INT PRIMARY KEY,
+    id SERIAL INT PRIMARY KEY,
     subregion_id INT REFERENCES dim_subregion(id),
     year INT,
     perc_malnourishment NUMERIC(10,4),

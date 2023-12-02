@@ -42,12 +42,31 @@ def close_connection(db_session):
     db_session.close()
 
 
-def execute_query(db_session, sql_query):
+def execute_query(db_session, sql_query, parameters=None):
+    if db_session is not None:
+        cursor = db_session.cursor()
+        try:
+            if parameters is not None:
+                cursor.execute(sql_query, parameters)
+            else:
+                cursor.execute(sql_query)
+            db_session.commit()
+        except Exception as error:
+            prefix = lookups.ErrorHandling.DB_CONNECTION_ERROR.value
+            suffix = str(error)
+            print_error_console(suffix, prefix)
+            log_error(f'An error occurred: {str(error)}')
+        finally:
+            cursor.close()
+    else:
+        print("Error, cannot execute query.")
+
+def execute_query_and_fetch(db_session, sql_query):
     if db_session is not None:
         cursor = db_session.cursor()
         try:
             cursor.execute(sql_query)
-            # Handle the result if needed
+            result = cursor.fetchall()
         except Exception as error:
             prefix = lookups.ErrorHandling.DB_CONNECTION_ERROR.value
             suffix = str(error)
@@ -56,3 +75,4 @@ def execute_query(db_session, sql_query):
          
     else:
         print("Error, cannot execute query.")
+    return result
