@@ -17,6 +17,33 @@
     "world_population":"kaggle",
     "disaster_types":"manual",
     "disaster_magnitude":"manual",
-    "magnitude_scale":"manual"
+    "magnitude_scale":"manual",
+    "staging_tables": {
+        "natural_disasters": {"timestamp_column": "Entry_Date"},
+        "prevalence_of_undernourishment": {"timestamp_column": "Year"},
+        "share_without_improved_water": {"timestamp_column": "Year"},
+        "gdp": {"timestamp_column": "Year"},
+        "avg_temperature": {"timestamp_column": "Year"},  
+        "countries": {"timestamp_column": "last_update"},
+        "worldcities": {"timestamp_column": "last_update"}, 
+        "valuable_country_data": {"timestamp_column": "last_update"},
+        "world_population": {"timestamp_column": "last_update"},
+        "disaster_types": {"timestamp_column": "last_update"},  
+        "disaster_magnitude": {"timestamp_column": "last_update"}, 
+        "magnitude_scale": {"timestamp_column": "last_update"} 
+
+         
+
+
+
+
+
+
+  
+        
+
+        
+       
+      }
     
 }
