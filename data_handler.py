@@ -23,6 +23,14 @@ def read_data_as_dataframe(file_type, file_config, db_session = None):
         log_error(f'An error occurred: {str(error)}')
         return None
 
+def read_sheet_as_dataframe(sheet_info):
+    file_type = sheet_info["type"]
+    file_config_parameter = sheet_info["config"]
+    sheet_name = sheet_info["sheet_name"]
+
+    df = data_handler.read_data_as_dataframe(file_type, file_config_parameter)
+    return df, sheet_name
+
 
 
 def return_create_statement_from_df(dataframe, schema_name, table_name,table_type, config_path='config.json'): # i added db_session
@@ -88,87 +96,59 @@ def return_insert_statement_from_df(dataframe, schema_name, full_table_name, db_
 
     return insert_statements
 
+def read_config(config_path='config.json'):
+    with open(config_path, 'r') as config_file:
+        return json.load(config_file)
+
+def get_timestamp_column(config, table_name):
+    return config['staging_tables'][table_name]['timestamp_column']
+
+def get_last_update_timestamp(db_session, schema_name, watermark_table_name, full_table_name):
+    query = f"""
+        SELECT last_update_timestamp FROM {schema_name}.{watermark_table_name}
+        WHERE table_name = '{full_table_name}';
+    """
+    result = database_handler.execute_query_and_fetch(db_session, query)
+    return result[0][0] if result else None
+
+def insert_records(db_session, statements):
+    for statement in statements:
+        database_handler.execute_query(db_session, statement)
+
+def update_watermark(db_session, schema_name, watermark_table_name, full_table_name):
+    timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    query = f"""
+        INSERT INTO {schema_name}.{watermark_table_name} (last_update_timestamp, table_name)
+        VALUES ('{timestamp}', '{full_table_name}')
+        ON CONFLICT (table_name)
+        DO UPDATE SET last_update_timestamp = EXCLUDED.last_update_timestamp;
+    """
+    database_handler.execute_query(db_session, query)
+
+def create_staging_tables(db_session, df, schema_name, table_name):
+    config = read_config()
+    timestamp_column_name = get_timestamp_column(config, table_name)
+    full_table_name, create_statement = data_handler.return_create_statement_from_df(df, schema_name, table_name, "stg")
+    
+    database_handler.execute_query(db_session, create_statement)
+    
+    timestamp_object = get_last_update_timestamp(db_session, schema_name, "etl_watermark", full_table_name)
+
+    if timestamp_object is not None:
+        new_or_updated_records = df[pd.to_datetime(df[timestamp_column_name]) > pd.to_datetime(timestamp_object)]
+
+        if not new_or_updated_records.empty:
+            insert_statements = data_handler.return_insert_statement_from_df(new_or_updated_records, schema_name, full_table_name, db_session)
+            insert_records(db_session, insert_statements)
+            update_watermark(db_session, schema_name, "etl_watermark", full_table_name)
+        else:
+            print("No new or updated records found.")
+    else:
+        insert_statements = data_handler.return_insert_statement_from_df(df, schema_name, full_table_name, db_session)
+        insert_records(db_session, insert_statements)
+        update_watermark(db_session, schema_name, "etl_watermark", full_table_name)
+
  
-def create_table_and_insert_data(db_session, df, sheet_name, config_path='config.json'):
-    if df is not None:
-        schema_name = "dwreporting"
-        table_name = sheet_name.lower()
-        watermark_table_name = "etl_watermark"
-
-        # Load configuration from config.json
-        with open(config_path, 'r') as config_file:
-            config = json.load(config_file)
-
-        # Get timestamp column for the current sheet from config
-        timestamp_column_name = config['staging_tables'][table_name]['timestamp_column']
-
-        # Convert the 'timestamp_column' in the DataFrame to datetime
-        df[timestamp_column_name] = pd.to_datetime(df[timestamp_column_name], errors='coerce')
-
-        # Create or update the staging table
-        full_table_name, create_statement = data_handler.return_create_statement_from_df(df, schema_name, table_name, "stg", config_path=config_path)
-        database_handler.execute_query(db_session, create_statement)
-
-        # Retrieve last update timestamp from etl_watermark table
-        last_update_query = f"""
-            SELECT last_update_timestamp FROM {schema_name}.{watermark_table_name}
-            WHERE table_name = '{full_table_name}';
-        """
-        last_update_result = database_handler.execute_query_and_fetch(db_session, last_update_query)
-
-        if last_update_result:
-            timestamp_object = last_update_result[0][0]
-
-            # Convert the timestamp to a datetime object if it's an integer
-            formatted_timestamp = timestamp_object.strftime('%Y-%m-%d %H:%M:%S')
-            print(f"Last Update Timestamp: {formatted_timestamp}")
-        else:
-            print("No results returned.")
-            timestamp_object = None
-
-        if timestamp_object is not None:
-            new_or_updated_records = df[df[timestamp_column_name] > timestamp_object]
-
-            if not new_or_updated_records.empty:
-                # Insert new or updated records into the staging table
-                insert_statements = data_handler.return_insert_statement_from_df(new_or_updated_records, schema_name, full_table_name, db_session)
-                for insert_statement in insert_statements:
-                    database_handler.execute_query(db_session, insert_statement)
-
-                # Update the last update timestamp in the etl_watermark table
-                update_watermark_query = f"""
-                    INSERT INTO {schema_name}.{watermark_table_name} (last_update_timestamp, table_name)
-                    VALUES ('{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}', '{full_table_name}')
-                    ON CONFLICT (table_name)
-                    DO UPDATE SET last_update_timestamp = EXCLUDED.last_update_timestamp;
-                """
-                database_handler.execute_query(db_session, update_watermark_query)
-            else:
-                print("No new or updated records found.")
-        else:
-            regular_records = df
-
-            # Insert regular records into the staging table
-            insert_statements = data_handler.return_insert_statement_from_df(regular_records, schema_name, full_table_name, db_session)
-            for insert_statement in insert_statements:
-                database_handler.execute_query(db_session, insert_statement)
-
-            # Update the last update timestamp in the etl_watermark table
-            update_watermark_query = f"""
-                INSERT INTO {schema_name}.{watermark_table_name} (last_update_timestamp, table_name)
-                VALUES ('{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}', '{full_table_name}')
-                ON CONFLICT (table_name)
-                DO UPDATE SET last_update_timestamp = EXCLUDED.last_update_timestamp;
-            """
-            database_handler.execute_query(db_session, update_watermark_query)
-
-def read_sheet_as_dataframe(sheet_info):
-    file_type = sheet_info["type"]
-    file_config_parameter = sheet_info["config"]
-    sheet_name = sheet_info["sheet_name"]
-
-    df = data_handler.read_data_as_dataframe(file_type, file_config_parameter)
-    return df, sheet_name
 
  
 
