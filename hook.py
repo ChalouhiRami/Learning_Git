@@ -9,7 +9,7 @@ def execute(db_session):
          
         file_name = sql_file.split("\\")[-1]
             
-        if "_hook" in file_name:
+        if "__hook" in file_name:
             query = None
             print(file_name)   
             
