@@ -6,6 +6,7 @@ import data_handler
 import database_handler
 import json
 from datetime import datetime
+import numpy as np 
 
 
 def read_data_as_dataframe(file_type, file_config, db_session = None):
@@ -125,30 +126,56 @@ def update_watermark(db_session, schema_name, watermark_table_name, full_table_n
     """
     database_handler.execute_query(db_session, query)
 
+def update_watermark_if_data_exist(db_session, schema_name, watermark_table_name, full_table_name, timestamp):
+     
+    timestamp_as_timestamp = pd.to_datetime(f'{int(timestamp)}-01-01')
+
+    query = f"""
+        INSERT INTO {schema_name}.{watermark_table_name} (last_update_timestamp, table_name)
+        VALUES ('{timestamp_as_timestamp}', '{full_table_name}')
+        ON CONFLICT (table_name)
+        DO UPDATE SET last_update_timestamp = EXCLUDED.last_update_timestamp;
+    """
+    database_handler.execute_query(db_session, query)
+
+ 
+
+  
+
 def create_staging_tables(db_session, df, schema_name, table_name):
     config = read_config()
     timestamp_column_name = get_timestamp_column(config, table_name)
     full_table_name, create_statement = data_handler.return_create_statement_from_df(df, schema_name, table_name, "stg")
-    
+
     database_handler.execute_query(db_session, create_statement)
-    
+
     timestamp_object = get_last_update_timestamp(db_session, schema_name, "etl_watermark", full_table_name)
+    new_or_updated_records = pd.DataFrame()
 
     if timestamp_object is not None:
-        new_or_updated_records = df[pd.to_datetime(df[timestamp_column_name]) > pd.to_datetime(timestamp_object)]
+         
+        timestamp_object = pd.to_datetime(timestamp_object)
+
+        if df[timestamp_column_name].dtype == 'int64':
+           
+         
+            new_or_updated_records = df[df[timestamp_column_name]  > timestamp_object.year]
+        else:
+            new_or_updated_records = df[pd.to_datetime(df[timestamp_column_name]) > timestamp_object]
 
         if not new_or_updated_records.empty:
+            print("table name:", full_table_name, " ", new_or_updated_records.empty)
             insert_statements = data_handler.return_insert_statement_from_df(new_or_updated_records, schema_name, full_table_name, db_session)
             insert_records(db_session, insert_statements)
-            update_watermark(db_session, schema_name, "etl_watermark", full_table_name)
+            timestamp_value = new_or_updated_records[timestamp_column_name].max()
+            update_watermark_if_data_exist(db_session, schema_name, "etl_watermark", full_table_name, timestamp_value)
         else:
             print("No new or updated records found.")
     else:
+        print("none", timestamp_object)
+        print("table name:", full_table_name, " ", new_or_updated_records.empty)
         insert_statements = data_handler.return_insert_statement_from_df(df, schema_name, full_table_name, db_session)
         insert_records(db_session, insert_statements)
         update_watermark(db_session, schema_name, "etl_watermark", full_table_name)
 
  
-
- 
-

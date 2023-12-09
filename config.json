@@ -18,6 +18,7 @@
     "disaster_types":"manual",
     "disaster_magnitude":"manual",
     "magnitude_scale":"manual",
+    "continents":"manual",
     "staging_tables": {
         "natural_disasters": {"timestamp_column": "Entry_Date"},
         "prevalence_of_undernourishment": {"timestamp_column": "Year"},
@@ -30,7 +31,8 @@
         "world_population": {"timestamp_column": "last_update"},
         "disaster_types": {"timestamp_column": "last_update"},  
         "disaster_magnitude": {"timestamp_column": "last_update"}, 
-        "magnitude_scale": {"timestamp_column": "last_update"} 
+        "magnitude_scale": {"timestamp_column": "last_update"} ,
+        "continents" : {"timestamp_column":"last_update"}
 
          
 
