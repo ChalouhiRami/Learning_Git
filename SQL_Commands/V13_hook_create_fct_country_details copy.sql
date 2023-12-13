@@ -30,12 +30,14 @@ SELECT
     get_fct_subregion_id(dsr.name) AS subregion_id,
     pou.Year AS year,
     pou.Prevalence_of_undernourishment_percentage_of_population AS perc_malnourishment,
-    pou.Population AS population,
+    fp.Population AS population,
     gdp.Value AS GDP_per_year,
     siw.Perc_pop_without_water,
     avg_temp.AvgTemperature AS avg_temp
 FROM
     prevalence_of_undernourishment pou
+JOIN 
+    fct_population fp ON pou.Entity = fp.country_name AND pou.Year = fp.year
 JOIN
     dim_subregion dsr ON pou.Entity = dsr.name
 JOIN
@@ -48,7 +50,7 @@ WHERE
     pou.Year BETWEEN 2001 AND 2019
     AND (pou.Code IS NOT NULL AND pou.Code <> '')
     AND (siw.Code IS NOT NULL AND siw.Code <> '')
-ON CONFLICT (subregion_id, country_id, year) DO UPDATE
+ON CONFLICT (country_id, year) DO UPDATE
 SET
     population = EXCLUDED.population,
     perc_malnourishment = EXCLUDED.perc_malnourishment,

@@ -8,3 +8,4 @@ JOIN dwreporting.dim_magnitude_scale ms ON dm.magnitude_scale_id = ms.type
 ON CONFLICT (disaster_id, magnitude_scale_id) 
     disaster_id = EXCLUDED.disaster_id,
     magnitude_scale_id = EXCLUDED.magnitude_scale_id;
+--not working 

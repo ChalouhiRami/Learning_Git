@@ -23,3 +23,23 @@ ON CONFLICT(name) DO UPDATE
 SET
     population = excluded.population,
     country_id = excluded.country_id;
+
+
+
+INSERT INTO dwreporting.dim_city (name, population, country_id)
+SELECT
+    DISTINCT ON (s.city) s.city AS name,
+    s.population,
+    c.id AS country_id
+FROM
+    dwreporting.stg_worldcities_simplemaps s
+LEFT JOIN
+    dwreporting.dim_country c ON s.country = c.name
+ORDER BY
+    s.city, s.population  
+ON CONFLICT(name) DO UPDATE
+SET
+    population = EXCLUDED.population,
+    country_id = EXCLUDED.country_id;
+
+

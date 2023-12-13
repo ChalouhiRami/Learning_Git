@@ -1,3 +1,21 @@
+-- Define the get_city_id function
+CREATE OR REPLACE FUNCTION get_city_id(city_name VARCHAR)
+RETURNS INT
+AS $$
+DECLARE
+    city_id INT;
+BEGIN
+    SELECT id INTO city_id
+    FROM dwreporting.dim_city
+    WHERE name % city_name  -- Using trigram similarity
+    ORDER BY similarity(name, city_name) DESC
+    LIMIT 1;
+
+    RETURN city_id;
+END;
+$$ LANGUAGE plpgsql;
+
+
 -- Insert into fct_disasters using functions
 INSERT INTO dwreporting.fct_disasters (
     disaster_id,
