@@ -34,31 +34,37 @@ def read_sheet_as_dataframe(sheet_info):
 
 
 
-def return_create_statement_from_df(dataframe, schema_name, table_name,table_type, config_path='config.json'): # i added db_session
-    
+import json
+
+def return_create_statement_from_df(dataframe, schema_name, table_name, table_type, config_path='config.json'):
     with open(config_path) as config_file:
         config_data = json.load(config_file)
 
     type_mapping = {
-        'int64':'INT',
-        'float64':'FLOAT',
-        'object':'TEXT',
-        'datetime64[ns]':'TIMESTAMP'
+        'int64': 'BIGINT',  # Change to BIGINT for int64 columns
+        'float64': 'FLOAT',
+        'object': 'TEXT',
+        'datetime64[ns]': 'TIMESTAMP'
     }
+    
     fields = []
     for column, dtype in dataframe.dtypes.items():
-        sql_type = type_mapping.get(str(dtype), 'TEXT')
+        if str(dtype) == 'int64':
+            sql_type = 'BIGINT'
+        else:
+            sql_type = type_mapping.get(str(dtype), 'TEXT')
         fields.append(f"{column} {sql_type}")
     
     table_source = config_data.get(table_name, '')
-
     full_table_name = f"{table_type}_{table_name}_{table_source}"
     
     create_table_statement = f"CREATE TABLE IF NOT EXISTS {schema_name}.{full_table_name} ( \n"
-    create_table_statement += "ID SERIAL PRIMARY KEY,\n"
+    create_table_statement += "ID SERIAL PRIMARY KEY,\n"  # Assuming an ID column
     create_table_statement += ',\n'.join(fields)
     create_table_statement += ");"
+    
     return full_table_name, create_table_statement
+
 import pandas as pd
 import datetime
 
@@ -157,11 +163,10 @@ def create_staging_tables(db_session, df, schema_name, table_name):
         timestamp_object = pd.to_datetime(timestamp_object)
 
         if df[timestamp_column_name].dtype == 'int64':
-           
-         
-            new_or_updated_records = df[df[timestamp_column_name]  > timestamp_object.year]
+          new_or_updated_records = df[df[timestamp_column_name] > timestamp_object.year]
         else:
-            new_or_updated_records = df[pd.to_datetime(df[timestamp_column_name]) > timestamp_object]
+          new_or_updated_records = df[pd.to_datetime(df[timestamp_column_name]) > timestamp_object]
+
 
         if not new_or_updated_records.empty:
             print("table name:", full_table_name, " ", new_or_updated_records.empty)

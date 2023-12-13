@@ -12,20 +12,6 @@ BEGIN
     RETURN country_id;
 END;
 $$ LANGUAGE plpgsql;
-
-INSERT INTO dwreporting.dim_city (name, population, country_id)
-SELECT
-    city AS name,
-    population,
-    get_country_id(country) AS country_id
-FROM worldcities
-ON CONFLICT(name) DO UPDATE
-SET
-    population = excluded.population,
-    country_id = excluded.country_id;
-
-
-
 INSERT INTO dwreporting.dim_city (name, population, country_id)
 SELECT
     DISTINCT ON (s.city) s.city AS name,

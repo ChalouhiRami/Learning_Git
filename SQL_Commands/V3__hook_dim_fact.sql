@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS dwreporting.dim_country (
 
 CREATE TABLE IF NOT EXISTS dwreporting.dim_city (
     id SERIAL PRIMARY KEY,
-    name VARCHAR(255) UNIQUE,
+    name VARCHAR(255) ,
     population INT,
     country_id INT REFERENCES dwreporting.dim_country(id)
 );
@@ -50,8 +50,8 @@ CREATE TABLE IF NOT EXISTS dwreporting.dim_magnitude_scale (
 
 CREATE TABLE IF NOT EXISTS dwreporting.fct_disaster_magnitude (
     id SERIAL PRIMARY KEY,
-    disaster_id INT REFERENCES dwreporting.dim_disaster(id) UNIQUE,
-    magnitude_scale_id INT REFERENCES dwreporting.dim_magnitude_scale(id) UNIQUE
+    disaster_id INT REFERENCES dwreporting.dim_disaster(id)  ,
+    magnitude_scale_id INT REFERENCES dwreporting.dim_magnitude_scale(id) 
 );
 
 ALTER TABLE dwreporting.fct_disaster_magnitude
@@ -65,8 +65,8 @@ UNIQUE (disaster_id, magnitude_scale_id);
     subregion_id INT REFERENCES dwreporting.dim_subregion(id) ,
     year INT ,
     perc_malnourishment NUMERIC(10,4),
-    perc_pop_without_water NUMERIC(10,4),
-    population BIGINT
+    perc_pop_without_water NUMERIC(10,4)
+     
 );
  
 ALTER TABLE dwreporting.fct_subregion
@@ -76,16 +76,16 @@ CREATE table if not EXISTS dwreporting.fct_population(
 
 
   country_name VARCHAR,
-  year VARCHAR,
+  year INT,
   population BIGINT
 
 );
 --
 CREATE TABLE IF NOT EXISTS dwreporting.fct_country_details (
     id SERIAL PRIMARY KEY,
-    country_id INT REFERENCES dwreporting.dim_country(id) UNIQUE,
+    country_id INT REFERENCES dwreporting.dim_country(id)  ,
     subregion_id INT REFERENCES dwreporting.fct_subregion(id),
-    year INT UNIQUE,
+    year INT  ,
     perc_malnourishment NUMERIC(10,4),
     population DECIMAL(20, 2),     --mush am tezbat l insert
     GDP_per_year NUMERIC(5,4),
@@ -106,5 +106,5 @@ CREATE TABLE IF NOT EXISTS dwreporting.fct_disasters (
     OFDA BOOLEAN,
     magnitude_value VARCHAR(255),
     magnitude_scale_id INT REFERENCES dwreporting.dim_magnitude_scale(id),
-    total_affected INT
+    total_affected INT
 );
