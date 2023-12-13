@@ -56,7 +56,7 @@ def return_create_statement_from_df(dataframe, schema_name, table_name, table_ty
         fields.append(f"{column} {sql_type}")
     
     table_source = config_data.get(table_name, '')
-    full_table_name = f"{table_type}{table_name}{table_source}"
+    full_table_name = f"{table_type}_{table_name}_{table_source}"
     
     create_table_statement = f"CREATE TABLE IF NOT EXISTS {schema_name}.{full_table_name} ( \n"
     create_table_statement += "ID SERIAL PRIMARY KEY,\n"  # Assuming an ID column
@@ -163,11 +163,10 @@ def create_staging_tables(db_session, df, schema_name, table_name):
         timestamp_object = pd.to_datetime(timestamp_object)
 
         if df[timestamp_column_name].dtype == 'int64':
-           
-         
-            new_or_updated_records = df[df[timestamp_column_name]  > timestamp_object.year]
+          new_or_updated_records = df[df[timestamp_column_name] > timestamp_object.year]
         else:
-            new_or_updated_records = df[pd.to_datetime(df[timestamp_column_name]) > timestamp_object]
+          new_or_updated_records = df[pd.to_datetime(df[timestamp_column_name]) > timestamp_object]
+
 
         if not new_or_updated_records.empty:
             print("table name:", full_table_name, " ", new_or_updated_records.empty)
