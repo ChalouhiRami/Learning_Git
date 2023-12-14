@@ -1,4 +1,4 @@
--- insert lal population
+--not working . 
 
 CREATE OR REPLACE FUNCTION get_fct_subregion_id(subregion_name VARCHAR)
 RETURNS INT
@@ -17,7 +17,6 @@ $$ LANGUAGE plpgsql;
 
 INSERT INTO dwreporting.fct_country_details (
     country_id,
-    subregion_id,
     year,
     perc_malnourishment,
     population,
@@ -25,35 +24,24 @@ INSERT INTO dwreporting.fct_country_details (
     perc_pop_without_water,
     avg_temp
 )
-SELECT
-    get_country_id(pou.Entity) AS country_id,
-    get_fct_subregion_id(dsr.name) AS subregion_id,
-    pou.Year AS year,
-    pou.Prevalence_of_undernourishment_percentage_of_population AS perc_malnourishment,
-    fp.Population AS population,
-    gdp.Value AS GDP_per_year,
-    siw.Perc_pop_without_water,
-    avg_temp.AvgTemperature AS avg_temp
+SELECT DISTINCT
+    dc.id AS country_id,
+    spou.year,
+    spou.prevalence_of_undernourishment_percentage_of_population AS perc_malnourishment,
+    fp.population AS population,
+    sg.value AS GDP_per_year,
+    sswiw.wat_imp_without AS perc_pop_without_water,
+    satk.avgtemperature AS avg_temp
 FROM
-    prevalence_of_undernourishment pou
-JOIN 
-    fct_population fp ON pou.Entity = fp.country_name AND pou.Year = fp.year
+    "dwreporting"."dim_country" dc
 JOIN
-    dim_subregion dsr ON pou.Entity = dsr.name
+    "dwreporting"."stg_prevalence_of_undernourishment_ourworldindata" spou ON dc.name = spou.entity
 JOIN
-    gdp ON pou.Entity = gdp.Country_or_Area AND pou.Year = gdp.Year
-JOIN
-    avg_temperature avg_temp ON pou.Entity = avg_temp.Country AND pou.Year = avg_temp.Year
-JOIN
-    share_without_improved_water siw ON pou.Entity = siw.Entity
-WHERE
-    pou.Year BETWEEN 2001 AND 2019
-    AND (pou.Code IS NOT NULL AND pou.Code <> '')
-    AND (siw.Code IS NOT NULL AND siw.Code <> '')
-ON CONFLICT (country_id, year) DO UPDATE
-SET
-    population = EXCLUDED.population,
-    perc_malnourishment = EXCLUDED.perc_malnourishment,
-    GDP_per_year = EXCLUDED.GDP_per_year,
-    perc_pop_without_water = EXCLUDED.perc_pop_without_water,
-    avg_temp = EXCLUDED.avg_temp;
+    "dwreporting"."fct_population" fp ON dc.name = fp.country_name AND spou.year::varchar = fp.year
+LEFT JOIN
+    "dwreporting"."stg_gdp_undata" sg ON dc.name = sg.country_or_area AND spou.year = sg.year
+LEFT JOIN
+    "dwreporting"."stg_avg_temperature_kaggle" satk ON dc.name = satk.country AND spou.year = satk.year
+LEFT JOIN
+    "dwreporting"."stg_share_without_improved_water_kaggle" sswiw ON dc.name = sswiw.entity AND spou.year = sswiw.year
+ON CONFLICT (country_id, year) DO NOTHING

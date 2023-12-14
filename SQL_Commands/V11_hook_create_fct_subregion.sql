@@ -6,7 +6,7 @@ DECLARE
 BEGIN
     SELECT id INTO subregion_id
     FROM dwreporting.dim_subregion
-    WHERE name = subregion_name;
+    WHERE "name" = subregion_name;
 
     RETURN subregion_id;
 END;

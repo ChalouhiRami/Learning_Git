@@ -20,6 +20,7 @@
     "magnitude_scale":"manual",
     "continents":"manual",
     "subregions":"manual",
+    "test":"manual",
     "staging_tables": {
         "natural_disasters": {"timestamp_column": "Entry_Date"},
         "prevalence_of_undernourishment": {"timestamp_column": "Year"},
@@ -34,8 +35,10 @@
         "disaster_magnitude": {"timestamp_column": "last_update"}, 
         "magnitude_scale": {"timestamp_column": "last_update"} ,
         "continents" : {"timestamp_column":"last_update"},
-        "subregions": {"timestamp_column":"last_update"}
-       
+        "subregions": {"timestamp_column":"last_update"},
+        "test": {"timestamp_column":"last_update"}
+
+        
       }
     
 }
