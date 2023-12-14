@@ -10,7 +10,7 @@ def execute():
          
         file_name = sql_file.split("\\")[-1]
             
-        if "V3_hook"  in file_name:
+        if "_hook"  in file_name:
             query = None
             print(file_name)   
             

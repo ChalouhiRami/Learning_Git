@@ -12,6 +12,8 @@ BEGIN
     RETURN country_id;
 END;
 $$ LANGUAGE plpgsql;
+
+
 INSERT INTO dwreporting.dim_city (name, population, country_id)
 SELECT
     DISTINCT ON (s.city) s.city AS name,

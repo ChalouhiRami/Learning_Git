@@ -3,10 +3,10 @@ CREATE TABLE IF NOT EXISTS dwreporting.agg_country_yearly_summary (
     name VARCHAR,
     year INT,
     total_population DECIMAL,
-    average_malnourishment NUMERIC ,
-    GDP_per_year NUMERIC ,
-    perc_pop_without_water NUMERIC ,
-    avg_temp NUMERIC ,
+    average_malnourishment NUMERIC,
+    GDP_per_year NUMERIC,
+    perc_pop_without_water NUMERIC,
+    avg_temp NUMERIC,
     total_affected_by_disasters INT,
 
     storm INT,
@@ -56,9 +56,8 @@ INSERT INTO dwreporting.agg_country_yearly_summary (
 
     total_disasters
 )
-
- SELECT
-    dc.name,
+SELECT
+    dc.id AS country_id,
     fcd.year,
     fcd.population as population,
     fcd.perc_malnourishment AS average_malnourishment,
@@ -82,8 +81,9 @@ INSERT INTO dwreporting.agg_country_yearly_summary (
     COUNT(fd.id) FILTER (WHERE fd.disaster_id = 13) AS fog,
     COUNT(fd.id) FILTER (WHERE fd.disaster_id = 14) AS glacial_lake_outburst_flood,
     COUNT(fd.id) FILTER (WHERE fd.disaster_id = 15) AS impact,
-    
+
     COUNT(fd.id) AS total_disasters
+
 FROM
     dwreporting.fct_country_details fcd
 JOIN
@@ -92,7 +92,7 @@ LEFT JOIN
     dwreporting.fct_disasters fd ON fd.country_id = dc.id AND fd.year = fcd.year
 	
 GROUP BY
-    dc.name, fcd.year, fcd.population, fcd.perc_malnourishment, fcd.GDP_per_year, fcd.perc_pop_without_water, fcd.avg_temp
+    dc.id, fcd.year, fcd.population, fcd.perc_malnourishment, fcd.GDP_per_year, fcd.perc_pop_without_water, fcd.avg_temp
 
 ORDER BY
-    dc.name, year;
+    country_id, year;
